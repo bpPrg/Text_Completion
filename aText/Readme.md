@@ -9,7 +9,7 @@ To use this group of snippets
   + Keep first four boxes empty.
   + Press tab for the last box with.
   
-  Note: I have already my snippets for Atom editor. So disabled this group for Atom in aText.
+  Note: I have already my snippets for Atom editor. So disable this group for Atom in aText.
   
   Now whenver we press, tab, the snippet will be auto-completed.
   Voila!
