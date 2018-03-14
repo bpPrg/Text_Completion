@@ -14,13 +14,13 @@ Text Completion In Mac and Google Chrome
   - Works in overleaf.
   - DOES NOT work In Google Doc.
   
-  + Blaze
++ Blaze
   - 3 groups and 10 snippets per group and 2500 characters per snippets.
   - works in overleaf.
   - Works in google doc.
   - Pro version available $2 per month.
   
-  + ProKeys
++ ProKeys
    - DOES NOT work in overleaf.
    - DOES NOT work in google doc.
    - works in gmail (we can set alt space as the hot keys)
