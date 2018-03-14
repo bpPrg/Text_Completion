@@ -1,5 +1,5 @@
 To use this group of snippets
-============================
+==============================
 - Open aText
 - Data > Import data > load_the_given_Latex.csv
 - Click on the Latex Group.
@@ -11,5 +11,5 @@ To use this group of snippets
   
   Note: I have already my snippets for Atom editor. So disable this group for Atom in aText.
   
-  Now whenver we press, tab, the snippet will be auto-completed.
+  Now whenver we press <tab> the snippet will be auto-completed.
   Voila!
