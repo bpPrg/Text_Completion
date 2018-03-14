@@ -1,2125 +1,2125 @@
-tba,  \boldsymbol{a}
-tbb,  \boldsymbol{b}
-tbc,  \boldsymbol{c}
-tbd,  \boldsymbol{d}
-tbe,  \boldsymbol{e}
-tbf,  \boldsymbol{f}
-tbg,  \boldsymbol{g}
-tbh,  \boldsymbol{h}
-tbi,  \boldsymbol{i}
-tbj,  \boldsymbol{j}
-tbk,  \boldsymbol{k}
-tbl,  \boldsymbol{l}
-tbm,  \boldsymbol{m}
-tbn,  \boldsymbol{n}
-tbo,  \boldsymbol{o}
-tbp,  \boldsymbol{p}
-tbq,  \boldsymbol{q}
-tbr,  \boldsymbol{r}
-tbs,  \boldsymbol{s}
-tbt,  \boldsymbol{t}
-tbu,  \boldsymbol{u}
-tbv,  \boldsymbol{v}
-tbw,  \boldsymbol{w}
-tbx,  \boldsymbol{x}
-tby,  \boldsymbol{y}
-tbz,  \boldsymbol{z}
-tbA,  \boldsymbol{A}
-tbB,  \boldsymbol{B}
-tbC,  \boldsymbol{C}
-tbD,  \boldsymbol{D}
-tbE,  \boldsymbol{E}
-tbF,  \boldsymbol{F}
-tbG,  \boldsymbol{G}
-tbH,  \boldsymbol{H}
-tbI,  \boldsymbol{I}
-tbJ,  \boldsymbol{J}
-tbK,  \boldsymbol{K}
-tbL,  \boldsymbol{L}
-tbM,  \boldsymbol{M}
-tbN,  \boldsymbol{N}
-tbO,  \boldsymbol{O}
-tbP,  \boldsymbol{P}
-tbQ,  \boldsymbol{Q}
-tbR,  \boldsymbol{R}
-tbS,  \boldsymbol{S}
-tbT,  \boldsymbol{T}
-tbU,  \boldsymbol{U}
-tbV,  \boldsymbol{V}
-tbW,  \boldsymbol{W}
-tbX,  \boldsymbol{X}
-tbY,  \boldsymbol{Y}
-tbZ,  \boldsymbol{Z}
-xxa,  $a$
-xxb,  $b$
-xxc,  $c$
-xxd,  $d$
-xxe,  $e$
-xxf,  $f$
-xxg,  $g$
-xxh,  $h$
-xxi,  $i$
-xxj,  $j$
-xxk,  $k$
-xxl,  $l$
-xxm,  $m$
-xxn,  $n$
-xxo,  $o$
-xxp,  $p$
-xxq,  $q$
-xxr,  $r$
-xxs,  $s$
-xxt,  $t$
-xxu,  $u$
-xxv,  $v$
-xxw,  $w$
-xxx,  $x$
-xxy,  $y$
-xxz,  $z$
-xxA,  $A$
-xxB,  $B$
-xxC,  $C$
-xxD,  $D$
-xxE,  $E$
-xxF,  $F$
-xxG,  $G$
-xxH,  $H$
-xxI,  $I$
-xxJ,  $J$
-xxK,  $K$
-xxL,  $L$
-xxM,  $M$
-xxN,  $N$
-xxO,  $O$
-xxP,  $P$
-xxQ,  $Q$
-xxR,  $R$
-xxS,  $S$
-xxT,  $T$
-xxU,  $U$
-xxV,  $V$
-xxW,  $W$
-xxX,  $X$
-xxY,  $Y$
-xxZ,  $Z$
-tbax,  $\boldsymbol{a}$
-tbbx,  $\boldsymbol{b}$
-tbcx,  $\boldsymbol{c}$
-tbdx,  $\boldsymbol{d}$
-tbex,  $\boldsymbol{e}$
-tbfx,  $\boldsymbol{f}$
-tbgx,  $\boldsymbol{g}$
-tbhx,  $\boldsymbol{h}$
-tbix,  $\boldsymbol{i}$
-tbjx,  $\boldsymbol{j}$
-tbkx,  $\boldsymbol{k}$
-tblx,  $\boldsymbol{l}$
-tbmx,  $\boldsymbol{m}$
-tbnx,  $\boldsymbol{n}$
-tbox,  $\boldsymbol{o}$
-tbpx,  $\boldsymbol{p}$
-tbqx,  $\boldsymbol{q}$
-tbrx,  $\boldsymbol{r}$
-tbsx,  $\boldsymbol{s}$
-tbtx,  $\boldsymbol{t}$
-tbux,  $\boldsymbol{u}$
-tbvx,  $\boldsymbol{v}$
-tbwx,  $\boldsymbol{w}$
-tbxx,  $\boldsymbol{x}$
-tbyx,  $\boldsymbol{y}$
-tbzx,  $\boldsymbol{z}$
-tbAx,  $\boldsymbol{A}$
-tbBx,  $\boldsymbol{B}$
-tbCx,  $\boldsymbol{C}$
-tbDx,  $\boldsymbol{D}$
-tbEx,  $\boldsymbol{E}$
-tbFx,  $\boldsymbol{F}$
-tbGx,  $\boldsymbol{G}$
-tbHx,  $\boldsymbol{H}$
-tbIx,  $\boldsymbol{I}$
-tbJx,  $\boldsymbol{J}$
-tbKx,  $\boldsymbol{K}$
-tbLx,  $\boldsymbol{L}$
-tbMx,  $\boldsymbol{M}$
-tbNx,  $\boldsymbol{N}$
-tbOx,  $\boldsymbol{O}$
-tbPx,  $\boldsymbol{P}$
-tbQx,  $\boldsymbol{Q}$
-tbRx,  $\boldsymbol{R}$
-tbSx,  $\boldsymbol{S}$
-tbTx,  $\boldsymbol{T}$
-tbUx,  $\boldsymbol{U}$
-tbVx,  $\boldsymbol{V}$
-tbWx,  $\boldsymbol{W}$
-tbXx,  $\boldsymbol{X}$
-tbYx,  $\boldsymbol{Y}$
-tbZx,  $\boldsymbol{Z}$
-xxba,  $\boldsymbol{a}$
-xxbb,  $\boldsymbol{b}$
-xxbc,  $\boldsymbol{c}$
-xxbd,  $\boldsymbol{d}$
-xxbe,  $\boldsymbol{e}$
-xxbf,  $\boldsymbol{f}$
-xxbg,  $\boldsymbol{g}$
-xxbh,  $\boldsymbol{h}$
-xxbi,  $\boldsymbol{i}$
-xxbj,  $\boldsymbol{j}$
-xxbk,  $\boldsymbol{k}$
-xxbl,  $\boldsymbol{l}$
-xxbm,  $\boldsymbol{m}$
-xxbn,  $\boldsymbol{n}$
-xxbo,  $\boldsymbol{o}$
-xxbp,  $\boldsymbol{p}$
-xxbq,  $\boldsymbol{q}$
-xxbr,  $\boldsymbol{r}$
-xxbs,  $\boldsymbol{s}$
-xxbt,  $\boldsymbol{t}$
-xxbu,  $\boldsymbol{u}$
-xxbv,  $\boldsymbol{v}$
-xxbw,  $\boldsymbol{w}$
-xxbx,  $\boldsymbol{x}$
-xxby,  $\boldsymbol{y}$
-xxbz,  $\boldsymbol{z}$
-xxbA,  $\boldsymbol{A}$
-xxbB,  $\boldsymbol{B}$
-xxbC,  $\boldsymbol{C}$
-xxbD,  $\boldsymbol{D}$
-xxbE,  $\boldsymbol{E}$
-xxbF,  $\boldsymbol{F}$
-xxbG,  $\boldsymbol{G}$
-xxbH,  $\boldsymbol{H}$
-xxbI,  $\boldsymbol{I}$
-xxbJ,  $\boldsymbol{J}$
-xxbK,  $\boldsymbol{K}$
-xxbL,  $\boldsymbol{L}$
-xxbM,  $\boldsymbol{M}$
-xxbN,  $\boldsymbol{N}$
-xxbO,  $\boldsymbol{O}$
-xxbP,  $\boldsymbol{P}$
-xxbQ,  $\boldsymbol{Q}$
-xxbR,  $\boldsymbol{R}$
-xxbS,  $\boldsymbol{S}$
-xxbT,  $\boldsymbol{T}$
-xxbU,  $\boldsymbol{U}$
-xxbV,  $\boldsymbol{V}$
-xxbW,  $\boldsymbol{W}$
-xxbX,  $\boldsymbol{X}$
-xxbY,  $\boldsymbol{Y}$
-xxbZ,  $\boldsymbol{Z}$
-say,  \mathscr{A}
-sby,  \mathscr{B}
-scy,  \mathscr{C}
-sdy,  \mathscr{D}
-sey,  \mathscr{E}
-sfy,  \mathscr{F}
-sgy,  \mathscr{G}
-shy,  \mathscr{H}
-siy,  \mathscr{I}
-sjy,  \mathscr{J}
-sky,  \mathscr{K}
-sly,  \mathscr{L}
-smy,  \mathscr{M}
-sny,  \mathscr{N}
-soy,  \mathscr{O}
-spy,  \mathscr{P}
-sqy,  \mathscr{Q}
-sry,  \mathscr{R}
-ssy,  \mathscr{S}
-sty,  \mathscr{T}
-suy,  \mathscr{U}
-svy,  \mathscr{V}
-swy,  \mathscr{W}
-sxy,  \mathscr{X}
-syy,  \mathscr{Y}
-szy,  \mathscr{Z}
-sayx,  $\mathscr{A}$
-sbyx,  $\mathscr{B}$
-scyx,  $\mathscr{C}$
-sdyx,  $\mathscr{D}$
-seyx,  $\mathscr{E}$
-sfyx,  $\mathscr{F}$
-sgyx,  $\mathscr{G}$
-shyx,  $\mathscr{H}$
-siyx,  $\mathscr{I}$
-sjyx,  $\mathscr{J}$
-skyx,  $\mathscr{K}$
-slyx,  $\mathscr{L}$
-smyx,  $\mathscr{M}$
-snyx,  $\mathscr{N}$
-soyx,  $\mathscr{O}$
-spyx,  $\mathscr{P}$
-sqyx,  $\mathscr{Q}$
-sryx,  $\mathscr{R}$
-ssyx,  $\mathscr{S}$
-styx,  $\mathscr{T}$
-suyx,  $\mathscr{U}$
-svyx,  $\mathscr{V}$
-swyx,  $\mathscr{W}$
-sxyx,  $\mathscr{X}$
-syyx,  $\mathscr{Y}$
-szyx,  $\mathscr{Z}$
-a,  \alpha
-b,  \beta
-g,  \gamma
-d,  \delta
-e,  \epsilon
-z,  \zeta
-h,  \eta
-q,  \theta
-i,  \iota
-k,  \kappa
-l,  \lambda
-m,  \mu
-n,  \nu
-x,  \xi
-o,  \omicron
-p,  \pi
-r,  \rho
-s,  \sigma
-t,  \tau
-u,  \upsilon
-f,  \phi
-c,  \chi
-y,  \psi
-w,  \omega
-G,  \Gamma
-D,  \Delta
-Q,  \Theta
-L,  \Lambda
-X,  \Xi
-P,  \Pi
-S,  \Sigma
-F,  \Phi
-Y,  \Psi
-aay,  \langle \alpha \rangle
-aby,  \langle \beta \rangle
-agy,  \langle \gamma \rangle
-ady,  \langle \delta \rangle
-aey,  \langle \epsilon \rangle
-azy,  \langle \zeta \rangle
-ahy,  \langle \eta \rangle
-aqy,  \langle \theta \rangle
-aiy,  \langle \iota \rangle
-aky,  \langle \kappa \rangle
-aly,  \langle \lambda \rangle
-amy,  \langle \mu \rangle
-any,  \langle \nu \rangle
-axy,  \langle \xi \rangle
-aoy,  \langle \omicron \rangle
-apy,  \langle \pi \rangle
-ary,  \langle \rho \rangle
-asy,  \langle \sigma \rangle
-aty,  \langle \tau \rangle
-auy,  \langle \upsilon \rangle
-afy,  \langle \phi \rangle
-acy,  \langle \chi \rangle
-ayy,  \langle \psi \rangle
-awy,  \langle \omega \rangle
-aGy,  \langle \Gamma \rangle
-aDy,  \langle \Delta \rangle
-aQy,  \langle \Theta \rangle
-aLy,  \langle \Lambda \rangle
-aXy,  \langle \Xi \rangle
-aPy,  \langle \Pi \rangle
-aSy,  \langle \Sigma \rangle
-aFy,  \langle \Phi \rangle
-aYy,  \langle \Psi \rangle
-bay,  \boldsymbol{\alpha}
-bby,  \boldsymbol{\beta}
-bgy,  \boldsymbol{\gamma}
-bdy,  \boldsymbol{\delta}
-bey,  \boldsymbol{\epsilon}
-bzy,  \boldsymbol{\zeta}
-bhy,  \boldsymbol{\eta}
-bqy,  \boldsymbol{\theta}
-biy,  \boldsymbol{\iota}
-bky,  \boldsymbol{\kappa}
-bly,  \boldsymbol{\lambda}
-bmy,  \boldsymbol{\mu}
-bny,  \boldsymbol{\nu}
-bxy,  \boldsymbol{\xi}
-boy,  \boldsymbol{\omicron}
-bpy,  \boldsymbol{\pi}
-bry,  \boldsymbol{\rho}
-bsy,  \boldsymbol{\sigma}
-bty,  \boldsymbol{\tau}
-buy,  \boldsymbol{\upsilon}
-bfy,  \boldsymbol{\phi}
-bcy,  \boldsymbol{\chi}
-byy,  \boldsymbol{\psi}
-bwy,  \boldsymbol{\omega}
-bGy,  \boldsymbol{\Gamma}
-bDy,  \boldsymbol{\Delta}
-bQy,  \boldsymbol{\Theta}
-bLy,  \boldsymbol{\Lambda}
-bXy,  \boldsymbol{\Xi}
-bPy,  \boldsymbol{\Pi}
-bSy,  \boldsymbol{\Sigma}
-bFy,  \boldsymbol{\Phi}
-bYy,  \boldsymbol{\Psi}
-pay,  \partial{\alpha}
-pby,  \partial{\beta}
-pgy,  \partial{\gamma}
-pdy,  \partial{\delta}
-pey,  \partial{\epsilon}
-pzy,  \partial{\zeta}
-phy,  \partial{\eta}
-pqy,  \partial{\theta}
-piy,  \partial{\iota}
-pky,  \partial{\kappa}
-ply,  \partial{\lambda}
-pmy,  \partial{\mu}
-pny,  \partial{\nu}
-pxy,  \partial{\xi}
-poy,  \partial{\omicron}
-ppy,  \partial{\pi}
-pry,  \partial{\rho}
-psy,  \partial{\sigma}
-pty,  \partial{\tau}
-puy,  \partial{\upsilon}
-pfy,  \partial{\phi}
-pcy,  \partial{\chi}
-pyy,  \partial{\psi}
-pwy,  \partial{\omega}
-pGy,  \partial{\Gamma}
-pDy,  \partial{\Delta}
-pQy,  \partial{\Theta}
-pLy,  \partial{\Lambda}
-pXy,  \partial{\Xi}
-pPy,  \partial{\Pi}
-pSy,  \partial{\Sigma}
-pFy,  \partial{\Phi}
-pYy,  \partial{\Psi}
-aaby,  \langle\boldsymbol{\alpha}\rangle
-abby,  \langle\boldsymbol{\beta}\rangle
-agby,  \langle\boldsymbol{\gamma}\rangle
-adby,  \langle\boldsymbol{\delta}\rangle
-aeby,  \langle\boldsymbol{\epsilon}\rangle
-azby,  \langle\boldsymbol{\zeta}\rangle
-ahby,  \langle\boldsymbol{\eta}\rangle
-aqby,  \langle\boldsymbol{\theta}\rangle
-aiby,  \langle\boldsymbol{\iota}\rangle
-akby,  \langle\boldsymbol{\kappa}\rangle
-alby,  \langle\boldsymbol{\lambda}\rangle
-amby,  \langle\boldsymbol{\mu}\rangle
-anby,  \langle\boldsymbol{\nu}\rangle
-axby,  \langle\boldsymbol{\xi}\rangle
-aoby,  \langle\boldsymbol{\omicron}\rangle
-apby,  \langle\boldsymbol{\pi}\rangle
-arby,  \langle\boldsymbol{\rho}\rangle
-asby,  \langle\boldsymbol{\sigma}\rangle
-atby,  \langle\boldsymbol{\tau}\rangle
-auby,  \langle\boldsymbol{\upsilon}\rangle
-afby,  \langle\boldsymbol{\phi}\rangle
-acby,  \langle\boldsymbol{\chi}\rangle
-ayby,  \langle\boldsymbol{\psi}\rangle
-awby,  \langle\boldsymbol{\omega}\rangle
-aGby,  \langle\boldsymbol{\Gamma}\rangle
-aDby,  \langle\boldsymbol{\Delta}\rangle
-aQby,  \langle\boldsymbol{\Theta}\rangle
-aLby,  \langle\boldsymbol{\Lambda}\rangle
-aXby,  \langle\boldsymbol{\Xi}\rangle
-aPby,  \langle\boldsymbol{\Pi}\rangle
-aSby,  \langle\boldsymbol{\Sigma}\rangle
-aFby,  \langle\boldsymbol{\Phi}\rangle
-aYby,  \langle\boldsymbol{\Psi}\rangle
-paby,  \partial\boldsymbol{\alpha}
-pbby,  \partial\boldsymbol{\beta}
-pgby,  \partial\boldsymbol{\gamma}
-pdby,  \partial\boldsymbol{\delta}
-peby,  \partial\boldsymbol{\epsilon}
-pzby,  \partial\boldsymbol{\zeta}
-phby,  \partial\boldsymbol{\eta}
-pqby,  \partial\boldsymbol{\theta}
-piby,  \partial\boldsymbol{\iota}
-pkby,  \partial\boldsymbol{\kappa}
-plby,  \partial\boldsymbol{\lambda}
-pmby,  \partial\boldsymbol{\mu}
-pnby,  \partial\boldsymbol{\nu}
-pxby,  \partial\boldsymbol{\xi}
-poby,  \partial\boldsymbol{\omicron}
-ppby,  \partial\boldsymbol{\pi}
-prby,  \partial\boldsymbol{\rho}
-psby,  \partial\boldsymbol{\sigma}
-ptby,  \partial\boldsymbol{\tau}
-puby,  \partial\boldsymbol{\upsilon}
-pfby,  \partial\boldsymbol{\phi}
-pcby,  \partial\boldsymbol{\chi}
-pyby,  \partial\boldsymbol{\psi}
-pwby,  \partial\boldsymbol{\omega}
-pGby,  \partial\boldsymbol{\Gamma}
-pDby,  \partial\boldsymbol{\Delta}
-pQby,  \partial\boldsymbol{\Theta}
-pLby,  \partial\boldsymbol{\Lambda}
-pXby,  \partial\boldsymbol{\Xi}
-pPby,  \partial\boldsymbol{\Pi}
-pSby,  \partial\boldsymbol{\Sigma}
-pFby,  \partial\boldsymbol{\Phi}
-pYby,  \partial\boldsymbol{\Psi}
-ax,  $\alpha$
-bx,  $\beta$
-gx,  $\gamma$
-dx,  $\delta$
-ex,  $\epsilon$
-zx,  $\zeta$
-hx,  $\eta$
-qx,  $\theta$
-ix,  $\iota$
-kx,  $\kappa$
-lx,  $\lambda$
-mx,  $\mu$
-nx,  $\nu$
-xx,  $\xi$
-ox,  $\omicron$
-px,  $\pi$
-rx,  $\rho$
-sx,  $\sigma$
-tx,  $\tau$
-ux,  $\upsilon$
-fx,  $\phi$
-cx,  $\chi$
-yx,  $\psi$
-wx,  $\omega$
-Gx,  $\Gamma$
-Dx,  $\Delta$
-Qx,  $\Theta$
-Lx,  $\Lambda$
-Xx,  $\Xi$
-Px,  $\Pi$
-Sx,  $\Sigma$
-Fx,  $\Phi$
-Yx,  $\Psi$
-aayx,  $\langle\alpha\rangle$
-abyx,  $\langle\beta\rangle$
-agyx,  $\langle\gamma\rangle$
-adyx,  $\langle\delta\rangle$
-aeyx,  $\langle\epsilon\rangle$
-azyx,  $\langle\zeta\rangle$
-ahyx,  $\langle\eta\rangle$
-aqyx,  $\langle\theta\rangle$
-aiyx,  $\langle\iota\rangle$
-akyx,  $\langle\kappa\rangle$
-alyx,  $\langle\lambda\rangle$
-amyx,  $\langle\mu\rangle$
-anyx,  $\langle\nu\rangle$
-axyx,  $\langle\xi\rangle$
-aoyx,  $\langle\omicron\rangle$
-apyx,  $\langle\pi\rangle$
-aryx,  $\langle\rho\rangle$
-asyx,  $\langle\sigma\rangle$
-atyx,  $\langle\tau\rangle$
-auyx,  $\langle\upsilon\rangle$
-afyx,  $\langle\phi\rangle$
-acyx,  $\langle\chi\rangle$
-ayyx,  $\langle\psi\rangle$
-awyx,  $\langle\omega\rangle$
-aGyx,  $\langle\Gamma\rangle$
-aDyx,  $\langle\Delta\rangle$
-aQyx,  $\langle\Theta\rangle$
-aLyx,  $\langle\Lambda\rangle$
-aXyx,  $\langle\Xi\rangle$
-aPyx,  $\langle\Pi\rangle$
-aSyx,  $\langle\Sigma\rangle$
-aFyx,  $\langle\Phi\rangle$
-aYyx,  $\langle\Psi\rangle$
+tba,\boldsymbol{a}
+tbb,\boldsymbol{b}
+tbc,\boldsymbol{c}
+tbd,\boldsymbol{d}
+tbe,\boldsymbol{e}
+tbf,\boldsymbol{f}
+tbg,\boldsymbol{g}
+tbh,\boldsymbol{h}
+tbi,\boldsymbol{i}
+tbj,\boldsymbol{j}
+tbk,\boldsymbol{k}
+tbl,\boldsymbol{l}
+tbm,\boldsymbol{m}
+tbn,\boldsymbol{n}
+tbo,\boldsymbol{o}
+tbp,\boldsymbol{p}
+tbq,\boldsymbol{q}
+tbr,\boldsymbol{r}
+tbs,\boldsymbol{s}
+tbt,\boldsymbol{t}
+tbu,\boldsymbol{u}
+tbv,\boldsymbol{v}
+tbw,\boldsymbol{w}
+tbx,\boldsymbol{x}
+tby,\boldsymbol{y}
+tbz,\boldsymbol{z}
+tbA,\boldsymbol{A}
+tbB,\boldsymbol{B}
+tbC,\boldsymbol{C}
+tbD,\boldsymbol{D}
+tbE,\boldsymbol{E}
+tbF,\boldsymbol{F}
+tbG,\boldsymbol{G}
+tbH,\boldsymbol{H}
+tbI,\boldsymbol{I}
+tbJ,\boldsymbol{J}
+tbK,\boldsymbol{K}
+tbL,\boldsymbol{L}
+tbM,\boldsymbol{M}
+tbN,\boldsymbol{N}
+tbO,\boldsymbol{O}
+tbP,\boldsymbol{P}
+tbQ,\boldsymbol{Q}
+tbR,\boldsymbol{R}
+tbS,\boldsymbol{S}
+tbT,\boldsymbol{T}
+tbU,\boldsymbol{U}
+tbV,\boldsymbol{V}
+tbW,\boldsymbol{W}
+tbX,\boldsymbol{X}
+tbY,\boldsymbol{Y}
+tbZ,\boldsymbol{Z}
+xxa,$a$
+xxb,$b$
+xxc,$c$
+xxd,$d$
+xxe,$e$
+xxf,$f$
+xxg,$g$
+xxh,$h$
+xxi,$i$
+xxj,$j$
+xxk,$k$
+xxl,$l$
+xxm,$m$
+xxn,$n$
+xxo,$o$
+xxp,$p$
+xxq,$q$
+xxr,$r$
+xxs,$s$
+xxt,$t$
+xxu,$u$
+xxv,$v$
+xxw,$w$
+xxx,$x$
+xxy,$y$
+xxz,$z$
+xxA,$A$
+xxB,$B$
+xxC,$C$
+xxD,$D$
+xxE,$E$
+xxF,$F$
+xxG,$G$
+xxH,$H$
+xxI,$I$
+xxJ,$J$
+xxK,$K$
+xxL,$L$
+xxM,$M$
+xxN,$N$
+xxO,$O$
+xxP,$P$
+xxQ,$Q$
+xxR,$R$
+xxS,$S$
+xxT,$T$
+xxU,$U$
+xxV,$V$
+xxW,$W$
+xxX,$X$
+xxY,$Y$
+xxZ,$Z$
+tbax,$\boldsymbol{a}$
+tbbx,$\boldsymbol{b}$
+tbcx,$\boldsymbol{c}$
+tbdx,$\boldsymbol{d}$
+tbex,$\boldsymbol{e}$
+tbfx,$\boldsymbol{f}$
+tbgx,$\boldsymbol{g}$
+tbhx,$\boldsymbol{h}$
+tbix,$\boldsymbol{i}$
+tbjx,$\boldsymbol{j}$
+tbkx,$\boldsymbol{k}$
+tblx,$\boldsymbol{l}$
+tbmx,$\boldsymbol{m}$
+tbnx,$\boldsymbol{n}$
+tbox,$\boldsymbol{o}$
+tbpx,$\boldsymbol{p}$
+tbqx,$\boldsymbol{q}$
+tbrx,$\boldsymbol{r}$
+tbsx,$\boldsymbol{s}$
+tbtx,$\boldsymbol{t}$
+tbux,$\boldsymbol{u}$
+tbvx,$\boldsymbol{v}$
+tbwx,$\boldsymbol{w}$
+tbxx,$\boldsymbol{x}$
+tbyx,$\boldsymbol{y}$
+tbzx,$\boldsymbol{z}$
+tbAx,$\boldsymbol{A}$
+tbBx,$\boldsymbol{B}$
+tbCx,$\boldsymbol{C}$
+tbDx,$\boldsymbol{D}$
+tbEx,$\boldsymbol{E}$
+tbFx,$\boldsymbol{F}$
+tbGx,$\boldsymbol{G}$
+tbHx,$\boldsymbol{H}$
+tbIx,$\boldsymbol{I}$
+tbJx,$\boldsymbol{J}$
+tbKx,$\boldsymbol{K}$
+tbLx,$\boldsymbol{L}$
+tbMx,$\boldsymbol{M}$
+tbNx,$\boldsymbol{N}$
+tbOx,$\boldsymbol{O}$
+tbPx,$\boldsymbol{P}$
+tbQx,$\boldsymbol{Q}$
+tbRx,$\boldsymbol{R}$
+tbSx,$\boldsymbol{S}$
+tbTx,$\boldsymbol{T}$
+tbUx,$\boldsymbol{U}$
+tbVx,$\boldsymbol{V}$
+tbWx,$\boldsymbol{W}$
+tbXx,$\boldsymbol{X}$
+tbYx,$\boldsymbol{Y}$
+tbZx,$\boldsymbol{Z}$
+xxba,$\boldsymbol{a}$
+xxbb,$\boldsymbol{b}$
+xxbc,$\boldsymbol{c}$
+xxbd,$\boldsymbol{d}$
+xxbe,$\boldsymbol{e}$
+xxbf,$\boldsymbol{f}$
+xxbg,$\boldsymbol{g}$
+xxbh,$\boldsymbol{h}$
+xxbi,$\boldsymbol{i}$
+xxbj,$\boldsymbol{j}$
+xxbk,$\boldsymbol{k}$
+xxbl,$\boldsymbol{l}$
+xxbm,$\boldsymbol{m}$
+xxbn,$\boldsymbol{n}$
+xxbo,$\boldsymbol{o}$
+xxbp,$\boldsymbol{p}$
+xxbq,$\boldsymbol{q}$
+xxbr,$\boldsymbol{r}$
+xxbs,$\boldsymbol{s}$
+xxbt,$\boldsymbol{t}$
+xxbu,$\boldsymbol{u}$
+xxbv,$\boldsymbol{v}$
+xxbw,$\boldsymbol{w}$
+xxbx,$\boldsymbol{x}$
+xxby,$\boldsymbol{y}$
+xxbz,$\boldsymbol{z}$
+xxbA,$\boldsymbol{A}$
+xxbB,$\boldsymbol{B}$
+xxbC,$\boldsymbol{C}$
+xxbD,$\boldsymbol{D}$
+xxbE,$\boldsymbol{E}$
+xxbF,$\boldsymbol{F}$
+xxbG,$\boldsymbol{G}$
+xxbH,$\boldsymbol{H}$
+xxbI,$\boldsymbol{I}$
+xxbJ,$\boldsymbol{J}$
+xxbK,$\boldsymbol{K}$
+xxbL,$\boldsymbol{L}$
+xxbM,$\boldsymbol{M}$
+xxbN,$\boldsymbol{N}$
+xxbO,$\boldsymbol{O}$
+xxbP,$\boldsymbol{P}$
+xxbQ,$\boldsymbol{Q}$
+xxbR,$\boldsymbol{R}$
+xxbS,$\boldsymbol{S}$
+xxbT,$\boldsymbol{T}$
+xxbU,$\boldsymbol{U}$
+xxbV,$\boldsymbol{V}$
+xxbW,$\boldsymbol{W}$
+xxbX,$\boldsymbol{X}$
+xxbY,$\boldsymbol{Y}$
+xxbZ,$\boldsymbol{Z}$
+say,\mathscr{A}
+sby,\mathscr{B}
+scy,\mathscr{C}
+sdy,\mathscr{D}
+sey,\mathscr{E}
+sfy,\mathscr{F}
+sgy,\mathscr{G}
+shy,\mathscr{H}
+siy,\mathscr{I}
+sjy,\mathscr{J}
+sky,\mathscr{K}
+sly,\mathscr{L}
+smy,\mathscr{M}
+sny,\mathscr{N}
+soy,\mathscr{O}
+spy,\mathscr{P}
+sqy,\mathscr{Q}
+sry,\mathscr{R}
+ssy,\mathscr{S}
+sty,\mathscr{T}
+suy,\mathscr{U}
+svy,\mathscr{V}
+swy,\mathscr{W}
+sxy,\mathscr{X}
+syy,\mathscr{Y}
+szy,\mathscr{Z}
+sayx,$\mathscr{A}$
+sbyx,$\mathscr{B}$
+scyx,$\mathscr{C}$
+sdyx,$\mathscr{D}$
+seyx,$\mathscr{E}$
+sfyx,$\mathscr{F}$
+sgyx,$\mathscr{G}$
+shyx,$\mathscr{H}$
+siyx,$\mathscr{I}$
+sjyx,$\mathscr{J}$
+skyx,$\mathscr{K}$
+slyx,$\mathscr{L}$
+smyx,$\mathscr{M}$
+snyx,$\mathscr{N}$
+soyx,$\mathscr{O}$
+spyx,$\mathscr{P}$
+sqyx,$\mathscr{Q}$
+sryx,$\mathscr{R}$
+ssyx,$\mathscr{S}$
+styx,$\mathscr{T}$
+suyx,$\mathscr{U}$
+svyx,$\mathscr{V}$
+swyx,$\mathscr{W}$
+sxyx,$\mathscr{X}$
+syyx,$\mathscr{Y}$
+szyx,$\mathscr{Z}$
+a,\alpha
+b,\beta
+g,\gamma
+d,\delta
+e,\epsilon
+z,\zeta
+h,\eta
+q,\theta
+i,\iota
+k,\kappa
+l,\lambda
+m,\mu
+n,\nu
+x,\xi
+o,\omicron
+p,\pi
+r,\rho
+s,\sigma
+t,\tau
+u,\upsilon
+f,\phi
+c,\chi
+y,\psi
+w,\omega
+G,\Gamma
+D,\Delta
+Q,\Theta
+L,\Lambda
+X,\Xi
+P,\Pi
+S,\Sigma
+F,\Phi
+Y,\Psi
+aay,\langle \alpha \rangle
+aby,\langle \beta \rangle
+agy,\langle \gamma \rangle
+ady,\langle \delta \rangle
+aey,\langle \epsilon \rangle
+azy,\langle \zeta \rangle
+ahy,\langle \eta \rangle
+aqy,\langle \theta \rangle
+aiy,\langle \iota \rangle
+aky,\langle \kappa \rangle
+aly,\langle \lambda \rangle
+amy,\langle \mu \rangle
+any,\langle \nu \rangle
+axy,\langle \xi \rangle
+aoy,\langle \omicron \rangle
+apy,\langle \pi \rangle
+ary,\langle \rho \rangle
+asy,\langle \sigma \rangle
+aty,\langle \tau \rangle
+auy,\langle \upsilon \rangle
+afy,\langle \phi \rangle
+acy,\langle \chi \rangle
+ayy,\langle \psi \rangle
+awy,\langle \omega \rangle
+aGy,\langle \Gamma \rangle
+aDy,\langle \Delta \rangle
+aQy,\langle \Theta \rangle
+aLy,\langle \Lambda \rangle
+aXy,\langle \Xi \rangle
+aPy,\langle \Pi \rangle
+aSy,\langle \Sigma \rangle
+aFy,\langle \Phi \rangle
+aYy,\langle \Psi \rangle
+bay,\boldsymbol{\alpha}
+bby,\boldsymbol{\beta}
+bgy,\boldsymbol{\gamma}
+bdy,\boldsymbol{\delta}
+bey,\boldsymbol{\epsilon}
+bzy,\boldsymbol{\zeta}
+bhy,\boldsymbol{\eta}
+bqy,\boldsymbol{\theta}
+biy,\boldsymbol{\iota}
+bky,\boldsymbol{\kappa}
+bly,\boldsymbol{\lambda}
+bmy,\boldsymbol{\mu}
+bny,\boldsymbol{\nu}
+bxy,\boldsymbol{\xi}
+boy,\boldsymbol{\omicron}
+bpy,\boldsymbol{\pi}
+bry,\boldsymbol{\rho}
+bsy,\boldsymbol{\sigma}
+bty,\boldsymbol{\tau}
+buy,\boldsymbol{\upsilon}
+bfy,\boldsymbol{\phi}
+bcy,\boldsymbol{\chi}
+byy,\boldsymbol{\psi}
+bwy,\boldsymbol{\omega}
+bGy,\boldsymbol{\Gamma}
+bDy,\boldsymbol{\Delta}
+bQy,\boldsymbol{\Theta}
+bLy,\boldsymbol{\Lambda}
+bXy,\boldsymbol{\Xi}
+bPy,\boldsymbol{\Pi}
+bSy,\boldsymbol{\Sigma}
+bFy,\boldsymbol{\Phi}
+bYy,\boldsymbol{\Psi}
+pay,\partial{\alpha}
+pby,\partial{\beta}
+pgy,\partial{\gamma}
+pdy,\partial{\delta}
+pey,\partial{\epsilon}
+pzy,\partial{\zeta}
+phy,\partial{\eta}
+pqy,\partial{\theta}
+piy,\partial{\iota}
+pky,\partial{\kappa}
+ply,\partial{\lambda}
+pmy,\partial{\mu}
+pny,\partial{\nu}
+pxy,\partial{\xi}
+poy,\partial{\omicron}
+ppy,\partial{\pi}
+pry,\partial{\rho}
+psy,\partial{\sigma}
+pty,\partial{\tau}
+puy,\partial{\upsilon}
+pfy,\partial{\phi}
+pcy,\partial{\chi}
+pyy,\partial{\psi}
+pwy,\partial{\omega}
+pGy,\partial{\Gamma}
+pDy,\partial{\Delta}
+pQy,\partial{\Theta}
+pLy,\partial{\Lambda}
+pXy,\partial{\Xi}
+pPy,\partial{\Pi}
+pSy,\partial{\Sigma}
+pFy,\partial{\Phi}
+pYy,\partial{\Psi}
+aaby,\langle\boldsymbol{\alpha}\rangle
+abby,\langle\boldsymbol{\beta}\rangle
+agby,\langle\boldsymbol{\gamma}\rangle
+adby,\langle\boldsymbol{\delta}\rangle
+aeby,\langle\boldsymbol{\epsilon}\rangle
+azby,\langle\boldsymbol{\zeta}\rangle
+ahby,\langle\boldsymbol{\eta}\rangle
+aqby,\langle\boldsymbol{\theta}\rangle
+aiby,\langle\boldsymbol{\iota}\rangle
+akby,\langle\boldsymbol{\kappa}\rangle
+alby,\langle\boldsymbol{\lambda}\rangle
+amby,\langle\boldsymbol{\mu}\rangle
+anby,\langle\boldsymbol{\nu}\rangle
+axby,\langle\boldsymbol{\xi}\rangle
+aoby,\langle\boldsymbol{\omicron}\rangle
+apby,\langle\boldsymbol{\pi}\rangle
+arby,\langle\boldsymbol{\rho}\rangle
+asby,\langle\boldsymbol{\sigma}\rangle
+atby,\langle\boldsymbol{\tau}\rangle
+auby,\langle\boldsymbol{\upsilon}\rangle
+afby,\langle\boldsymbol{\phi}\rangle
+acby,\langle\boldsymbol{\chi}\rangle
+ayby,\langle\boldsymbol{\psi}\rangle
+awby,\langle\boldsymbol{\omega}\rangle
+aGby,\langle\boldsymbol{\Gamma}\rangle
+aDby,\langle\boldsymbol{\Delta}\rangle
+aQby,\langle\boldsymbol{\Theta}\rangle
+aLby,\langle\boldsymbol{\Lambda}\rangle
+aXby,\langle\boldsymbol{\Xi}\rangle
+aPby,\langle\boldsymbol{\Pi}\rangle
+aSby,\langle\boldsymbol{\Sigma}\rangle
+aFby,\langle\boldsymbol{\Phi}\rangle
+aYby,\langle\boldsymbol{\Psi}\rangle
+paby,\partial\boldsymbol{\alpha}
+pbby,\partial\boldsymbol{\beta}
+pgby,\partial\boldsymbol{\gamma}
+pdby,\partial\boldsymbol{\delta}
+peby,\partial\boldsymbol{\epsilon}
+pzby,\partial\boldsymbol{\zeta}
+phby,\partial\boldsymbol{\eta}
+pqby,\partial\boldsymbol{\theta}
+piby,\partial\boldsymbol{\iota}
+pkby,\partial\boldsymbol{\kappa}
+plby,\partial\boldsymbol{\lambda}
+pmby,\partial\boldsymbol{\mu}
+pnby,\partial\boldsymbol{\nu}
+pxby,\partial\boldsymbol{\xi}
+poby,\partial\boldsymbol{\omicron}
+ppby,\partial\boldsymbol{\pi}
+prby,\partial\boldsymbol{\rho}
+psby,\partial\boldsymbol{\sigma}
+ptby,\partial\boldsymbol{\tau}
+puby,\partial\boldsymbol{\upsilon}
+pfby,\partial\boldsymbol{\phi}
+pcby,\partial\boldsymbol{\chi}
+pyby,\partial\boldsymbol{\psi}
+pwby,\partial\boldsymbol{\omega}
+pGby,\partial\boldsymbol{\Gamma}
+pDby,\partial\boldsymbol{\Delta}
+pQby,\partial\boldsymbol{\Theta}
+pLby,\partial\boldsymbol{\Lambda}
+pXby,\partial\boldsymbol{\Xi}
+pPby,\partial\boldsymbol{\Pi}
+pSby,\partial\boldsymbol{\Sigma}
+pFby,\partial\boldsymbol{\Phi}
+pYby,\partial\boldsymbol{\Psi}
+ax,$\alpha$
+bx,$\beta$
+gx,$\gamma$
+dx,$\delta$
+ex,$\epsilon$
+zx,$\zeta$
+hx,$\eta$
+qx,$\theta$
+ix,$\iota$
+kx,$\kappa$
+lx,$\lambda$
+mx,$\mu$
+nx,$\nu$
+xx,$\xi$
+ox,$\omicron$
+px,$\pi$
+rx,$\rho$
+sx,$\sigma$
+tx,$\tau$
+ux,$\upsilon$
+fx,$\phi$
+cx,$\chi$
+yx,$\psi$
+wx,$\omega$
+Gx,$\Gamma$
+Dx,$\Delta$
+Qx,$\Theta$
+Lx,$\Lambda$
+Xx,$\Xi$
+Px,$\Pi$
+Sx,$\Sigma$
+Fx,$\Phi$
+Yx,$\Psi$
+aayx,$\langle\alpha\rangle$
+abyx,$\langle\beta\rangle$
+agyx,$\langle\gamma\rangle$
+adyx,$\langle\delta\rangle$
+aeyx,$\langle\epsilon\rangle$
+azyx,$\langle\zeta\rangle$
+ahyx,$\langle\eta\rangle$
+aqyx,$\langle\theta\rangle$
+aiyx,$\langle\iota\rangle$
+akyx,$\langle\kappa\rangle$
+alyx,$\langle\lambda\rangle$
+amyx,$\langle\mu\rangle$
+anyx,$\langle\nu\rangle$
+axyx,$\langle\xi\rangle$
+aoyx,$\langle\omicron\rangle$
+apyx,$\langle\pi\rangle$
+aryx,$\langle\rho\rangle$
+asyx,$\langle\sigma\rangle$
+atyx,$\langle\tau\rangle$
+auyx,$\langle\upsilon\rangle$
+afyx,$\langle\phi\rangle$
+acyx,$\langle\chi\rangle$
+ayyx,$\langle\psi\rangle$
+awyx,$\langle\omega\rangle$
+aGyx,$\langle\Gamma\rangle$
+aDyx,$\langle\Delta\rangle$
+aQyx,$\langle\Theta\rangle$
+aLyx,$\langle\Lambda\rangle$
+aXyx,$\langle\Xi\rangle$
+aPyx,$\langle\Pi\rangle$
+aSyx,$\langle\Sigma\rangle$
+aFyx,$\langle\Phi\rangle$
+aYyx,$\langle\Psi\rangle$
 
 
-bayx,  $\boldsymbol{\alpha}$
-bbyx,  $\boldsymbol{\beta}$
-bgyx,  $\boldsymbol{\gamma}$
-bdyx,  $\boldsymbol{\delta}$
-beyx,  $\boldsymbol{\epsilon}$
-bzyx,  $\boldsymbol{\zeta}$
-bhyx,  $\boldsymbol{\eta}$
-bqyx,  $\boldsymbol{\theta}$
-biyx,  $\boldsymbol{\iota}$
-bkyx,  $\boldsymbol{\kappa}$
-blyx,  $\boldsymbol{\lambda}$
-bmyx,  $\boldsymbol{\mu}$
-bnyx,  $\boldsymbol{\nu}$
-bxyx,  $\boldsymbol{\xi}$
-boyx,  $\boldsymbol{\omicron}$
-bpyx,  $\boldsymbol{\pi}$
-bryx,  $\boldsymbol{\rho}$
-bsyx,  $\boldsymbol{\sigma}$
-btyx,  $\boldsymbol{\tau}$
-buyx,  $\boldsymbol{\upsilon}$
-bfyx,  $\boldsymbol{\phi}$
-bcyx,  $\boldsymbol{\chi}$
-byyx,  $\boldsymbol{\psi}$
-bwyx,  $\boldsymbol{\omega}$
-bGyx,  $\boldsymbol{\Gamma}$
-bDyx,  $\boldsymbol{\Delta}$
-bQyx,  $\boldsymbol{\Theta}$
-bLyx,  $\boldsymbol{\Lambda}$
-bXyx,  $\boldsymbol{\Xi}$
-bPyx,  $\boldsymbol{\Pi}$
-bSyx,  $\boldsymbol{\Sigma}$
-bFyx,  $\boldsymbol{\Phi}$
-bYyx,  $\boldsymbol{\Psi}$
-payx,  $\partial{\alpha}$
-pbyx,  $\partial{\beta}$
-pgyx,  $\partial{\gamma}$
-pdyx,  $\partial{\delta}$
-peyx,  $\partial{\epsilon}$
-pzyx,  $\partial{\zeta}$
-phyx,  $\partial{\eta}$
-pqyx,  $\partial{\theta}$
-piyx,  $\partial{\iota}$
-pkyx,  $\partial{\kappa}$
-plyx,  $\partial{\lambda}$
-pmyx,  $\partial{\mu}$
-pnyx,  $\partial{\nu}$
-pxyx,  $\partial{\xi}$
-poyx,  $\partial{\omicron}$
-ppyx,  $\partial{\pi}$
-pryx,  $\partial{\rho}$
-psyx,  $\partial{\sigma}$
-ptyx,  $\partial{\tau}$
-puyx,  $\partial{\upsilon}$
-pfyx,  $\partial{\phi}$
-pcyx,  $\partial{\chi}$
-pyyx,  $\partial{\psi}$
-pwyx,  $\partial{\omega}$
-pGyx,  $\partial{\Gamma}$
-pDyx,  $\partial{\Delta}$
-pQyx,  $\partial{\Theta}$
-pLyx,  $\partial{\Lambda}$
-pXyx,  $\partial{\Xi}$
-pPyx,  $\partial{\Pi}$
-pSyx,  $\partial{\Sigma}$
-pFyx,  $\partial{\Phi}$
-pYyx,  $\partial{\Psi}$
+bayx,$\boldsymbol{\alpha}$
+bbyx,$\boldsymbol{\beta}$
+bgyx,$\boldsymbol{\gamma}$
+bdyx,$\boldsymbol{\delta}$
+beyx,$\boldsymbol{\epsilon}$
+bzyx,$\boldsymbol{\zeta}$
+bhyx,$\boldsymbol{\eta}$
+bqyx,$\boldsymbol{\theta}$
+biyx,$\boldsymbol{\iota}$
+bkyx,$\boldsymbol{\kappa}$
+blyx,$\boldsymbol{\lambda}$
+bmyx,$\boldsymbol{\mu}$
+bnyx,$\boldsymbol{\nu}$
+bxyx,$\boldsymbol{\xi}$
+boyx,$\boldsymbol{\omicron}$
+bpyx,$\boldsymbol{\pi}$
+bryx,$\boldsymbol{\rho}$
+bsyx,$\boldsymbol{\sigma}$
+btyx,$\boldsymbol{\tau}$
+buyx,$\boldsymbol{\upsilon}$
+bfyx,$\boldsymbol{\phi}$
+bcyx,$\boldsymbol{\chi}$
+byyx,$\boldsymbol{\psi}$
+bwyx,$\boldsymbol{\omega}$
+bGyx,$\boldsymbol{\Gamma}$
+bDyx,$\boldsymbol{\Delta}$
+bQyx,$\boldsymbol{\Theta}$
+bLyx,$\boldsymbol{\Lambda}$
+bXyx,$\boldsymbol{\Xi}$
+bPyx,$\boldsymbol{\Pi}$
+bSyx,$\boldsymbol{\Sigma}$
+bFyx,$\boldsymbol{\Phi}$
+bYyx,$\boldsymbol{\Psi}$
+payx,$\partial{\alpha}$
+pbyx,$\partial{\beta}$
+pgyx,$\partial{\gamma}$
+pdyx,$\partial{\delta}$
+peyx,$\partial{\epsilon}$
+pzyx,$\partial{\zeta}$
+phyx,$\partial{\eta}$
+pqyx,$\partial{\theta}$
+piyx,$\partial{\iota}$
+pkyx,$\partial{\kappa}$
+plyx,$\partial{\lambda}$
+pmyx,$\partial{\mu}$
+pnyx,$\partial{\nu}$
+pxyx,$\partial{\xi}$
+poyx,$\partial{\omicron}$
+ppyx,$\partial{\pi}$
+pryx,$\partial{\rho}$
+psyx,$\partial{\sigma}$
+ptyx,$\partial{\tau}$
+puyx,$\partial{\upsilon}$
+pfyx,$\partial{\phi}$
+pcyx,$\partial{\chi}$
+pyyx,$\partial{\psi}$
+pwyx,$\partial{\omega}$
+pGyx,$\partial{\Gamma}$
+pDyx,$\partial{\Delta}$
+pQyx,$\partial{\Theta}$
+pLyx,$\partial{\Lambda}$
+pXyx,$\partial{\Xi}$
+pPyx,$\partial{\Pi}$
+pSyx,$\partial{\Sigma}$
+pFyx,$\partial{\Phi}$
+pYyx,$\partial{\Psi}$
 
 
-aabyx,  $\langle\boldsymbol{\alpha}\rangle$
-abbyx,  $\langle\boldsymbol{\beta}\rangle$
-agbyx,  $\langle\boldsymbol{\gamma}\rangle$
-adbyx,  $\langle\boldsymbol{\delta}\rangle$
-aebyx,  $\langle\boldsymbol{\epsilon}\rangle$
-azbyx,  $\langle\boldsymbol{\zeta}\rangle$
-ahbyx,  $\langle\boldsymbol{\eta}\rangle$
-aqbyx,  $\langle\boldsymbol{\theta}\rangle$
-aibyx,  $\langle\boldsymbol{\iota}\rangle$
-akbyx,  $\langle\boldsymbol{\kappa}\rangle$
-albyx,  $\langle\boldsymbol{\lambda}\rangle$
-ambyx,  $\langle\boldsymbol{\mu}\rangle$
-anbyx,  $\langle\boldsymbol{\nu}\rangle$
-axbyx,  $\langle\boldsymbol{\xi}\rangle$
-aobyx,  $\langle\boldsymbol{\omicron}\rangle$
-apbyx,  $\langle\boldsymbol{\pi}\rangle$
-arbyx,  $\langle\boldsymbol{\rho}\rangle$
-asbyx,  $\langle\boldsymbol{\sigma}\rangle$
-atbyx,  $\langle\boldsymbol{\tau}\rangle$
-aubyx,  $\langle\boldsymbol{\upsilon}\rangle$
-afbyx,  $\langle\boldsymbol{\phi}\rangle$
-acbyx,  $\langle\boldsymbol{\chi}\rangle$
-aybyx,  $\langle\boldsymbol{\psi}\rangle$
-awbyx,  $\langle\boldsymbol{\omega}\rangle$
-aGbyx,  $\langle\boldsymbol{\Gamma}\rangle$
-aDbyx,  $\langle\boldsymbol{\Delta}\rangle$
-aQbyx,  $\langle\boldsymbol{\Theta}\rangle$
-aLbyx,  $\langle\boldsymbol{\Lambda}\rangle$
-aXbyx,  $\langle\boldsymbol{\Xi}\rangle$
-aPbyx,  $\langle\boldsymbol{\Pi}\rangle$
-aSbyx,  $\langle\boldsymbol{\Sigma}\rangle$
-aFbyx,  $\langle\boldsymbol{\Phi}\rangle$
-aYbyx,  $\langle\boldsymbol{\Psi}\rangle$
+aabyx,$\langle\boldsymbol{\alpha}\rangle$
+abbyx,$\langle\boldsymbol{\beta}\rangle$
+agbyx,$\langle\boldsymbol{\gamma}\rangle$
+adbyx,$\langle\boldsymbol{\delta}\rangle$
+aebyx,$\langle\boldsymbol{\epsilon}\rangle$
+azbyx,$\langle\boldsymbol{\zeta}\rangle$
+ahbyx,$\langle\boldsymbol{\eta}\rangle$
+aqbyx,$\langle\boldsymbol{\theta}\rangle$
+aibyx,$\langle\boldsymbol{\iota}\rangle$
+akbyx,$\langle\boldsymbol{\kappa}\rangle$
+albyx,$\langle\boldsymbol{\lambda}\rangle$
+ambyx,$\langle\boldsymbol{\mu}\rangle$
+anbyx,$\langle\boldsymbol{\nu}\rangle$
+axbyx,$\langle\boldsymbol{\xi}\rangle$
+aobyx,$\langle\boldsymbol{\omicron}\rangle$
+apbyx,$\langle\boldsymbol{\pi}\rangle$
+arbyx,$\langle\boldsymbol{\rho}\rangle$
+asbyx,$\langle\boldsymbol{\sigma}\rangle$
+atbyx,$\langle\boldsymbol{\tau}\rangle$
+aubyx,$\langle\boldsymbol{\upsilon}\rangle$
+afbyx,$\langle\boldsymbol{\phi}\rangle$
+acbyx,$\langle\boldsymbol{\chi}\rangle$
+aybyx,$\langle\boldsymbol{\psi}\rangle$
+awbyx,$\langle\boldsymbol{\omega}\rangle$
+aGbyx,$\langle\boldsymbol{\Gamma}\rangle$
+aDbyx,$\langle\boldsymbol{\Delta}\rangle$
+aQbyx,$\langle\boldsymbol{\Theta}\rangle$
+aLbyx,$\langle\boldsymbol{\Lambda}\rangle$
+aXbyx,$\langle\boldsymbol{\Xi}\rangle$
+aPbyx,$\langle\boldsymbol{\Pi}\rangle$
+aSbyx,$\langle\boldsymbol{\Sigma}\rangle$
+aFbyx,$\langle\boldsymbol{\Phi}\rangle$
+aYbyx,$\langle\boldsymbol{\Psi}\rangle$
 
 
-pabyx,  $\partial\boldsymbol{\alpha}$
-pbbyx,  $\partial\boldsymbol{\beta}$
-pgbyx,  $\partial\boldsymbol{\gamma}$
-pdbyx,  $\partial\boldsymbol{\delta}$
-pebyx,  $\partial\boldsymbol{\epsilon}$
-pzbyx,  $\partial\boldsymbol{\zeta}$
-phbyx,  $\partial\boldsymbol{\eta}$
-pqbyx,  $\partial\boldsymbol{\theta}$
-pibyx,  $\partial\boldsymbol{\iota}$
-pkbyx,  $\partial\boldsymbol{\kappa}$
-plbyx,  $\partial\boldsymbol{\lambda}$
-pmbyx,  $\partial\boldsymbol{\mu}$
-pnbyx,  $\partial\boldsymbol{\nu}$
-pxbyx,  $\partial\boldsymbol{\xi}$
-pobyx,  $\partial\boldsymbol{\omicron}$
-ppbyx,  $\partial\boldsymbol{\pi}$
-prbyx,  $\partial\boldsymbol{\rho}$
-psbyx,  $\partial\boldsymbol{\sigma}$
-ptbyx,  $\partial\boldsymbol{\tau}$
-pubyx,  $\partial\boldsymbol{\upsilon}$
-pfbyx,  $\partial\boldsymbol{\phi}$
-pcbyx,  $\partial\boldsymbol{\chi}$
-pybyx,  $\partial\boldsymbol{\psi}$
-pwbyx,  $\partial\boldsymbol{\omega}$
-pGbyx,  $\partial\boldsymbol{\Gamma}$
-pDbyx,  $\partial\boldsymbol{\Delta}$
-pQbyx,  $\partial\boldsymbol{\Theta}$
-pLbyx,  $\partial\boldsymbol{\Lambda}$
-pXbyx,  $\partial\boldsymbol{\Xi}$
-pPbyx,  $\partial\boldsymbol{\Pi}$
-pSbyx,  $\partial\boldsymbol{\Sigma}$
-pFbyx,  $\partial\boldsymbol{\Phi}$
-pYbyx,  $\partial\boldsymbol{\Psi}$
+pabyx,$\partial\boldsymbol{\alpha}$
+pbbyx,$\partial\boldsymbol{\beta}$
+pgbyx,$\partial\boldsymbol{\gamma}$
+pdbyx,$\partial\boldsymbol{\delta}$
+pebyx,$\partial\boldsymbol{\epsilon}$
+pzbyx,$\partial\boldsymbol{\zeta}$
+phbyx,$\partial\boldsymbol{\eta}$
+pqbyx,$\partial\boldsymbol{\theta}$
+pibyx,$\partial\boldsymbol{\iota}$
+pkbyx,$\partial\boldsymbol{\kappa}$
+plbyx,$\partial\boldsymbol{\lambda}$
+pmbyx,$\partial\boldsymbol{\mu}$
+pnbyx,$\partial\boldsymbol{\nu}$
+pxbyx,$\partial\boldsymbol{\xi}$
+pobyx,$\partial\boldsymbol{\omicron}$
+ppbyx,$\partial\boldsymbol{\pi}$
+prbyx,$\partial\boldsymbol{\rho}$
+psbyx,$\partial\boldsymbol{\sigma}$
+ptbyx,$\partial\boldsymbol{\tau}$
+pubyx,$\partial\boldsymbol{\upsilon}$
+pfbyx,$\partial\boldsymbol{\phi}$
+pcbyx,$\partial\boldsymbol{\chi}$
+pybyx,$\partial\boldsymbol{\psi}$
+pwbyx,$\partial\boldsymbol{\omega}$
+pGbyx,$\partial\boldsymbol{\Gamma}$
+pDbyx,$\partial\boldsymbol{\Delta}$
+pQbyx,$\partial\boldsymbol{\Theta}$
+pLbyx,$\partial\boldsymbol{\Lambda}$
+pXbyx,$\partial\boldsymbol{\Xi}$
+pPbyx,$\partial\boldsymbol{\Pi}$
+pSbyx,$\partial\boldsymbol{\Sigma}$
+pFbyx,$\partial\boldsymbol{\Phi}$
+pYbyx,$\partial\boldsymbol{\Psi}$
 
 
-as,  \alpha^*
-bs,  \beta^*
-gs,  \gamma^*
-ds,  \delta^*
-es,  \epsilon^*
-zs,  \zeta^*
-hs,  \eta^*
-qs,  \theta^*
-is,  \iota^*
-ks,  \kappa^*
-ls,  \lambda^*
-ms,  \mu^*
-ns,  \nu^*
-xs,  \xi^*
-os,  \omicron^*
-ps,  \pi^*
-rs,  \rho^*
-ss,  \sigma^*
-ts,  \tau^*
-us,  \upsilon^*
-fs,  \phi^*
-cs,  \chi^*
-ys,  \psi^*
-ws,  \omega^*
-Gs,  \Gamma^*
-Ds,  \Delta^*
-Qs,  \Theta^*
-Ls,  \Lambda^*
-Xs,  \Xi^*
-Ps,  \Pi^*
-Ss,  \Sigma^*
-Fs,  \Phi^*
-Ys,  \Psi^*
-ap,  \alpha\prime
-bp,  \beta\prime
-gp,  \gamma\prime
-dp,  \delta\prime
-ep,  \epsilon\prime
-zp,  \zeta\prime
-hp,  \eta\prime
-qp,  \theta\prime
-ip,  \iota\prime
-kp,  \kappa\prime
-lp,  \lambda\prime
-mp,  \mu\prime
-np,  \nu\prime
-xp,  \xi\prime
-op,  \omicron\prime
-pp,  \pi\prime
-rp,  \rho\prime
-sp,  \sigma\prime
-tp,  \tau\prime
-up,  \upsilon\prime
-fp,  \phi\prime
-cp,  \chi\prime
-yp,  \psi\prime
-wp,  \omega\prime
-Gp,  \Gamma\prime
-Dp,  \Delta\prime
-Qp,  \Theta\prime
-Lp,  \Lambda\prime
-Xp,  \Xi\prime
-Pp,  \Pi\prime
-Sp,  \Sigma\prime
-Fp,  \Phi\prime
-Yp,  \Psi\prime
-ab,  \bar{\alpha}
-bb,  \bar{\beta}
-gb,  \bar{\gamma}
-db,  \bar{\delta}
-eb,  \bar{\epsilon}
-zb,  \bar{\zeta}
-hb,  \bar{\eta}
-qb,  \bar{\theta}
-ib,  \bar{\iota}
-kb,  \bar{\kappa}
-lb,  \bar{\lambda}
-mb,  \bar{\mu}
-nb,  \bar{\nu}
-xb,  \bar{\xi}
-ob,  \bar{\omicron}
-pb,  \bar{\pi}
-rb,  \bar{\rho}
-sb,  \bar{\sigma}
-tb,  \bar{\tau}
-ub,  \bar{\upsilon}
-fb,  \bar{\phi}
-cb,  \bar{\chi}
-yb,  \bar{\psi}
-wb,  \bar{\omega}
-Gb,  \bar{\Gamma}
-Db,  \bar{\Delta}
-Qb,  \bar{\Theta}
-Lb,  \bar{\Lambda}
-Xb,  \bar{\Xi}
-Pb,  \bar{\Pi}
-Sb,  \bar{\Sigma}
-Fb,  \bar{\Phi}
-Yb,  \bar{\Psi}
-ad,  \dot{\alpha}
-bd,  \dot{\beta}
-gd,  \dot{\gamma}
-dd,  \dot{\delta}
-ed,  \dot{\epsilon}
-zd,  \dot{\zeta}
-hd,  \dot{\eta}
-qd,  \dot{\theta}
-id,  \dot{\iota}
-kd,  \dot{\kappa}
-ld,  \dot{\lambda}
-md,  \dot{\mu}
-nd,  \dot{\nu}
-xd,  \dot{\xi}
-od,  \dot{\omicron}
-pd,  \dot{\pi}
-rd,  \dot{\rho}
-sd,  \dot{\sigma}
-td,  \dot{\tau}
-ud,  \dot{\upsilon}
-fd,  \dot{\phi}
-cd,  \dot{\chi}
-yd,  \dot{\psi}
-wd,  \dot{\omega}
-Gd,  \dot{\Gamma}
-Dd,  \dot{\Delta}
-Qd,  \dot{\Theta}
-Ld,  \dot{\Lambda}
-Xd,  \dot{\Xi}
-Pd,  \dot{\Pi}
-Sd,  \dot{\Sigma}
-Fd,  \dot{\Phi}
-Yd,  \dot{\Psi}
-ah,  \hat{\alpha}
-bh,  \hat{\beta}
-gh,  \hat{\gamma}
-dh,  \hat{\delta}
-eh,  \hat{\epsilon}
-zh,  \hat{\zeta}
-hh,  \hat{\eta}
-qh,  \hat{\theta}
-ih,  \hat{\iota}
-kh,  \hat{\kappa}
-lh,  \hat{\lambda}
-mh,  \hat{\mu}
-nh,  \hat{\u}
-xh,  \hat{\xi}
-oh,  \hat{\omicron}
-ph,  \hat{\pi}
-rh,  \hat{\rho}
-sh,  \hat{\sigma}
-th,  \hat{\tau}
-uh,  \hat{\upsilon}
-fh,  \hat{\phi}
-ch,  \hat{\chi}
-yh,  \hat{\psi}
-wh,  \hat{\omega}
-Gh,  \hat{\Gamma}
-Dh,  \hat{\Delta}
-Qh,  \hat{\Theta}
-Lh,  \hat{\Lambda}
-Xh,  \hat{\Xi}
-Ph,  \hat{\Pi}
-Sh,  \hat{\Sigma}
-Fh,  \hat{\Phi}
-Yh,  \hat{\Psi}
-at,  \tilde{\alpha}
-bt,  \tilde{\beta}
-gt,  \tilde{\gamma}
-dt,  \tilde{\delta}
-et,  \tilde{\epsilon}
-zt,  \tilde{\zeta}
-ht,  \tilde{\eta}
-qt,  \tilde{\theta}
-it,  \tilde{\iota}
-kt,  \tilde{\kappa}
-lt,  \tilde{\lambda}
-mt,  \tilde{\mu}
-nt,  \tilde{\nu}
-xt,  \tilde{\xi}
-ot,  \tilde{\omicron}
-pt,  \tilde{\pi}
-rt,  \tilde{\rho}
-st,  \tilde{\sigma}
-tt,  \tilde{\tau}
-ut,  \tilde{\upsilon}
-ft,  \tilde{\phi}
-ct,  \tilde{\chi}
-yt,  \tilde{\psi}
-wt,  \tilde{\omega}
-Gt,  \tilde{\Gamma}
-Dt,  \tilde{\Delta}
-Qt,  \tilde{\Theta}
-Lt,  \tilde{\Lambda}
-Xt,  \tilde{\Xi}
-Pt,  \tilde{\Pi}
-St,  \tilde{\Sigma}
-Ft,  \tilde{\Phi}
-Yt,  \tilde{\Psi}
-am,  \lvert\alpha\rvert
-bm,  \lvert\beta\rvert
-gm,  \lvert\gamma\rvert
-dm,  \lvert\delta\rvert
-em,  \lvert\epsilon\rvert
-zm,  \lvert\zeta\rvert
-hm,  \lvert\eta\rvert
-qm,  \lvert\theta\rvert
-im,  \lvert\iota\rvert
-km,  \lvert\kappa\rvert
-lm,  \lvert\lambda\rvert
-mm,  \lvert\mu\rvert
-nm,  \lvert\nu\rvert
-xm,  \lvert\xi\rvert
-om,  \lvert\omicron\rvert
-pm,  \lvert\pi\rvert
-rm,  \lvert\rho\rvert
-sm,  \lvert\sigma\rvert
-tm,  \lvert\tau\rvert
-um,  \lvert\upsilon\rvert
-fm,  \lvert\phi\rvert
-cm,  \lvert\chi\rvert
-ym,  \lvert\psi\rvert
-wm,  \lvert\omega\rvert
-Gm,  \lvert\Gamma\rvert
-Dm,  \lvert\Delta\rvert
-Qm,  \lvert\Theta\rvert
-Lm,  \lvert\Lambda\rvert
-Xm,  \lvert\Xi\rvert
-Pm,  \lvert\Pi\rvert
-Sm,  \lvert\Sigma\rvert
-Fm,  \lvert\Phi\rvert
-Ym,  \lvert\Psi\rvert
-a0,  \alpha_0
-b0,  \beta_0
-g0,  \gamma_0
-d0,  \delta_0
-e0,  \epsilon_0
-z0,  \zeta_0
-h0,  \eta_0
-q0,  \theta_0
-i0,  \iota_0
-k0,  \kappa_0
-l0,  \lambda_0
-m0,  \mu_0
-n0,  \nu_0
-x0,  \xi_0
-o0,  \omicron_0
-p0,  \pi_0
-r0,  \rho_0
-s0,  \sigma_0
-t0,  \tau_0
-u0,  \upsilon_0
-f0,  \phi_0
-c0,  \chi_0
-y0,  \psi_0
-w0,  \omega_0
-G0,  \Gamma_0
-D0,  \Delta_0
-Q0,  \Theta_0
-L0,  \Lambda_0
-X0,  \Xi_0
-P0,  \Pi_0
-S0,  \Sigma_0
-F0,  \Phi_0
-Y0,  \Psi_0
-a1,  \alpha_1
-b1,  \beta_1
-g1,  \gamma_1
-d1,  \delta_1
-e1,  \epsilon_1
-z1,  \zeta_1
-h1,  \eta_1
-q1,  \theta_1
-i1,  \iota_1
-k1,  \kappa_1
-l1,  \lambda_1
-m1,  \mu_1
-n1,  \nu_1
-x1,  \xi_1
-o1,  \omicron_1
-p1,  \pi_1
-r1,  \rho_1
-s1,  \sigma_1
-t1,  \tau_1
-u1,  \upsilon_1
-f1,  \phi_1
-c1,  \chi_1
-y1,  \psi_1
-w1,  \omega_1
-G1,  \Gamma_1
-D1,  \Delta_1
-Q1,  \Theta_1
-L1,  \Lambda_1
-X1,  \Xi_1
-P1,  \Pi_1
-S1,  \Sigma_1
-F1,  \Phi_1
-Y1,  \Psi_1
-a2,  \alpha_2
-b2,  \beta_2
-g2,  \gamma_2
-d2,  \delta_2
-e2,  \epsilon_2
-z2,  \zeta_2
-h2,  \eta_2
-q2,  \theta_2
-i2,  \iota_2
-k2,  \kappa_2
-l2,  \lambda_2
-m2,  \mu_2
-n2,  \nu_2
-x2,  \xi_2
-o2,  \omicron_2
-p2,  \pi_2
-r2,  \rho_2
-s2,  \sigma_2
-t2,  \tau_2
-u2,  \upsilon_2
-f2,  \phi_2
-c2,  \chi_2
-y2,  \psi_2
-w2,  \omega_2
-G2,  \Gamma_2
-D2,  \Delta_2
-Q2,  \Theta_2
-L2,  \Lambda_2
-X2,  \Xi_2
-P2,  \Pi_2
-S2,  \Sigma_2
-F2,  \Phi_2
-Y2,  \Psi_2
-a3,  \alpha_3
-b3,  \beta_3
-g3,  \gamma_3
-d3,  \delta_3
-e3,  \epsilon_3
-z3,  \zeta_3
-h3,  \eta_3
-q3,  \theta_3
-i3,  \iota_3
-k3,  \kappa_3
-l3,  \lambda_3
-m3,  \mu_3
-n3,  \nu_3
-x3,  \xi_3
-o3,  \omicron_3
-p3,  \pi_3
-r3,  \rho_3
-s3,  \sigma_3
-t3,  \tau_3
-u3,  \upsilon_3
-f3,  \phi_3
-c3,  \chi_3
-y3,  \psi_3
-w3,  \omega_3
-G3,  \Gamma_3
-D3,  \Delta_3
-Q3,  \Theta_3
-L3,  \Lambda_3
-X3,  \Xi_3
-P3,  \Pi_3
-S3,  \Sigma_3
-F3,  \Phi_3
-Y3,  \Psi_3
+as,\alpha^*
+bs,\beta^*
+gs,\gamma^*
+ds,\delta^*
+es,\epsilon^*
+zs,\zeta^*
+hs,\eta^*
+qs,\theta^*
+is,\iota^*
+ks,\kappa^*
+ls,\lambda^*
+ms,\mu^*
+ns,\nu^*
+xs,\xi^*
+os,\omicron^*
+ps,\pi^*
+rs,\rho^*
+ss,\sigma^*
+ts,\tau^*
+us,\upsilon^*
+fs,\phi^*
+cs,\chi^*
+ys,\psi^*
+ws,\omega^*
+Gs,\Gamma^*
+Ds,\Delta^*
+Qs,\Theta^*
+Ls,\Lambda^*
+Xs,\Xi^*
+Ps,\Pi^*
+Ss,\Sigma^*
+Fs,\Phi^*
+Ys,\Psi^*
+ap,\alpha\prime
+bp,\beta\prime
+gp,\gamma\prime
+dp,\delta\prime
+ep,\epsilon\prime
+zp,\zeta\prime
+hp,\eta\prime
+qp,\theta\prime
+ip,\iota\prime
+kp,\kappa\prime
+lp,\lambda\prime
+mp,\mu\prime
+np,\nu\prime
+xp,\xi\prime
+op,\omicron\prime
+pp,\pi\prime
+rp,\rho\prime
+sp,\sigma\prime
+tp,\tau\prime
+up,\upsilon\prime
+fp,\phi\prime
+cp,\chi\prime
+yp,\psi\prime
+wp,\omega\prime
+Gp,\Gamma\prime
+Dp,\Delta\prime
+Qp,\Theta\prime
+Lp,\Lambda\prime
+Xp,\Xi\prime
+Pp,\Pi\prime
+Sp,\Sigma\prime
+Fp,\Phi\prime
+Yp,\Psi\prime
+ab,\bar{\alpha}
+bb,\bar{\beta}
+gb,\bar{\gamma}
+db,\bar{\delta}
+eb,\bar{\epsilon}
+zb,\bar{\zeta}
+hb,\bar{\eta}
+qb,\bar{\theta}
+ib,\bar{\iota}
+kb,\bar{\kappa}
+lb,\bar{\lambda}
+mb,\bar{\mu}
+nb,\bar{\nu}
+xb,\bar{\xi}
+ob,\bar{\omicron}
+pb,\bar{\pi}
+rb,\bar{\rho}
+sb,\bar{\sigma}
+tb,\bar{\tau}
+ub,\bar{\upsilon}
+fb,\bar{\phi}
+cb,\bar{\chi}
+yb,\bar{\psi}
+wb,\bar{\omega}
+Gb,\bar{\Gamma}
+Db,\bar{\Delta}
+Qb,\bar{\Theta}
+Lb,\bar{\Lambda}
+Xb,\bar{\Xi}
+Pb,\bar{\Pi}
+Sb,\bar{\Sigma}
+Fb,\bar{\Phi}
+Yb,\bar{\Psi}
+ad,\dot{\alpha}
+bd,\dot{\beta}
+gd,\dot{\gamma}
+dd,\dot{\delta}
+ed,\dot{\epsilon}
+zd,\dot{\zeta}
+hd,\dot{\eta}
+qd,\dot{\theta}
+id,\dot{\iota}
+kd,\dot{\kappa}
+ld,\dot{\lambda}
+md,\dot{\mu}
+nd,\dot{\nu}
+xd,\dot{\xi}
+od,\dot{\omicron}
+pd,\dot{\pi}
+rd,\dot{\rho}
+sd,\dot{\sigma}
+td,\dot{\tau}
+ud,\dot{\upsilon}
+fd,\dot{\phi}
+cd,\dot{\chi}
+yd,\dot{\psi}
+wd,\dot{\omega}
+Gd,\dot{\Gamma}
+Dd,\dot{\Delta}
+Qd,\dot{\Theta}
+Ld,\dot{\Lambda}
+Xd,\dot{\Xi}
+Pd,\dot{\Pi}
+Sd,\dot{\Sigma}
+Fd,\dot{\Phi}
+Yd,\dot{\Psi}
+ah,\hat{\alpha}
+bh,\hat{\beta}
+gh,\hat{\gamma}
+dh,\hat{\delta}
+eh,\hat{\epsilon}
+zh,\hat{\zeta}
+hh,\hat{\eta}
+qh,\hat{\theta}
+ih,\hat{\iota}
+kh,\hat{\kappa}
+lh,\hat{\lambda}
+mh,\hat{\mu}
+nh,\hat{\u}
+xh,\hat{\xi}
+oh,\hat{\omicron}
+ph,\hat{\pi}
+rh,\hat{\rho}
+sh,\hat{\sigma}
+th,\hat{\tau}
+uh,\hat{\upsilon}
+fh,\hat{\phi}
+ch,\hat{\chi}
+yh,\hat{\psi}
+wh,\hat{\omega}
+Gh,\hat{\Gamma}
+Dh,\hat{\Delta}
+Qh,\hat{\Theta}
+Lh,\hat{\Lambda}
+Xh,\hat{\Xi}
+Ph,\hat{\Pi}
+Sh,\hat{\Sigma}
+Fh,\hat{\Phi}
+Yh,\hat{\Psi}
+at,\tilde{\alpha}
+bt,\tilde{\beta}
+gt,\tilde{\gamma}
+dt,\tilde{\delta}
+et,\tilde{\epsilon}
+zt,\tilde{\zeta}
+ht,\tilde{\eta}
+qt,\tilde{\theta}
+it,\tilde{\iota}
+kt,\tilde{\kappa}
+lt,\tilde{\lambda}
+mt,\tilde{\mu}
+nt,\tilde{\nu}
+xt,\tilde{\xi}
+ot,\tilde{\omicron}
+pt,\tilde{\pi}
+rt,\tilde{\rho}
+st,\tilde{\sigma}
+tt,\tilde{\tau}
+ut,\tilde{\upsilon}
+ft,\tilde{\phi}
+ct,\tilde{\chi}
+yt,\tilde{\psi}
+wt,\tilde{\omega}
+Gt,\tilde{\Gamma}
+Dt,\tilde{\Delta}
+Qt,\tilde{\Theta}
+Lt,\tilde{\Lambda}
+Xt,\tilde{\Xi}
+Pt,\tilde{\Pi}
+St,\tilde{\Sigma}
+Ft,\tilde{\Phi}
+Yt,\tilde{\Psi}
+am,\lvert\alpha\rvert
+bm,\lvert\beta\rvert
+gm,\lvert\gamma\rvert
+dm,\lvert\delta\rvert
+em,\lvert\epsilon\rvert
+zm,\lvert\zeta\rvert
+hm,\lvert\eta\rvert
+qm,\lvert\theta\rvert
+im,\lvert\iota\rvert
+km,\lvert\kappa\rvert
+lm,\lvert\lambda\rvert
+mm,\lvert\mu\rvert
+nm,\lvert\nu\rvert
+xm,\lvert\xi\rvert
+om,\lvert\omicron\rvert
+pm,\lvert\pi\rvert
+rm,\lvert\rho\rvert
+sm,\lvert\sigma\rvert
+tm,\lvert\tau\rvert
+um,\lvert\upsilon\rvert
+fm,\lvert\phi\rvert
+cm,\lvert\chi\rvert
+ym,\lvert\psi\rvert
+wm,\lvert\omega\rvert
+Gm,\lvert\Gamma\rvert
+Dm,\lvert\Delta\rvert
+Qm,\lvert\Theta\rvert
+Lm,\lvert\Lambda\rvert
+Xm,\lvert\Xi\rvert
+Pm,\lvert\Pi\rvert
+Sm,\lvert\Sigma\rvert
+Fm,\lvert\Phi\rvert
+Ym,\lvert\Psi\rvert
+a0,\alpha_0
+b0,\beta_0
+g0,\gamma_0
+d0,\delta_0
+e0,\epsilon_0
+z0,\zeta_0
+h0,\eta_0
+q0,\theta_0
+i0,\iota_0
+k0,\kappa_0
+l0,\lambda_0
+m0,\mu_0
+n0,\nu_0
+x0,\xi_0
+o0,\omicron_0
+p0,\pi_0
+r0,\rho_0
+s0,\sigma_0
+t0,\tau_0
+u0,\upsilon_0
+f0,\phi_0
+c0,\chi_0
+y0,\psi_0
+w0,\omega_0
+G0,\Gamma_0
+D0,\Delta_0
+Q0,\Theta_0
+L0,\Lambda_0
+X0,\Xi_0
+P0,\Pi_0
+S0,\Sigma_0
+F0,\Phi_0
+Y0,\Psi_0
+a1,\alpha_1
+b1,\beta_1
+g1,\gamma_1
+d1,\delta_1
+e1,\epsilon_1
+z1,\zeta_1
+h1,\eta_1
+q1,\theta_1
+i1,\iota_1
+k1,\kappa_1
+l1,\lambda_1
+m1,\mu_1
+n1,\nu_1
+x1,\xi_1
+o1,\omicron_1
+p1,\pi_1
+r1,\rho_1
+s1,\sigma_1
+t1,\tau_1
+u1,\upsilon_1
+f1,\phi_1
+c1,\chi_1
+y1,\psi_1
+w1,\omega_1
+G1,\Gamma_1
+D1,\Delta_1
+Q1,\Theta_1
+L1,\Lambda_1
+X1,\Xi_1
+P1,\Pi_1
+S1,\Sigma_1
+F1,\Phi_1
+Y1,\Psi_1
+a2,\alpha_2
+b2,\beta_2
+g2,\gamma_2
+d2,\delta_2
+e2,\epsilon_2
+z2,\zeta_2
+h2,\eta_2
+q2,\theta_2
+i2,\iota_2
+k2,\kappa_2
+l2,\lambda_2
+m2,\mu_2
+n2,\nu_2
+x2,\xi_2
+o2,\omicron_2
+p2,\pi_2
+r2,\rho_2
+s2,\sigma_2
+t2,\tau_2
+u2,\upsilon_2
+f2,\phi_2
+c2,\chi_2
+y2,\psi_2
+w2,\omega_2
+G2,\Gamma_2
+D2,\Delta_2
+Q2,\Theta_2
+L2,\Lambda_2
+X2,\Xi_2
+P2,\Pi_2
+S2,\Sigma_2
+F2,\Phi_2
+Y2,\Psi_2
+a3,\alpha_3
+b3,\beta_3
+g3,\gamma_3
+d3,\delta_3
+e3,\epsilon_3
+z3,\zeta_3
+h3,\eta_3
+q3,\theta_3
+i3,\iota_3
+k3,\kappa_3
+l3,\lambda_3
+m3,\mu_3
+n3,\nu_3
+x3,\xi_3
+o3,\omicron_3
+p3,\pi_3
+r3,\rho_3
+s3,\sigma_3
+t3,\tau_3
+u3,\upsilon_3
+f3,\phi_3
+c3,\chi_3
+y3,\psi_3
+w3,\omega_3
+G3,\Gamma_3
+D3,\Delta_3
+Q3,\Theta_3
+L3,\Lambda_3
+X3,\Xi_3
+P3,\Pi_3
+S3,\Sigma_3
+F3,\Phi_3
+Y3,\Psi_3
 
 
-asb,  \boldsymbol{\alpha^*}
-bsb,  \boldsymbol{\beta^*}
-gsb,  \boldsymbol{\gamma^*}
-dsb,  \boldsymbol{\delta^*}
-esb,  \boldsymbol{\epsilon^*}
-zsb,  \boldsymbol{\zeta^*}
-hsb,  \boldsymbol{\eta^*}
-qsb,  \boldsymbol{\theta^*}
-isb,  \boldsymbol{\iota^*}
-ksb,  \boldsymbol{\kappa^*}
-lsb,  \boldsymbol{\lambda^*}
-msb,  \boldsymbol{\mu^*}
-nsb,  \boldsymbol{\nu^*}
-xsb,  \boldsymbol{\xi^*}
-osb,  \boldsymbol{\omicron^*}
-psb,  \boldsymbol{\pi^*}
-rsb,  \boldsymbol{\rho^*}
-ssb,  \boldsymbol{\sigma^*}
-tsb,  \boldsymbol{\tau^*}
-usb,  \boldsymbol{\upsilon^*}
-fsb,  \boldsymbol{\phi^*}
-csb,  \boldsymbol{\chi^*}
-ysb,  \boldsymbol{\psi^*}
-wsb,  \boldsymbol{\omega^*}
-Gsb,  \boldsymbol{\Gamma^*}
-Dsb,  \boldsymbol{\Delta^*}
-Qsb,  \boldsymbol{\Theta^*}
-Lsb,  \boldsymbol{\Lambda^*}
-Xsb,  \boldsymbol{\Xi^*}
-Psb,  \boldsymbol{\Pi^*}
-Ssb,  \boldsymbol{\Sigma^*}
-Fsb,  \boldsymbol{\Phi^*}
-Ysb,  \boldsymbol{\Psi^*}
+asb,\boldsymbol{\alpha^*}
+bsb,\boldsymbol{\beta^*}
+gsb,\boldsymbol{\gamma^*}
+dsb,\boldsymbol{\delta^*}
+esb,\boldsymbol{\epsilon^*}
+zsb,\boldsymbol{\zeta^*}
+hsb,\boldsymbol{\eta^*}
+qsb,\boldsymbol{\theta^*}
+isb,\boldsymbol{\iota^*}
+ksb,\boldsymbol{\kappa^*}
+lsb,\boldsymbol{\lambda^*}
+msb,\boldsymbol{\mu^*}
+nsb,\boldsymbol{\nu^*}
+xsb,\boldsymbol{\xi^*}
+osb,\boldsymbol{\omicron^*}
+psb,\boldsymbol{\pi^*}
+rsb,\boldsymbol{\rho^*}
+ssb,\boldsymbol{\sigma^*}
+tsb,\boldsymbol{\tau^*}
+usb,\boldsymbol{\upsilon^*}
+fsb,\boldsymbol{\phi^*}
+csb,\boldsymbol{\chi^*}
+ysb,\boldsymbol{\psi^*}
+wsb,\boldsymbol{\omega^*}
+Gsb,\boldsymbol{\Gamma^*}
+Dsb,\boldsymbol{\Delta^*}
+Qsb,\boldsymbol{\Theta^*}
+Lsb,\boldsymbol{\Lambda^*}
+Xsb,\boldsymbol{\Xi^*}
+Psb,\boldsymbol{\Pi^*}
+Ssb,\boldsymbol{\Sigma^*}
+Fsb,\boldsymbol{\Phi^*}
+Ysb,\boldsymbol{\Psi^*}
 
-apb,  \boldsymbol{\alpha}\prime
-bpb,  \boldsymbol{\beta}\prime
-gpb,  \boldsymbol{\gamma}\prime
-dpb,  \boldsymbol{\delta}\prime
-epb,  \boldsymbol{\epsilon}\prime
-zpb,  \boldsymbol{\zeta}\prime
-hpb,  \boldsymbol{\eta}\prime
-qpb,  \boldsymbol{\theta}\prime
-ipb,  \boldsymbol{\iota}\prime
-kpb,  \boldsymbol{\kappa}\prime
-lpb,  \boldsymbol{\lambda}\prime
-mpb,  \boldsymbol{\mu}\prime
-npb,  \boldsymbol{\nu}\prime
-xpb,  \boldsymbol{\xi}\prime
-opb,  \boldsymbol{\omicron}\prime
-ppb,  \boldsymbol{\pi}\prime
-rpb,  \boldsymbol{\rho}\prime
-spb,  \boldsymbol{\sigma}\prime
-tpb,  \boldsymbol{\tau}\prime
-upb,  \boldsymbol{\upsilon}\prime
-fpb,  \boldsymbol{\phi}\prime
-cpb,  \boldsymbol{\chi}\prime
-ypb,  \boldsymbol{\psi}\prime
-wpb,  \boldsymbol{\omega}\prime
-Gpb,  \boldsymbol{\Gamma}\prime
-Dpb,  \boldsymbol{\Delta}\prime
-Qpb,  \boldsymbol{\Theta}\prime
-Lpb,  \boldsymbol{\Lambda}\prime
-Xpb,  \boldsymbol{\Xi}\prime
-Ppb,  \boldsymbol{\Pi}\prime
-Spb,  \boldsymbol{\Sigma}\prime
-Fpb,  \boldsymbol{\Phi}\prime
-Ypb,  \boldsymbol{\Psi}\prime
-abb,  \boldsymbol{\bar{\alpha}}
-bbb,  \boldsymbol{\bar{\beta}}
-gbb,  \boldsymbol{\bar{\gamma}}
-dbb,  \boldsymbol{\bar{\delta}}
-ebb,  \boldsymbol{\bar{\epsilon}}
-zbb,  \boldsymbol{\bar{\zeta}}
-hbb,  \boldsymbol{\bar{\eta}}
-qbb,  \boldsymbol{\bar{\theta}}
-ibb,  \boldsymbol{\bar{\iota}}
-kbb,  \boldsymbol{\bar{\kappa}}
-lbb,  \boldsymbol{\bar{\lambda}}
-mbb,  \boldsymbol{\bar{\mu}}
-nbb,  \boldsymbol{\bar{\nu}}
-xbb,  \boldsymbol{\bar{\xi}}
-obb,  \boldsymbol{\bar{\omicron}}
-pbb,  \boldsymbol{\bar{\pi}}
-rbb,  \boldsymbol{\bar{\rho}}
-sbb,  \boldsymbol{\bar{\sigma}}
-tbb,  \boldsymbol{\bar{\tau}}
-ubb,  \boldsymbol{\bar{\upsilon}}
-fbb,  \boldsymbol{\bar{\phi}}
-cbb,  \boldsymbol{\bar{\chi}}
-ybb,  \boldsymbol{\bar{\psi}}
-wbb,  \boldsymbol{\bar{\omega}}
-Gbb,  \boldsymbol{\bar{\Gamma}}
-Dbb,  \boldsymbol{\bar{\Delta}}
-Qbb,  \boldsymbol{\bar{\Theta}}
-Lbb,  \boldsymbol{\bar{\Lambda}}
-Xbb,  \boldsymbol{\bar{\Xi}}
-Pbb,  \boldsymbol{\bar{\Pi}}
-Sbb,  \boldsymbol{\bar{\Sigma}}
-Fbb,  \boldsymbol{\bar{\Phi}}
-Ybb,  \boldsymbol{\bar{\Psi}}
-adb,  \boldsymbol{\dot{\alpha}}
-bdb,  \boldsymbol{\dot{\beta}}
-gdb,  \boldsymbol{\dot{\gamma}}
-ddb,  \boldsymbol{\dot{\delta}}
-edb,  \boldsymbol{\dot{\epsilon}}
-zdb,  \boldsymbol{\dot{\zeta}}
-hdb,  \boldsymbol{\dot{\eta}}
-qdb,  \boldsymbol{\dot{\theta}}
-idb,  \boldsymbol{\dot{\iota}}
-kdb,  \boldsymbol{\dot{\kappa}}
-ldb,  \boldsymbol{\dot{\lambda}}
-mdb,  \boldsymbol{\dot{\mu}}
-ndb,  \boldsymbol{\dot{\nu}}
-xdb,  \boldsymbol{\dot{\xi}}
-odb,  \boldsymbol{\dot{\omicron}}
-pdb,  \boldsymbol{\dot{\pi}}
-rdb,  \boldsymbol{\dot{\rho}}
-sdb,  \boldsymbol{\dot{\sigma}}
-tdb,  \boldsymbol{\dot{\tau}}
-udb,  \boldsymbol{\dot{\upsilon}}
-fdb,  \boldsymbol{\dot{\phi}}
-cdb,  \boldsymbol{\dot{\chi}}
-ydb,  \boldsymbol{\dot{\psi}}
-wdb,  \boldsymbol{\dot{\omega}}
-Gdb,  \boldsymbol{\dot{\Gamma}}
-Ddb,  \boldsymbol{\dot{\Delta}}
-Qdb,  \boldsymbol{\dot{\Theta}}
-Ldb,  \boldsymbol{\dot{\Lambda}}
-Xdb,  \boldsymbol{\dot{\Xi}}
-Pdb,  \boldsymbol{\dot{\Pi}}
-Sdb,  \boldsymbol{\dot{\Sigma}}
-Fdb,  \boldsymbol{\dot{\Phi}}
-Ydb,  \boldsymbol{\dot{\Psi}}
-ahb,  \boldsymbol{\hat{\alpha}}
-bhb,  \boldsymbol{\hat{\beta}}
-ghb,  \boldsymbol{\hat{\gamma}}
-dhb,  \boldsymbol{\hat{\delta}}
-ehb,  \boldsymbol{\hat{\epsilon}}
-zhb,  \boldsymbol{\hat{\zeta}}
-hhb,  \boldsymbol{\hat{\eta}}
-qhb,  \boldsymbol{\hat{\theta}}
-ihb,  \boldsymbol{\hat{\iota}}
-khb,  \boldsymbol{\hat{\kappa}}
-lhb,  \boldsymbol{\hat{\lambda}}
-mhb,  \boldsymbol{\hat{\mu}}
-nhb,  \boldsymbol{\hat{\nu}}
-xhb,  \boldsymbol{\hat{\xi}}
-ohb,  \boldsymbol{\hat{\omicron}}
-phb,  \boldsymbol{\hat{\pi}}
-rhb,  \boldsymbol{\hat{\rho}}
-shb,  \boldsymbol{\hat{\sigma}}
-thb,  \boldsymbol{\hat{\tau}}
-uhb,  \boldsymbol{\hat{\upsilon}}
-fhb,  \boldsymbol{\hat{\phi}}
-chb,  \boldsymbol{\hat{\chi}}
-yhb,  \boldsymbol{\hat{\psi}}
-whb,  \boldsymbol{\hat{\omega}}
-Ghb,  \boldsymbol{\hat{\Gamma}}
-Dhb,  \boldsymbol{\hat{\Delta}}
-Qhb,  \boldsymbol{\hat{\Theta}}
-Lhb,  \boldsymbol{\hat{\Lambda}}
-Xhb,  \boldsymbol{\hat{\Xi}}
-Phb,  \boldsymbol{\hat{\Pi}}
-Shb,  \boldsymbol{\hat{\Sigma}}
-Fhb,  \boldsymbol{\hat{\Phi}}
-Yhb,  \boldsymbol{\hat{\Psi}}
-atb,  \boldsymbol{\tilde{\alpha}}
-btb,  \boldsymbol{\tilde{\beta}}
-gtb,  \boldsymbol{\tilde{\gamma}}
-dtb,  \boldsymbol{\tilde{\delta}}
-etb,  \boldsymbol{\tilde{\epsilon}}
-ztb,  \boldsymbol{\tilde{\zeta}}
-htb,  \boldsymbol{\tilde{\eta}}
-qtb,  \boldsymbol{\tilde{\theta}}
-itb,  \boldsymbol{\tilde{\iota}}
-ktb,  \boldsymbol{\tilde{\kappa}}
-ltb,  \boldsymbol{\tilde{\lambda}}
-mtb,  \boldsymbol{\tilde{\mu}}
-ntb,  \boldsymbol{\tilde{\nu}}
-xtb,  \boldsymbol{\tilde{\xi}}
-otb,  \boldsymbol{\tilde{\omicron}}
-ptb,  \boldsymbol{\tilde{\pi}}
-rtb,  \boldsymbol{\tilde{\rho}}
-stb,  \boldsymbol{\tilde{\sigma}}
-ttb,  \boldsymbol{\tilde{\tau}}
-utb,  \boldsymbol{\tilde{\upsilon}}
-ftb,  \boldsymbol{\tilde{\phi}}
-ctb,  \boldsymbol{\tilde{\chi}}
-ytb,  \boldsymbol{\tilde{\psi}}
-wtb,  \boldsymbol{\tilde{\omega}}
-Gtb,  \boldsymbol{\tilde{\Gamma}}
-Dtb,  \boldsymbol{\tilde{\Delta}}
-Qtb,  \boldsymbol{\tilde{\Theta}}
-Ltb,  \boldsymbol{\tilde{\Lambda}}
-Xtb,  \boldsymbol{\tilde{\Xi}}
-Ptb,  \boldsymbol{\tilde{\Pi}}
-Stb,  \boldsymbol{\tilde{\Sigma}}
-Ftb,  \boldsymbol{\tilde{\Phi}}
-Ytb,  \boldsymbol{\tilde{\Psi}}
-
-
-amb,  \lvert\boldsymbol{\alpha}\rvert
-bmb,  \lvert\boldsymbol{\beta}\rvert
-gmb,  \lvert\boldsymbol{\gamma}\rvert
-dmb,  \lvert\boldsymbol{\delta}\rvert
-emb,  \lvert\boldsymbol{\epsilon}\rvert
-zmb,  \lvert\boldsymbol{\zeta}\rvert
-hmb,  \lvert\boldsymbol{\eta}\rvert
-qmb,  \lvert\boldsymbol{\theta}\rvert
-imb,  \lvert\boldsymbol{\iota}\rvert
-kmb,  \lvert\boldsymbol{\kappa}\rvert
-lmb,  \lvert\boldsymbol{\lambda}\rvert
-mmb,  \lvert\boldsymbol{\mu}\rvert
-nmb,  \lvert\boldsymbol{\nu}\rvert
-xmb,  \lvert\boldsymbol{\xi}\rvert
-omb,  \lvert\boldsymbol{\omicron}\rvert
-pmb,  \lvert\boldsymbol{\pi}\rvert
-rmb,  \lvert\boldsymbol{\rho}\rvert
-smb,  \lvert\boldsymbol{\sigma}\rvert
-tmb,  \lvert\boldsymbol{\tau}\rvert
-umb,  \lvert\boldsymbol{\upsilon}\rvert
-fmb,  \lvert\boldsymbol{\phi}\rvert
-cmb,  \lvert\boldsymbol{\chi}\rvert
-ymb,  \lvert\boldsymbol{\psi}\rvert
-wmb,  \lvert\boldsymbol{\omega}\rvert
-Gmb,  \lvert\boldsymbol{\Gamma}\rvert
-Dmb,  \lvert\boldsymbol{\Delta}\rvert
-Qmb,  \lvert\boldsymbol{\Theta}\rvert
-Lmb,  \lvert\boldsymbol{\Lambda}\rvert
-Xmb,  \lvert\boldsymbol{\Xi}\rvert
-Pmb,  \lvert\boldsymbol{\Pi}\rvert
-Smb,  \lvert\boldsymbol{\Sigma}\rvert
-Fmb,  \lvert\boldsymbol{\Phi}\rvert
-Ymb,  \lvert\boldsymbol{\Psi}\rvert
+apb,\boldsymbol{\alpha}\prime
+bpb,\boldsymbol{\beta}\prime
+gpb,\boldsymbol{\gamma}\prime
+dpb,\boldsymbol{\delta}\prime
+epb,\boldsymbol{\epsilon}\prime
+zpb,\boldsymbol{\zeta}\prime
+hpb,\boldsymbol{\eta}\prime
+qpb,\boldsymbol{\theta}\prime
+ipb,\boldsymbol{\iota}\prime
+kpb,\boldsymbol{\kappa}\prime
+lpb,\boldsymbol{\lambda}\prime
+mpb,\boldsymbol{\mu}\prime
+npb,\boldsymbol{\nu}\prime
+xpb,\boldsymbol{\xi}\prime
+opb,\boldsymbol{\omicron}\prime
+ppb,\boldsymbol{\pi}\prime
+rpb,\boldsymbol{\rho}\prime
+spb,\boldsymbol{\sigma}\prime
+tpb,\boldsymbol{\tau}\prime
+upb,\boldsymbol{\upsilon}\prime
+fpb,\boldsymbol{\phi}\prime
+cpb,\boldsymbol{\chi}\prime
+ypb,\boldsymbol{\psi}\prime
+wpb,\boldsymbol{\omega}\prime
+Gpb,\boldsymbol{\Gamma}\prime
+Dpb,\boldsymbol{\Delta}\prime
+Qpb,\boldsymbol{\Theta}\prime
+Lpb,\boldsymbol{\Lambda}\prime
+Xpb,\boldsymbol{\Xi}\prime
+Ppb,\boldsymbol{\Pi}\prime
+Spb,\boldsymbol{\Sigma}\prime
+Fpb,\boldsymbol{\Phi}\prime
+Ypb,\boldsymbol{\Psi}\prime
+abb,\boldsymbol{\bar{\alpha}}
+bbb,\boldsymbol{\bar{\beta}}
+gbb,\boldsymbol{\bar{\gamma}}
+dbb,\boldsymbol{\bar{\delta}}
+ebb,\boldsymbol{\bar{\epsilon}}
+zbb,\boldsymbol{\bar{\zeta}}
+hbb,\boldsymbol{\bar{\eta}}
+qbb,\boldsymbol{\bar{\theta}}
+ibb,\boldsymbol{\bar{\iota}}
+kbb,\boldsymbol{\bar{\kappa}}
+lbb,\boldsymbol{\bar{\lambda}}
+mbb,\boldsymbol{\bar{\mu}}
+nbb,\boldsymbol{\bar{\nu}}
+xbb,\boldsymbol{\bar{\xi}}
+obb,\boldsymbol{\bar{\omicron}}
+pbb,\boldsymbol{\bar{\pi}}
+rbb,\boldsymbol{\bar{\rho}}
+sbb,\boldsymbol{\bar{\sigma}}
+tbb,\boldsymbol{\bar{\tau}}
+ubb,\boldsymbol{\bar{\upsilon}}
+fbb,\boldsymbol{\bar{\phi}}
+cbb,\boldsymbol{\bar{\chi}}
+ybb,\boldsymbol{\bar{\psi}}
+wbb,\boldsymbol{\bar{\omega}}
+Gbb,\boldsymbol{\bar{\Gamma}}
+Dbb,\boldsymbol{\bar{\Delta}}
+Qbb,\boldsymbol{\bar{\Theta}}
+Lbb,\boldsymbol{\bar{\Lambda}}
+Xbb,\boldsymbol{\bar{\Xi}}
+Pbb,\boldsymbol{\bar{\Pi}}
+Sbb,\boldsymbol{\bar{\Sigma}}
+Fbb,\boldsymbol{\bar{\Phi}}
+Ybb,\boldsymbol{\bar{\Psi}}
+adb,\boldsymbol{\dot{\alpha}}
+bdb,\boldsymbol{\dot{\beta}}
+gdb,\boldsymbol{\dot{\gamma}}
+ddb,\boldsymbol{\dot{\delta}}
+edb,\boldsymbol{\dot{\epsilon}}
+zdb,\boldsymbol{\dot{\zeta}}
+hdb,\boldsymbol{\dot{\eta}}
+qdb,\boldsymbol{\dot{\theta}}
+idb,\boldsymbol{\dot{\iota}}
+kdb,\boldsymbol{\dot{\kappa}}
+ldb,\boldsymbol{\dot{\lambda}}
+mdb,\boldsymbol{\dot{\mu}}
+ndb,\boldsymbol{\dot{\nu}}
+xdb,\boldsymbol{\dot{\xi}}
+odb,\boldsymbol{\dot{\omicron}}
+pdb,\boldsymbol{\dot{\pi}}
+rdb,\boldsymbol{\dot{\rho}}
+sdb,\boldsymbol{\dot{\sigma}}
+tdb,\boldsymbol{\dot{\tau}}
+udb,\boldsymbol{\dot{\upsilon}}
+fdb,\boldsymbol{\dot{\phi}}
+cdb,\boldsymbol{\dot{\chi}}
+ydb,\boldsymbol{\dot{\psi}}
+wdb,\boldsymbol{\dot{\omega}}
+Gdb,\boldsymbol{\dot{\Gamma}}
+Ddb,\boldsymbol{\dot{\Delta}}
+Qdb,\boldsymbol{\dot{\Theta}}
+Ldb,\boldsymbol{\dot{\Lambda}}
+Xdb,\boldsymbol{\dot{\Xi}}
+Pdb,\boldsymbol{\dot{\Pi}}
+Sdb,\boldsymbol{\dot{\Sigma}}
+Fdb,\boldsymbol{\dot{\Phi}}
+Ydb,\boldsymbol{\dot{\Psi}}
+ahb,\boldsymbol{\hat{\alpha}}
+bhb,\boldsymbol{\hat{\beta}}
+ghb,\boldsymbol{\hat{\gamma}}
+dhb,\boldsymbol{\hat{\delta}}
+ehb,\boldsymbol{\hat{\epsilon}}
+zhb,\boldsymbol{\hat{\zeta}}
+hhb,\boldsymbol{\hat{\eta}}
+qhb,\boldsymbol{\hat{\theta}}
+ihb,\boldsymbol{\hat{\iota}}
+khb,\boldsymbol{\hat{\kappa}}
+lhb,\boldsymbol{\hat{\lambda}}
+mhb,\boldsymbol{\hat{\mu}}
+nhb,\boldsymbol{\hat{\nu}}
+xhb,\boldsymbol{\hat{\xi}}
+ohb,\boldsymbol{\hat{\omicron}}
+phb,\boldsymbol{\hat{\pi}}
+rhb,\boldsymbol{\hat{\rho}}
+shb,\boldsymbol{\hat{\sigma}}
+thb,\boldsymbol{\hat{\tau}}
+uhb,\boldsymbol{\hat{\upsilon}}
+fhb,\boldsymbol{\hat{\phi}}
+chb,\boldsymbol{\hat{\chi}}
+yhb,\boldsymbol{\hat{\psi}}
+whb,\boldsymbol{\hat{\omega}}
+Ghb,\boldsymbol{\hat{\Gamma}}
+Dhb,\boldsymbol{\hat{\Delta}}
+Qhb,\boldsymbol{\hat{\Theta}}
+Lhb,\boldsymbol{\hat{\Lambda}}
+Xhb,\boldsymbol{\hat{\Xi}}
+Phb,\boldsymbol{\hat{\Pi}}
+Shb,\boldsymbol{\hat{\Sigma}}
+Fhb,\boldsymbol{\hat{\Phi}}
+Yhb,\boldsymbol{\hat{\Psi}}
+atb,\boldsymbol{\tilde{\alpha}}
+btb,\boldsymbol{\tilde{\beta}}
+gtb,\boldsymbol{\tilde{\gamma}}
+dtb,\boldsymbol{\tilde{\delta}}
+etb,\boldsymbol{\tilde{\epsilon}}
+ztb,\boldsymbol{\tilde{\zeta}}
+htb,\boldsymbol{\tilde{\eta}}
+qtb,\boldsymbol{\tilde{\theta}}
+itb,\boldsymbol{\tilde{\iota}}
+ktb,\boldsymbol{\tilde{\kappa}}
+ltb,\boldsymbol{\tilde{\lambda}}
+mtb,\boldsymbol{\tilde{\mu}}
+ntb,\boldsymbol{\tilde{\nu}}
+xtb,\boldsymbol{\tilde{\xi}}
+otb,\boldsymbol{\tilde{\omicron}}
+ptb,\boldsymbol{\tilde{\pi}}
+rtb,\boldsymbol{\tilde{\rho}}
+stb,\boldsymbol{\tilde{\sigma}}
+ttb,\boldsymbol{\tilde{\tau}}
+utb,\boldsymbol{\tilde{\upsilon}}
+ftb,\boldsymbol{\tilde{\phi}}
+ctb,\boldsymbol{\tilde{\chi}}
+ytb,\boldsymbol{\tilde{\psi}}
+wtb,\boldsymbol{\tilde{\omega}}
+Gtb,\boldsymbol{\tilde{\Gamma}}
+Dtb,\boldsymbol{\tilde{\Delta}}
+Qtb,\boldsymbol{\tilde{\Theta}}
+Ltb,\boldsymbol{\tilde{\Lambda}}
+Xtb,\boldsymbol{\tilde{\Xi}}
+Ptb,\boldsymbol{\tilde{\Pi}}
+Stb,\boldsymbol{\tilde{\Sigma}}
+Ftb,\boldsymbol{\tilde{\Phi}}
+Ytb,\boldsymbol{\tilde{\Psi}}
 
 
-a0b,  \boldsymbol{\alpha_0}
-b0b,  \boldsymbol{\beta_0}
-g0b,  \boldsymbol{\gamma_0}
-d0b,  \boldsymbol{\delta_0}
-e0b,  \boldsymbol{\epsilon_0}
-z0b,  \boldsymbol{\zeta_0}
-h0b,  \boldsymbol{\eta_0}
-q0b,  \boldsymbol{\theta_0}
-i0b,  \boldsymbol{\iota_0}
-k0b,  \boldsymbol{\kappa_0}
-l0b,  \boldsymbol{\lambda_0}
-m0b,  \boldsymbol{\mu_0}
-n0b,  \boldsymbol{\nu_0}
-x0b,  \boldsymbol{\xi_0}
-o0b,  \boldsymbol{\omicron_0}
-p0b,  \boldsymbol{\pi_0}
-r0b,  \boldsymbol{\rho_0}
-s0b,  \boldsymbol{\sigma_0}
-t0b,  \boldsymbol{\tau_0}
-u0b,  \boldsymbol{\upsilon_0}
-f0b,  \boldsymbol{\phi_0}
-c0b,  \boldsymbol{\chi_0}
-y0b,  \boldsymbol{\psi_0}
-w0b,  \boldsymbol{\omega_0}
-G0b,  \boldsymbol{\Gamma_0}
-D0b,  \boldsymbol{\Delta_0}
-Q0b,  \boldsymbol{\Theta_0}
-L0b,  \boldsymbol{\Lambda_0}
-X0b,  \boldsymbol{\Xi_0}
-P0b,  \boldsymbol{\Pi_0}
-S0b,  \boldsymbol{\Sigma_0}
-F0b,  \boldsymbol{\Phi_0}
-Y0b,  \boldsymbol{\Psi_0}
-a1b,  \boldsymbol{\alpha_1}
-b1b,  \boldsymbol{\beta_1}
-g1b,  \boldsymbol{\gamma_1}
-d1b,  \boldsymbol{\delta_1}
-e1b,  \boldsymbol{\epsilon_1}
-z1b,  \boldsymbol{\zeta_1}
-h1b,  \boldsymbol{\eta_1}
-q1b,  \boldsymbol{\theta_1}
-i1b,  \boldsymbol{\iota_1}
-k1b,  \boldsymbol{\kappa_1}
-l1b,  \boldsymbol{\lambda_1}
-m1b,  \boldsymbol{\mu_1}
-n1b,  \boldsymbol{\nu_1}
-x1b,  \boldsymbol{\xi_1}
-o1b,  \boldsymbol{\omicron_1}
-p1b,  \boldsymbol{\pi_1}
-r1b,  \boldsymbol{\rho_1}
-s1b,  \boldsymbol{\sigma_1}
-t1b,  \boldsymbol{\tau_1}
-u1b,  \boldsymbol{\upsilon_1}
-f1b,  \boldsymbol{\phi_1}
-c1b,  \boldsymbol{\chi_1}
-y1b,  \boldsymbol{\psi_1}
-w1b,  \boldsymbol{\omega_1}
-G1b,  \boldsymbol{\Gamma_1}
-D1b,  \boldsymbol{\Delta_1}
-Q1b,  \boldsymbol{\Theta_1}
-L1b,  \boldsymbol{\Lambda_1}
-X1b,  \boldsymbol{\Xi_1}
-P1b,  \boldsymbol{\Pi_1}
-S1b,  \boldsymbol{\Sigma_1}
-F1b,  \boldsymbol{\Phi_1}
-Y1b,  \boldsymbol{\Psi_1}
-a2b,  \boldsymbol{\alpha_2}
-b2b,  \boldsymbol{\beta_2}
-g2b,  \boldsymbol{\gamma_2}
-d2b,  \boldsymbol{\delta_2}
-e2b,  \boldsymbol{\epsilon_2}
-z2b,  \boldsymbol{\zeta_2}
-h2b,  \boldsymbol{\eta_2}
-q2b,  \boldsymbol{\theta_2}
-i2b,  \boldsymbol{\iota_2}
-k2b,  \boldsymbol{\kappa_2}
-l2b,  \boldsymbol{\lambda_2}
-m2b,  \boldsymbol{\mu_2}
-n2b,  \boldsymbol{\nu_2}
-x2b,  \boldsymbol{\xi_2}
-o2b,  \boldsymbol{\omicron_2}
-p2b,  \boldsymbol{\pi_2}
-r2b,  \boldsymbol{\rho_2}
-s2b,  \boldsymbol{\sigma_2}
-t2b,  \boldsymbol{\tau_2}
-u2b,  \boldsymbol{\upsilon_2}
-f2b,  \boldsymbol{\phi_2}
-c2b,  \boldsymbol{\chi_2}
-y2b,  \boldsymbol{\psi_2}
-w2b,  \boldsymbol{\omega_2}
-G2b,  \boldsymbol{\Gamma_2}
-D2b,  \boldsymbol{\Delta_2}
-Q2b,  \boldsymbol{\Theta_2}
-L2b,  \boldsymbol{\Lambda_2}
-X2b,  \boldsymbol{\Xi_2}
-P2b,  \boldsymbol{\Pi_2}
-S2b,  \boldsymbol{\Sigma_2}
-F2b,  \boldsymbol{\Phi_2}
-Y2b,  \boldsymbol{\Psi_2}
-a3b,  \boldsymbol{\alpha_3}
-b3b,  \boldsymbol{\beta_3}
-g3b,  \boldsymbol{\gamma_3}
-d3b,  \boldsymbol{\delta_3}
-e3b,  \boldsymbol{\epsilon_3}
-z3b,  \boldsymbol{\zeta_3}
-h3b,  \boldsymbol{\eta_3}
-q3b,  \boldsymbol{\theta_3}
-i3b,  \boldsymbol{\iota_3}
-k3b,  \boldsymbol{\kappa_3}
-l3b,  \boldsymbol{\lambda_3}
-m3b,  \boldsymbol{\mu_3}
-n3b,  \boldsymbol{\nu_3}
-x3b,  \boldsymbol{\xi_3}
-o3b,  \boldsymbol{\omicron_3}
-p3b,  \boldsymbol{\pi_3}
-r3b,  \boldsymbol{\rho_3}
-s3b,  \boldsymbol{\sigma_3}
-t3b,  \boldsymbol{\tau_3}
-u3b,  \boldsymbol{\upsilon_3}
-f3b,  \boldsymbol{\phi_3}
-c3b,  \boldsymbol{\chi_3}
-y3b,  \boldsymbol{\psi_3}
-w3b,  \boldsymbol{\omega_3}
-G3b,  \boldsymbol{\Gamma_3}
-D3b,  \boldsymbol{\Delta_3}
-Q3b,  \boldsymbol{\Theta_3}
-L3b,  \boldsymbol{\Lambda_3}
-X3b,  \boldsymbol{\Xi_3}
-P3b,  \boldsymbol{\Pi_3}
-S3b,  \boldsymbol{\Sigma_3}
-F3b,  \boldsymbol{\Phi_3}
-Y3b,  \boldsymbol{\Psi_3}
+amb,\lvert\boldsymbol{\alpha}\rvert
+bmb,\lvert\boldsymbol{\beta}\rvert
+gmb,\lvert\boldsymbol{\gamma}\rvert
+dmb,\lvert\boldsymbol{\delta}\rvert
+emb,\lvert\boldsymbol{\epsilon}\rvert
+zmb,\lvert\boldsymbol{\zeta}\rvert
+hmb,\lvert\boldsymbol{\eta}\rvert
+qmb,\lvert\boldsymbol{\theta}\rvert
+imb,\lvert\boldsymbol{\iota}\rvert
+kmb,\lvert\boldsymbol{\kappa}\rvert
+lmb,\lvert\boldsymbol{\lambda}\rvert
+mmb,\lvert\boldsymbol{\mu}\rvert
+nmb,\lvert\boldsymbol{\nu}\rvert
+xmb,\lvert\boldsymbol{\xi}\rvert
+omb,\lvert\boldsymbol{\omicron}\rvert
+pmb,\lvert\boldsymbol{\pi}\rvert
+rmb,\lvert\boldsymbol{\rho}\rvert
+smb,\lvert\boldsymbol{\sigma}\rvert
+tmb,\lvert\boldsymbol{\tau}\rvert
+umb,\lvert\boldsymbol{\upsilon}\rvert
+fmb,\lvert\boldsymbol{\phi}\rvert
+cmb,\lvert\boldsymbol{\chi}\rvert
+ymb,\lvert\boldsymbol{\psi}\rvert
+wmb,\lvert\boldsymbol{\omega}\rvert
+Gmb,\lvert\boldsymbol{\Gamma}\rvert
+Dmb,\lvert\boldsymbol{\Delta}\rvert
+Qmb,\lvert\boldsymbol{\Theta}\rvert
+Lmb,\lvert\boldsymbol{\Lambda}\rvert
+Xmb,\lvert\boldsymbol{\Xi}\rvert
+Pmb,\lvert\boldsymbol{\Pi}\rvert
+Smb,\lvert\boldsymbol{\Sigma}\rvert
+Fmb,\lvert\boldsymbol{\Phi}\rvert
+Ymb,\lvert\boldsymbol{\Psi}\rvert
 
 
-asx,  $\alpha^*$
-bsx,  $\beta^*$
-gsx,  $\gamma^*$
-dsx,  $\delta^*$
-esx,  $\epsilon^*$
-zsx,  $\zeta^*$
-hsx,  $\eta^*$
-qsx,  $\theta^*$
-isx,  $\iota^*$
-ksx,  $\kappa^*$
-lsx,  $\lambda^*$
-msx,  $\mu^*$
-nsx,  $\nu^*$
-xsx,  $\xi^*$
-osx,  $\omicron^*$
-psx,  $\pi^*$
-rsx,  $\rho^*$
-ssx,  $\sigma^*$
-tsx,  $\tau^*$
-usx,  $\upsilon^*$
-fsx,  $\phi^*$
-csx,  $\chi^*$
-ysx,  $\psi^*$
-wsx,  $\omega^*$
-Gsx,  $\Gamma^*$
-Dsx,  $\Delta^*$
-Qsx,  $\Theta^*$
-Lsx,  $\Lambda^*$
-Xsx,  $\Xi^*$
-Psx,  $\Pi^*$
-Ssx,  $\Sigma^*$
-Fsx,  $\Phi^*$
-Ysx,  $\Psi^*$
-apx,  $\alpha\prime$
-bpx,  $\beta\prime$
-gpx,  $\gamma\prime$
-dpx,  $\delta\prime$
-epx,  $\epsilon\prime$
-zpx,  $\zeta\prime$
-hpx,  $\eta\prime$
-qpx,  $\theta\prime$
-ipx,  $\iota\prime$
-kpx,  $\kappa\prime$
-lpx,  $\lambda\prime$
-mpx,  $\mu\prime$
-npx,  $\nu\prime$
-xpx,  $\xi\prime$
-opx,  $\omicron\prime$
-ppx,  $\pi\prime$
-rpx,  $\rho\prime$
-spx,  $\sigma\prime$
-tpx,  $\tau\prime$
-upx,  $\upsilon\prime$
-fpx,  $\phi\prime$
-cpx,  $\chi\prime$
-ypx,  $\psi\prime$
-wpx,  $\omega\prime$
-Gpx,  $\Gamma\prime$
-Dpx,  $\Delta\prime$
-Qpx,  $\Theta\prime$
-Lpx,  $\Lambda\prime$
-Xpx,  $\Xi\prime$
-Ppx,  $\Pi\prime$
-Spx,  $\Sigma\prime$
-Fpx,  $\Phi\prime$
-Ypx,  $\Psi\prime$
-abx,  $\bar{\alpha}$
-bbx,  $\bar{\beta}$
-gbx,  $\bar{\gamma}$
-dbx,  $\bar{\delta}$
-ebx,  $\bar{\epsilon}$
-zbx,  $\bar{\zeta}$
-hbx,  $\bar{\eta}$
-qbx,  $\bar{\theta}$
-ibx,  $\bar{\iota}$
-kbx,  $\bar{\kappa}$
-lbx,  $\bar{\lambda}$
-mbx,  $\bar{\mu}$
-nbx,  $\bar{\nu}$
-xbx,  $\bar{\xi}$
-obx,  $\bar{\omicron}$
-pbx,  $\bar{\pi}$
-rbx,  $\bar{\rho}$
-sbx,  $\bar{\sigma}$
-tbx,  $\bar{\tau}$
-ubx,  $\bar{\upsilon}$
-fbx,  $\bar{\phi}$
-cbx,  $\bar{\chi}$
-ybx,  $\bar{\psi}$
-wbx,  $\bar{\omega}$
-Gbx,  $\bar{\Gamma}$
-Dbx,  $\bar{\Delta}$
-Qbx,  $\bar{\Theta}$
-Lbx,  $\bar{\Lambda}$
-Xbx,  $\bar{\Xi}$
-Pbx,  $\bar{\Pi}$
-Sbx,  $\bar{\Sigma}$
-Fbx,  $\bar{\Phi}$
-Ybx,  $\bar{\Psi}$
-adx,  $\dot{\alpha}$
-bdx,  $\dot{\beta}$
-gdx,  $\dot{\gamma}$
-ddx,  $\dot{\delta}$
-edx,  $\dot{\epsilon}$
-zdx,  $\dot{\zeta}$
-hdx,  $\dot{\eta}$
-qdx,  $\dot{\theta}$
-idx,  $\dot{\iota}$
-kdx,  $\dot{\kappa}$
-ldx,  $\dot{\lambda}$
-mdx,  $\dot{\mu}$
-ndx,  $\dot{\nu}$
-xdx,  $\dot{\xi}$
-odx,  $\dot{\omicron}$
-pdx,  $\dot{\pi}$
-rdx,  $\dot{\rho}$
-sdx,  $\dot{\sigma}$
-tdx,  $\dot{\tau}$
-udx,  $\dot{\upsilon}$
-fdx,  $\dot{\phi}$
-cdx,  $\dot{\chi}$
-ydx,  $\dot{\psi}$
-wdx,  $\dot{\omega}$
-Gdx,  $\dot{\Gamma}$
-Ddx,  $\dot{\Delta}$
-Qdx,  $\dot{\Theta}$
-Ldx,  $\dot{\Lambda}$
-Xdx,  $\dot{\Xi}$
-Pdx,  $\dot{\Pi}$
-Sdx,  $\dot{\Sigma}$
-Fdx,  $\dot{\Phi}$
-Ydx,  $\dot{\Psi}$
-ahx,  $\hat{\alpha}$
-bhx,  $\hat{\beta}$
-ghx,  $\hat{\gamma}$
-dhx,  $\hat{\delta}$
-ehx,  $\hat{\epsilon}$
-zhx,  $\hat{\zeta}$
-hhx,  $\hat{\eta}$
-qhx,  $\hat{\theta}$
-ihx,  $\hat{\iota}$
-khx,  $\hat{\kappa}$
-lhx,  $\hat{\lambda}$
-mhx,  $\hat{\mu}$
-nhx,  $\hat{\nu}$
-xhx,  $\hat{\xi}$
-ohx,  $\hat{\omicron}$
-phx,  $\hat{\pi}$
-rhx,  $\hat{\rho}$
-shx,  $\hat{\sigma}$
-thx,  $\hat{\tau}$
-uhx,  $\hat{\upsilon}$
-fhx,  $\hat{\phi}$
-chx,  $\hat{\chi}$
-yhx,  $\hat{\psi}$
-whx,  $\hat{\omega}$
-Ghx,  $\hat{\Gamma}$
-Dhx,  $\hat{\Delta}$
-Qhx,  $\hat{\Theta}$
-Lhx,  $\hat{\Lambda}$
-Xhx,  $\hat{\Xi}$
-Phx,  $\hat{\Pi}$
-Shx,  $\hat{\Sigma}$
-Fhx,  $\hat{\Phi}$
-Yhx,  $\hat{\Psi}$
-atx,  $\tilde{\alpha}$
-btx,  $\tilde{\beta}$
-gtx,  $\tilde{\gamma}$
-dtx,  $\tilde{\delta}$
-etx,  $\tilde{\epsilon}$
-ztx,  $\tilde{\zeta}$
-htx,  $\tilde{\eta}$
-qtx,  $\tilde{\theta}$
-itx,  $\tilde{\iota}$
-ktx,  $\tilde{\kappa}$
-ltx,  $\tilde{\lambda}$
-mtx,  $\tilde{\mu}$
-ntx,  $\tilde{\nu}$
-xtx,  $\tilde{\xi}$
-otx,  $\tilde{\omicron}$
-ptx,  $\tilde{\pi}$
-rtx,  $\tilde{\rho}$
-stx,  $\tilde{\sigma}$
-ttx,  $\tilde{\tau}$
-utx,  $\tilde{\upsilon}$
-ftx,  $\tilde{\phi}$
-ctx,  $\tilde{\chi}$
-ytx,  $\tilde{\psi}$
-wtx,  $\tilde{\omega}$
-Gtx,  $\tilde{\Gamma}$
-Dtx,  $\tilde{\Delta}$
-Qtx,  $\tilde{\Theta}$
-Ltx,  $\tilde{\Lambda}$
-Xtx,  $\tilde{\Xi}$
-Ptx,  $\tilde{\Pi}$
-Stx,  $\tilde{\Sigma}$
-Ftx,  $\tilde{\Phi}$
-Ytx,  $\tilde{\Psi}$
-amx,  $\lvert\alpha\rvert$
-bmx,  $\lvert\beta\rvert$
-gmx,  $\lvert\gamma\rvert$
-dmx,  $\lvert\delta\rvert$
-emx,  $\lvert\epsilon\rvert$
-zmx,  $\lvert\zeta\rvert$
-hmx,  $\lvert\eta\rvert$
-qmx,  $\lvert\theta\rvert$
-imx,  $\lvert\iota\rvert$
-kmx,  $\lvert\kappa\rvert$
-lmx,  $\lvert\lambda\rvert$
-mmx,  $\lvert\mu\rvert$
-nmx,  $\lvert\nu\rvert$
-xmx,  $\lvert\xi\rvert$
-omx,  $\lvert\omicron\rvert$
-pmx,  $\lvert\pi\rvert$
-rmx,  $\lvert\rho\rvert$
-smx,  $\lvert\sigma\rvert$
-tmx,  $\lvert\tau\rvert$
-umx,  $\lvert\upsilon\rvert$
-fmx,  $\lvert\phi\rvert$
-cmx,  $\lvert\chi\rvert$
-ymx,  $\lvert\psi\rvert$
-wmx,  $\lvert\omega\rvert$
-Gmx,  $\lvert\Gamma\rvert$
-Dmx,  $\lvert\Delta\rvert$
-Qmx,  $\lvert\Theta\rvert$
-Lmx,  $\lvert\Lambda\rvert$
-Xmx,  $\lvert\Xi\rvert$
-Pmx,  $\lvert\Pi\rvert$
-Smx,  $\lvert\Sigma\rvert$
-Fmx,  $\lvert\Phi\rvert$
-Ymx,  $\lvert\Psi\rvert$
-a0x,  $\alpha_0$
-b0x,  $\beta_0$
-g0x,  $\gamma_0$
-d0x,  $\delta_0$
-e0x,  $\epsilon_0$
-z0x,  $\zeta_0$
-h0x,  $\eta_0$
-q0x,  $\theta_0$
-i0x,  $\iota_0$
-k0x,  $\kappa_0$
-l0x,  $\lambda_0$
-m0x,  $\mu_0$
-n0x,  $\nu_0$
-x0x,  $\xi_0$
-o0x,  $\omicron_0$
-p0x,  $\pi_0$
-r0x,  $\rho_0$
-s0x,  $\sigma_0$
-t0x,  $\tau_0$
-u0x,  $\upsilon_0$
-f0x,  $\phi_0$
-c0x,  $\chi_0$
-y0x,  $\psi_0$
-w0x,  $\omega_0$
-G0x,  $\Gamma_0$
-D0x,  $\Delta_0$
-Q0x,  $\Theta_0$
-L0x,  $\Lambda_0$
-X0x,  $\Xi_0$
-P0x,  $\Pi_0$
-S0x,  $\Sigma_0$
-F0x,  $\Phi_0$
-Y0x,  $\Psi_0$
-a1x,  $\alpha_1$
-b1x,  $\beta_1$
-g1x,  $\gamma_1$
-d1x,  $\delta_1$
-e1x,  $\epsilon_1$
-z1x,  $\zeta_1$
-h1x,  $\eta_1$
-q1x,  $\theta_1$
-i1x,  $\iota_1$
-k1x,  $\kappa_1$
-l1x,  $\lambda_1$
-m1x,  $\mu_1$
-n1x,  $\nu_1$
-x1x,  $\xi_1$
-o1x,  $\omicron_1$
-p1x,  $\pi_1$
-r1x,  $\rho_1$
-s1x,  $\sigma_1$
-t1x,  $\tau_1$
-u1x,  $\upsilon_1$
-f1x,  $\phi_1$
-c1x,  $\chi_1$
-y1x,  $\psi_1$
-w1x,  $\omega_1$
-G1x,  $\Gamma_1$
-D1x,  $\Delta_1$
-Q1x,  $\Theta_1$
-L1x,  $\Lambda_1$
-X1x,  $\Xi_1$
-P1x,  $\Pi_1$
-S1x,  $\Sigma_1$
-F1x,  $\Phi_1$
-Y1x,  $\Psi_1$
-a2x,  $\alpha_2$
-b2x,  $\beta_2$
-g2x,  $\gamma_2$
-d2x,  $\delta_2$
-e2x,  $\epsilon_2$
-z2x,  $\zeta_2$
-h2x,  $\eta_2$
-q2x,  $\theta_2$
-i2x,  $\iota_2$
-k2x,  $\kappa_2$
-l2x,  $\lambda_2$
-m2x,  $\mu_2$
-n2x,  $\nu_2$
-x2x,  $\xi_2$
-o2x,  $\omicron_2$
-p2x,  $\pi_2$
-r2x,  $\rho_2$
-s2x,  $\sigma_2$
-t2x,  $\tau_2$
-u2x,  $\upsilon_2$
-f2x,  $\phi_2$
-c2x,  $\chi_2$
-y2x,  $\psi_2$
-w2x,  $\omega_2$
-G2x,  $\Gamma_2$
-D2x,  $\Delta_2$
-Q2x,  $\Theta_2$
-L2x,  $\Lambda_2$
-X2x,  $\Xi_2$
-P2x,  $\Pi_2$
-S2x,  $\Sigma_2$
-F2x,  $\Phi_2$
-Y2x,  $\Psi_2$
-a3x,  $\alpha_3$
-b3x,  $\beta_3$
-g3x,  $\gamma_3$
-d3x,  $\delta_3$
-e3x,  $\epsilon_3$
-z3x,  $\zeta_3$
-h3x,  $\eta_3$
-q3x,  $\theta_3$
-i3x,  $\iota_3$
-k3x,  $\kappa_3$
-l3x,  $\lambda_3$
-m3x,  $\mu_3$
-n3x,  $\nu_3$
-x3x,  $\xi_3$
-o3x,  $\omicron_3$
-p3x,  $\pi_3$
-r3x,  $\rho_3$
-s3x,  $\sigma_3$
-t3x,  $\tau_3$
-u3x,  $\upsilon_3$
-f3x,  $\phi_3$
-c3x,  $\chi_3$
-y3x,  $\psi_3$
-w3x,  $\omega_3$
-G3x,  $\Gamma_3$
-D3x,  $\Delta_3$
-Q3x,  $\Theta_3$
-L3x,  $\Lambda_3$
-X3x,  $\Xi_3$
-P3x,  $\Pi_3$
-S3x,  $\Sigma_3$
-F3x,  $\Phi_3$
-Y3x,  $\Psi_3$
-asbx,  $\boldsymbol{\alpha^*$
-bsbx,  $\boldsymbol{\beta^*$
-gsbx,  $\boldsymbol{\gamma^*$
-dsbx,  $\boldsymbol{\delta^*$
-esbx,  $\boldsymbol{\epsilon^*$
-zsbx,  $\boldsymbol{\zeta^*$
-hsbx,  $\boldsymbol{\eta^*$
-qsbx,  $\boldsymbol{\theta^*$
-isbx,  $\boldsymbol{\iota^*$
-ksbx,  $\boldsymbol{\kappa^*$
-lsbx,  $\boldsymbol{\lambda^*$
-msbx,  $\boldsymbol{\mu^*$
-nsbx,  $\boldsymbol{\nu^*$
-xsbx,  $\boldsymbol{\xi^*$
-osbx,  $\boldsymbol{\omicron^*$
-psbx,  $\boldsymbol{\pi^*$
-rsbx,  $\boldsymbol{\rho^*$
-ssbx,  $\boldsymbol{\sigma^*$
-tsbx,  $\boldsymbol{\tau^*$
-usbx,  $\boldsymbol{\upsilon^*$
-fsbx,  $\boldsymbol{\phi^*$
-csbx,  $\boldsymbol{\chi^*$
-ysbx,  $\boldsymbol{\psi^*$
-wsbx,  $\boldsymbol{\omega^*$
-Gsbx,  $\boldsymbol{\Gamma^*$
-Dsbx,  $\boldsymbol{\Delta^*$
-Qsbx,  $\boldsymbol{\Theta^*$
-Lsbx,  $\boldsymbol{\Lambda^*$
-Xsbx,  $\boldsymbol{\Xi^*$
-Psbx,  $\boldsymbol{\Pi^*$
-Ssbx,  $\boldsymbol{\Sigma^*$
-Fsbx,  $\boldsymbol{\Phi^*$
-Ysbx,  $\boldsymbol{\Psi^*$
-apbx,  $\boldsymbol{\alpha}\prime$
-bpbx,  $\boldsymbol{\beta}\prime$
-gpbx,  $\boldsymbol{\gamma}\prime$
-dpbx,  $\boldsymbol{\delta}\prime$
-epbx,  $\boldsymbol{\epsilon}\prime$
-zpbx,  $\boldsymbol{\zeta}\prime$
-hpbx,  $\boldsymbol{\eta}\prime$
-qpbx,  $\boldsymbol{\theta}\prime$
-ipbx,  $\boldsymbol{\iota}\prime$
-kpbx,  $\boldsymbol{\kappa}\prime$
-lpbx,  $\boldsymbol{\lambda}\prime$
-mpbx,  $\boldsymbol{\mu}\prime$
-npbx,  $\boldsymbol{\nu}\prime$
-xpbx,  $\boldsymbol{\xi}\prime$
-opbx,  $\boldsymbol{\omicron}\prime$
-ppbx,  $\boldsymbol{\pi}\prime$
-rpbx,  $\boldsymbol{\rho}\prime$
-spbx,  $\boldsymbol{\sigma}\prime$
-tpbx,  $\boldsymbol{\tau}\prime$
-upbx,  $\boldsymbol{\upsilon}\prime$
-fpbx,  $\boldsymbol{\phi}\prime$
-cpbx,  $\boldsymbol{\chi}\prime$
-ypbx,  $\boldsymbol{\psi}\prime$
-wpbx,  $\boldsymbol{\omega}\prime$
-Gpbx,  $\boldsymbol{\Gamma}\prime$
-Dpbx,  $\boldsymbol{\Delta}\prime$
-Qpbx,  $\boldsymbol{\Theta}\prime$
-Lpbx,  $\boldsymbol{\Lambda}\prime$
-Xpbx,  $\boldsymbol{\Xi}\prime$
-Ppbx,  $\boldsymbol{\Pi}\prime$
-Spbx,  $\boldsymbol{\Sigma}\prime$
-Fpbx,  $\boldsymbol{\Phi}\prime$
-Ypbx,  $\boldsymbol{\Psi}\prime$
-abbx,  $\boldsymbol{\bar{\alpha}}$
-bbbx,  $\boldsymbol{\bar{\beta}}$
-gbbx,  $\boldsymbol{\bar{\gamma}}$
-dbbx,  $\boldsymbol{\bar{\delta}}$
-ebbx,  $\boldsymbol{\bar{\epsilon}}$
-zbbx,  $\boldsymbol{\bar{\zeta}}$
-hbbx,  $\boldsymbol{\bar{\eta}}$
-qbbx,  $\boldsymbol{\bar{\theta}}$
-ibbx,  $\boldsymbol{\bar{\iota}}$
-kbbx,  $\boldsymbol{\bar{\kappa}}$
-lbbx,  $\boldsymbol{\bar{\lambda}}$
-mbbx,  $\boldsymbol{\bar{\mu}}$
-nbbx,  $\boldsymbol{\bar{\nu}}$
-xbbx,  $\boldsymbol{\bar{\xi}}$
-obbx,  $\boldsymbol{\bar{\omicron}}$
-pbbx,  $\boldsymbol{\bar{\pi}}$
-rbbx,  $\boldsymbol{\bar{\rho}}$
-sbbx,  $\boldsymbol{\bar{\sigma}}$
-tbbx,  $\boldsymbol{\bar{\tau}}$
-ubbx,  $\boldsymbol{\bar{\upsilon}}$
-fbbx,  $\boldsymbol{\bar{\phi}}$
-cbbx,  $\boldsymbol{\bar{\chi}}$
-ybbx,  $\boldsymbol{\bar{\psi}}$
-wbbx,  $\boldsymbol{\bar{\omega}}$
-Gbbx,  $\boldsymbol{\bar{\Gamma}}$
-Dbbx,  $\boldsymbol{\bar{\Delta}}$
-Qbbx,  $\boldsymbol{\bar{\Theta}}$
-Lbbx,  $\boldsymbol{\bar{\Lambda}}$
-Xbbx,  $\boldsymbol{\bar{\Xi}}$
-Pbbx,  $\boldsymbol{\bar{\Pi}}$
-Sbbx,  $\boldsymbol{\bar{\Sigma}}$
-Fbbx,  $\boldsymbol{\bar{\Phi}}$
-Ybbx,  $\boldsymbol{\bar{\Psi}}$
-adbx,  $\boldsymbol{\dot{\alpha}}$
-bdbx,  $\boldsymbol{\dot{\beta}}$
-gdbx,  $\boldsymbol{\dot{\gamma}}$
-ddbx,  $\boldsymbol{\dot{\delta}}$
-edbx,  $\boldsymbol{\dot{\epsilon}}$
-zdbx,  $\boldsymbol{\dot{\zeta}}$
-hdbx,  $\boldsymbol{\dot{\eta}}$
-qdbx,  $\boldsymbol{\dot{\theta}}$
-idbx,  $\boldsymbol{\dot{\iota}}$
-kdbx,  $\boldsymbol{\dot{\kappa}}$
-ldbx,  $\boldsymbol{\dot{\lambda}}$
-mdbx,  $\boldsymbol{\dot{\mu}}$
-ndbx,  $\boldsymbol{\dot{\nu}}$
-xdbx,  $\boldsymbol{\dot{\xi}}$
-odbx,  $\boldsymbol{\dot{\omicron}}$
-pdbx,  $\boldsymbol{\dot{\pi}}$
-rdbx,  $\boldsymbol{\dot{\rho}}$
-sdbx,  $\boldsymbol{\dot{\sigma}}$
-tdbx,  $\boldsymbol{\dot{\tau}}$
-udbx,  $\boldsymbol{\dot{\upsilon}}$
-fdbx,  $\boldsymbol{\dot{\phi}}$
-cdbx,  $\boldsymbol{\dot{\chi}}$
-ydbx,  $\boldsymbol{\dot{\psi}}$
-wdbx,  $\boldsymbol{\dot{\omega}}$
-Gdbx,  $\boldsymbol{\dot{\Gamma}}$
-Ddbx,  $\boldsymbol{\dot{\Delta}}$
-Qdbx,  $\boldsymbol{\dot{\Theta}}$
-Ldbx,  $\boldsymbol{\dot{\Lambda}}$
-Xdbx,  $\boldsymbol{\dot{\Xi}}$
-Pdbx,  $\boldsymbol{\dot{\Pi}}$
-Sdbx,  $\boldsymbol{\dot{\Sigma}}$
-Fdbx,  $\boldsymbol{\dot{\Phi}}$
-Ydbx,  $\boldsymbol{\dot{\Psi}}$
-ahbx,  $\boldsymbol{\hat{\alpha}}$
-bhbx,  $\boldsymbol{\hat{\beta}}$
-ghbx,  $\boldsymbol{\hat{\gamma}}$
-dhbx,  $\boldsymbol{\hat{\delta}}$
-ehbx,  $\boldsymbol{\hat{\epsilon}}$
-zhbx,  $\boldsymbol{\hat{\zeta}}$
-hhbx,  $\boldsymbol{\hat{\eta}}$
-qhbx,  $\boldsymbol{\hat{\theta}}$
-ihbx,  $\boldsymbol{\hat{\iota}}$
-khbx,  $\boldsymbol{\hat{\kappa}}$
-lhbx,  $\boldsymbol{\hat{\lambda}}$
-mhbx,  $\boldsymbol{\hat{\mu}}$
-nhbx,  $\boldsymbol{\hat{\nu}}$
-xhbx,  $\boldsymbol{\hat{\xi}}$
-ohbx,  $\boldsymbol{\hat{\omicron}}$
-phbx,  $\boldsymbol{\hat{\pi}}$
-rhbx,  $\boldsymbol{\hat{\rho}}$
-shbx,  $\boldsymbol{\hat{\sigma}}$
-thbx,  $\boldsymbol{\hat{\tau}}$
-uhbx,  $\boldsymbol{\hat{\upsilon}}$
-fhbx,  $\boldsymbol{\hat{\phi}}$
-chbx,  $\boldsymbol{\hat{\chi}}$
-yhbx,  $\boldsymbol{\hat{\psi}}$
-whbx,  $\boldsymbol{\hat{\omega}}$
-Ghbx,  $\boldsymbol{\hat{\Gamma}}$
-Dhbx,  $\boldsymbol{\hat{\Delta}}$
-Qhbx,  $\boldsymbol{\hat{\Theta}}$
-Lhbx,  $\boldsymbol{\hat{\Lambda}}$
-Xhbx,  $\boldsymbol{\hat{\Xi}}$
-Phbx,  $\boldsymbol{\hat{\Pi}}$
-Shbx,  $\boldsymbol{\hat{\Sigma}}$
-Fhbx,  $\boldsymbol{\hat{\Phi}}$
-Yhbx,  $\boldsymbol{\hat{\Psi}}$
-atbx,  $\boldsymbol{\tilde{\alpha}}$
-btbx,  $\boldsymbol{\tilde{\beta}}$
-gtbx,  $\boldsymbol{\tilde{\gamma}}$
-dtbx,  $\boldsymbol{\tilde{\delta}}$
-etbx,  $\boldsymbol{\tilde{\epsilon}}$
-ztbx,  $\boldsymbol{\tilde{\zeta}}$
-htbx,  $\boldsymbol{\tilde{\eta}}$
-qtbx,  $\boldsymbol{\tilde{\theta}}$
-itbx,  $\boldsymbol{\tilde{\iota}}$
-ktbx,  $\boldsymbol{\tilde{\kappa}}$
-ltbx,  $\boldsymbol{\tilde{\lambda}}$
-mtbx,  $\boldsymbol{\tilde{\mu}}$
-ntbx,  $\boldsymbol{\tilde{\nu}}$
-xtbx,  $\boldsymbol{\tilde{\xi}}$
-otbx,  $\boldsymbol{\tilde{\omicron}}$
-ptbx,  $\boldsymbol{\tilde{\pi}}$
-rtbx,  $\boldsymbol{\tilde{\rho}}$
-stbx,  $\boldsymbol{\tilde{\sigma}}$
-ttbx,  $\boldsymbol{\tilde{\tau}}$
-utbx,  $\boldsymbol{\tilde{\upsilon}}$
-ftbx,  $\boldsymbol{\tilde{\phi}}$
-ctbx,  $\boldsymbol{\tilde{\chi}}$
-ytbx,  $\boldsymbol{\tilde{\psi}}$
-wtbx,  $\boldsymbol{\tilde{\omega}}$
-Gtbx,  $\boldsymbol{\tilde{\Gamma}}$
-Dtbx,  $\boldsymbol{\tilde{\Delta}}$
-Qtbx,  $\boldsymbol{\tilde{\Theta}}$
-Ltbx,  $\boldsymbol{\tilde{\Lambda}}$
-Xtbx,  $\boldsymbol{\tilde{\Xi}}$
-Ptbx,  $\boldsymbol{\tilde{\Pi}}$
-Stbx,  $\boldsymbol{\tilde{\Sigma}}$
-Ftbx,  $\boldsymbol{\tilde{\Phi}}$
-Ytbx,  $\boldsymbol{\tilde{\Psi}}$
-ambx,  $\lvert\boldsymbol{\alpha}\rvert$
-bmbx,  $\lvert\boldsymbol{\beta}\rvert$
-gmbx,  $\lvert\boldsymbol{\gamma}\rvert$
-dmbx,  $\lvert\boldsymbol{\delta}\rvert$
-embx,  $\lvert\boldsymbol{\epsilon}\rvert$
-zmbx,  $\lvert\boldsymbol{\zeta}\rvert$
-hmbx,  $\lvert\boldsymbol{\eta}\rvert$
-qmbx,  $\lvert\boldsymbol{\theta}\rvert$
-imbx,  $\lvert\boldsymbol{\iota}\rvert$
-kmbx,  $\lvert\boldsymbol{\kappa}\rvert$
-lmbx,  $\lvert\boldsymbol{\lambda}\rvert$
-mmbx,  $\lvert\boldsymbol{\mu}\rvert$
-nmbx,  $\lvert\boldsymbol{\nu}\rvert$
-xmbx,  $\lvert\boldsymbol{\xi}\rvert$
-ombx,  $\lvert\boldsymbol{\omicron}\rvert$
-pmbx,  $\lvert\boldsymbol{\pi}\rvert$
-rmbx,  $\lvert\boldsymbol{\rho}\rvert$
-smbx,  $\lvert\boldsymbol{\sigma}\rvert$
-tmbx,  $\lvert\boldsymbol{\tau}\rvert$
-umbx,  $\lvert\boldsymbol{\upsilon}\rvert$
-fmbx,  $\lvert\boldsymbol{\phi}\rvert$
-cmbx,  $\lvert\boldsymbol{\chi}\rvert$
-ymbx,  $\lvert\boldsymbol{\psi}\rvert$
-wmbx,  $\lvert\boldsymbol{\omega}\rvert$
-Gmbx,  $\lvert\boldsymbol{\Gamma}\rvert$
-Dmbx,  $\lvert\boldsymbol{\Delta}\rvert$
-Qmbx,  $\lvert\boldsymbol{\Theta}\rvert$
-Lmbx,  $\lvert\boldsymbol{\Lambda}\rvert$
-Xmbx,  $\lvert\boldsymbol{\Xi}\rvert$
-Pmbx,  $\lvert\boldsymbol{\Pi}\rvert$
-Smbx,  $\lvert\boldsymbol{\Sigma}\rvert$
-Fmbx,  $\lvert\boldsymbol{\Phi}\rvert$
-Ymbx,  $\lvert\boldsymbol{\Psi}\rvert$
-a0bx,  $\boldsymbol{\alpha_0}$
-b0bx,  $\boldsymbol{\beta_0}$
-g0bx,  $\boldsymbol{\gamma_0}$
-d0bx,  $\boldsymbol{\delta_0}$
-e0bx,  $\boldsymbol{\epsilon_0}$
-z0bx,  $\boldsymbol{\zeta_0}$
-h0bx,  $\boldsymbol{\eta_0}$
-q0bx,  $\boldsymbol{\theta_0}$
-i0bx,  $\boldsymbol{\iota_0}$
-k0bx,  $\boldsymbol{\kappa_0}$
-l0bx,  $\boldsymbol{\lambda_0}$
-m0bx,  $\boldsymbol{\mu_0}$
-n0bx,  $\boldsymbol{\nu_0}$
-x0bx,  $\boldsymbol{\xi_0}$
-o0bx,  $\boldsymbol{\omicron_0}$
-p0bx,  $\boldsymbol{\pi_0}$
-r0bx,  $\boldsymbol{\rho_0}$
-s0bx,  $\boldsymbol{\sigma_0}$
-t0bx,  $\boldsymbol{\tau_0}$
-u0bx,  $\boldsymbol{\upsilon_0}$
-f0bx,  $\boldsymbol{\phi_0}$
-c0bx,  $\boldsymbol{\chi_0}$
-y0bx,  $\boldsymbol{\psi_0}$
-w0bx,  $\boldsymbol{\omega_0}$
-G0bx,  $\boldsymbol{\Gamma_0}$
-D0bx,  $\boldsymbol{\Delta_0}$
-Q0bx,  $\boldsymbol{\Theta_0}$
-L0bx,  $\boldsymbol{\Lambda_0}$
-X0bx,  $\boldsymbol{\Xi_0}$
-P0bx,  $\boldsymbol{\Pi_0}$
-S0bx,  $\boldsymbol{\Sigma_0}$
-F0bx,  $\boldsymbol{\Phi_0}$
-Y0bx,  $\boldsymbol{\Psi_0}$
-a1bx,  $\boldsymbol{\alpha_1}$
-b1bx,  $\boldsymbol{\beta_1}$
-g1bx,  $\boldsymbol{\gamma_1}$
-d1bx,  $\boldsymbol{\delta_1}$
-e1bx,  $\boldsymbol{\epsilon_1}$
-z1bx,  $\boldsymbol{\zeta_1}$
-h1bx,  $\boldsymbol{\eta_1}$
-q1bx,  $\boldsymbol{\theta_1}$
-i1bx,  $\boldsymbol{\iota_1}$
-k1bx,  $\boldsymbol{\kappa_1}$
-l1bx,  $\boldsymbol{\lambda_1}$
-m1bx,  $\boldsymbol{\mu_1}$
-n1bx,  $\boldsymbol{\nu_1}$
-x1bx,  $\boldsymbol{\xi_1}$
-o1bx,  $\boldsymbol{\omicron_1}$
-p1bx,  $\boldsymbol{\pi_1}$
-r1bx,  $\boldsymbol{\rho_1}$
-s1bx,  $\boldsymbol{\sigma_1}$
-t1bx,  $\boldsymbol{\tau_1}$
-u1bx,  $\boldsymbol{\upsilon_1}$
-f1bx,  $\boldsymbol{\phi_1}$
-c1bx,  $\boldsymbol{\chi_1}$
-y1bx,  $\boldsymbol{\psi_1}$
-w1bx,  $\boldsymbol{\omega_1}$
-G1bx,  $\boldsymbol{\Gamma_1}$
-D1bx,  $\boldsymbol{\Delta_1}$
-Q1bx,  $\boldsymbol{\Theta_1}$
-L1bx,  $\boldsymbol{\Lambda_1}$
-X1bx,  $\boldsymbol{\Xi_1}$
-P1bx,  $\boldsymbol{\Pi_1}$
-S1bx,  $\boldsymbol{\Sigma_1}$
-F1bx,  $\boldsymbol{\Phi_1}$
-Y1bx,  $\boldsymbol{\Psi_1}$
-a2bx,  $\boldsymbol{\alpha_2}$
-b2bx,  $\boldsymbol{\beta_2}$
-g2bx,  $\boldsymbol{\gamma_2}$
-d2bx,  $\boldsymbol{\delta_2}$
-e2bx,  $\boldsymbol{\epsilon_2}$
-z2bx,  $\boldsymbol{\zeta_2}$
-h2bx,  $\boldsymbol{\eta_2}$
-q2bx,  $\boldsymbol{\theta_2}$
-i2bx,  $\boldsymbol{\iota_2}$
-k2bx,  $\boldsymbol{\kappa_2}$
-l2bx,  $\boldsymbol{\lambda_2}$
-m2bx,  $\boldsymbol{\mu_2}$
-n2bx,  $\boldsymbol{\nu_2}$
-x2bx,  $\boldsymbol{\xi_2}$
-o2bx,  $\boldsymbol{\omicron_2}$
-p2bx,  $\boldsymbol{\pi_2}$
-r2bx,  $\boldsymbol{\rho_2}$
-s2bx,  $\boldsymbol{\sigma_2}$
-t2bx,  $\boldsymbol{\tau_2}$
-u2bx,  $\boldsymbol{\upsilon_2}$
-f2bx,  $\boldsymbol{\phi_2}$
-c2bx,  $\boldsymbol{\chi_2}$
-y2bx,  $\boldsymbol{\psi_2}$
-w2bx,  $\boldsymbol{\omega_2}$
-G2bx,  $\boldsymbol{\Gamma_2}$
-D2bx,  $\boldsymbol{\Delta_2}$
-Q2bx,  $\boldsymbol{\Theta_2}$
-L2bx,  $\boldsymbol{\Lambda_2}$
-X2bx,  $\boldsymbol{\Xi_2}$
-P2bx,  $\boldsymbol{\Pi_2}$
-S2bx,  $\boldsymbol{\Sigma_2}$
-F2bx,  $\boldsymbol{\Phi_2}$
-Y2bx,  $\boldsymbol{\Psi_2}$
-a3bx,  $\boldsymbol{\alpha_3}$
-b3bx,  $\boldsymbol{\beta_3}$
-g3bx,  $\boldsymbol{\gamma_3}$
-d3bx,  $\boldsymbol{\delta_3}$
-e3bx,  $\boldsymbol{\epsilon_3}$
-z3bx,  $\boldsymbol{\zeta_3}$
-h3bx,  $\boldsymbol{\eta_3}$
-q3bx,  $\boldsymbol{\theta_3}$
-i3bx,  $\boldsymbol{\iota_3}$
-k3bx,  $\boldsymbol{\kappa_3}$
-l3bx,  $\boldsymbol{\lambda_3}$
-m3bx,  $\boldsymbol{\mu_3}$
-n3bx,  $\boldsymbol{\nu_3}$
-x3bx,  $\boldsymbol{\xi_3}$
-o3bx,  $\boldsymbol{\omicron_3}$
-p3bx,  $\boldsymbol{\pi_3}$
-r3bx,  $\boldsymbol{\rho_3}$
-s3bx,  $\boldsymbol{\sigma_3}$
-t3bx,  $\boldsymbol{\tau_3}$
-u3bx,  $\boldsymbol{\upsilon_3}$
-f3bx,  $\boldsymbol{\phi_3}$
-c3bx,  $\boldsymbol{\chi_3}$
-y3bx,  $\boldsymbol{\psi_3}$
-w3bx,  $\boldsymbol{\omega_3}$
-G3bx,  $\boldsymbol{\Gamma_3}$
-D3bx,  $\boldsymbol{\Delta_3}$
-Q3bx,  $\boldsymbol{\Theta_3}$
-L3bx,  $\boldsymbol{\Lambda_3}$
-X3bx,  $\boldsymbol{\Xi_3}$
-P3bx,  $\boldsymbol{\Pi_3}$
-S3bx,  $\boldsymbol{\Sigma_3}$
-F3bx,  $\boldsymbol{\Phi_3}$
-Y3bx,  $\boldsymbol{\Psi_3}$
+a0b,\boldsymbol{\alpha_0}
+b0b,\boldsymbol{\beta_0}
+g0b,\boldsymbol{\gamma_0}
+d0b,\boldsymbol{\delta_0}
+e0b,\boldsymbol{\epsilon_0}
+z0b,\boldsymbol{\zeta_0}
+h0b,\boldsymbol{\eta_0}
+q0b,\boldsymbol{\theta_0}
+i0b,\boldsymbol{\iota_0}
+k0b,\boldsymbol{\kappa_0}
+l0b,\boldsymbol{\lambda_0}
+m0b,\boldsymbol{\mu_0}
+n0b,\boldsymbol{\nu_0}
+x0b,\boldsymbol{\xi_0}
+o0b,\boldsymbol{\omicron_0}
+p0b,\boldsymbol{\pi_0}
+r0b,\boldsymbol{\rho_0}
+s0b,\boldsymbol{\sigma_0}
+t0b,\boldsymbol{\tau_0}
+u0b,\boldsymbol{\upsilon_0}
+f0b,\boldsymbol{\phi_0}
+c0b,\boldsymbol{\chi_0}
+y0b,\boldsymbol{\psi_0}
+w0b,\boldsymbol{\omega_0}
+G0b,\boldsymbol{\Gamma_0}
+D0b,\boldsymbol{\Delta_0}
+Q0b,\boldsymbol{\Theta_0}
+L0b,\boldsymbol{\Lambda_0}
+X0b,\boldsymbol{\Xi_0}
+P0b,\boldsymbol{\Pi_0}
+S0b,\boldsymbol{\Sigma_0}
+F0b,\boldsymbol{\Phi_0}
+Y0b,\boldsymbol{\Psi_0}
+a1b,\boldsymbol{\alpha_1}
+b1b,\boldsymbol{\beta_1}
+g1b,\boldsymbol{\gamma_1}
+d1b,\boldsymbol{\delta_1}
+e1b,\boldsymbol{\epsilon_1}
+z1b,\boldsymbol{\zeta_1}
+h1b,\boldsymbol{\eta_1}
+q1b,\boldsymbol{\theta_1}
+i1b,\boldsymbol{\iota_1}
+k1b,\boldsymbol{\kappa_1}
+l1b,\boldsymbol{\lambda_1}
+m1b,\boldsymbol{\mu_1}
+n1b,\boldsymbol{\nu_1}
+x1b,\boldsymbol{\xi_1}
+o1b,\boldsymbol{\omicron_1}
+p1b,\boldsymbol{\pi_1}
+r1b,\boldsymbol{\rho_1}
+s1b,\boldsymbol{\sigma_1}
+t1b,\boldsymbol{\tau_1}
+u1b,\boldsymbol{\upsilon_1}
+f1b,\boldsymbol{\phi_1}
+c1b,\boldsymbol{\chi_1}
+y1b,\boldsymbol{\psi_1}
+w1b,\boldsymbol{\omega_1}
+G1b,\boldsymbol{\Gamma_1}
+D1b,\boldsymbol{\Delta_1}
+Q1b,\boldsymbol{\Theta_1}
+L1b,\boldsymbol{\Lambda_1}
+X1b,\boldsymbol{\Xi_1}
+P1b,\boldsymbol{\Pi_1}
+S1b,\boldsymbol{\Sigma_1}
+F1b,\boldsymbol{\Phi_1}
+Y1b,\boldsymbol{\Psi_1}
+a2b,\boldsymbol{\alpha_2}
+b2b,\boldsymbol{\beta_2}
+g2b,\boldsymbol{\gamma_2}
+d2b,\boldsymbol{\delta_2}
+e2b,\boldsymbol{\epsilon_2}
+z2b,\boldsymbol{\zeta_2}
+h2b,\boldsymbol{\eta_2}
+q2b,\boldsymbol{\theta_2}
+i2b,\boldsymbol{\iota_2}
+k2b,\boldsymbol{\kappa_2}
+l2b,\boldsymbol{\lambda_2}
+m2b,\boldsymbol{\mu_2}
+n2b,\boldsymbol{\nu_2}
+x2b,\boldsymbol{\xi_2}
+o2b,\boldsymbol{\omicron_2}
+p2b,\boldsymbol{\pi_2}
+r2b,\boldsymbol{\rho_2}
+s2b,\boldsymbol{\sigma_2}
+t2b,\boldsymbol{\tau_2}
+u2b,\boldsymbol{\upsilon_2}
+f2b,\boldsymbol{\phi_2}
+c2b,\boldsymbol{\chi_2}
+y2b,\boldsymbol{\psi_2}
+w2b,\boldsymbol{\omega_2}
+G2b,\boldsymbol{\Gamma_2}
+D2b,\boldsymbol{\Delta_2}
+Q2b,\boldsymbol{\Theta_2}
+L2b,\boldsymbol{\Lambda_2}
+X2b,\boldsymbol{\Xi_2}
+P2b,\boldsymbol{\Pi_2}
+S2b,\boldsymbol{\Sigma_2}
+F2b,\boldsymbol{\Phi_2}
+Y2b,\boldsymbol{\Psi_2}
+a3b,\boldsymbol{\alpha_3}
+b3b,\boldsymbol{\beta_3}
+g3b,\boldsymbol{\gamma_3}
+d3b,\boldsymbol{\delta_3}
+e3b,\boldsymbol{\epsilon_3}
+z3b,\boldsymbol{\zeta_3}
+h3b,\boldsymbol{\eta_3}
+q3b,\boldsymbol{\theta_3}
+i3b,\boldsymbol{\iota_3}
+k3b,\boldsymbol{\kappa_3}
+l3b,\boldsymbol{\lambda_3}
+m3b,\boldsymbol{\mu_3}
+n3b,\boldsymbol{\nu_3}
+x3b,\boldsymbol{\xi_3}
+o3b,\boldsymbol{\omicron_3}
+p3b,\boldsymbol{\pi_3}
+r3b,\boldsymbol{\rho_3}
+s3b,\boldsymbol{\sigma_3}
+t3b,\boldsymbol{\tau_3}
+u3b,\boldsymbol{\upsilon_3}
+f3b,\boldsymbol{\phi_3}
+c3b,\boldsymbol{\chi_3}
+y3b,\boldsymbol{\psi_3}
+w3b,\boldsymbol{\omega_3}
+G3b,\boldsymbol{\Gamma_3}
+D3b,\boldsymbol{\Delta_3}
+Q3b,\boldsymbol{\Theta_3}
+L3b,\boldsymbol{\Lambda_3}
+X3b,\boldsymbol{\Xi_3}
+P3b,\boldsymbol{\Pi_3}
+S3b,\boldsymbol{\Sigma_3}
+F3b,\boldsymbol{\Phi_3}
+Y3b,\boldsymbol{\Psi_3}
+
+
+asx,$\alpha^*$
+bsx,$\beta^*$
+gsx,$\gamma^*$
+dsx,$\delta^*$
+esx,$\epsilon^*$
+zsx,$\zeta^*$
+hsx,$\eta^*$
+qsx,$\theta^*$
+isx,$\iota^*$
+ksx,$\kappa^*$
+lsx,$\lambda^*$
+msx,$\mu^*$
+nsx,$\nu^*$
+xsx,$\xi^*$
+osx,$\omicron^*$
+psx,$\pi^*$
+rsx,$\rho^*$
+ssx,$\sigma^*$
+tsx,$\tau^*$
+usx,$\upsilon^*$
+fsx,$\phi^*$
+csx,$\chi^*$
+ysx,$\psi^*$
+wsx,$\omega^*$
+Gsx,$\Gamma^*$
+Dsx,$\Delta^*$
+Qsx,$\Theta^*$
+Lsx,$\Lambda^*$
+Xsx,$\Xi^*$
+Psx,$\Pi^*$
+Ssx,$\Sigma^*$
+Fsx,$\Phi^*$
+Ysx,$\Psi^*$
+apx,$\alpha\prime$
+bpx,$\beta\prime$
+gpx,$\gamma\prime$
+dpx,$\delta\prime$
+epx,$\epsilon\prime$
+zpx,$\zeta\prime$
+hpx,$\eta\prime$
+qpx,$\theta\prime$
+ipx,$\iota\prime$
+kpx,$\kappa\prime$
+lpx,$\lambda\prime$
+mpx,$\mu\prime$
+npx,$\nu\prime$
+xpx,$\xi\prime$
+opx,$\omicron\prime$
+ppx,$\pi\prime$
+rpx,$\rho\prime$
+spx,$\sigma\prime$
+tpx,$\tau\prime$
+upx,$\upsilon\prime$
+fpx,$\phi\prime$
+cpx,$\chi\prime$
+ypx,$\psi\prime$
+wpx,$\omega\prime$
+Gpx,$\Gamma\prime$
+Dpx,$\Delta\prime$
+Qpx,$\Theta\prime$
+Lpx,$\Lambda\prime$
+Xpx,$\Xi\prime$
+Ppx,$\Pi\prime$
+Spx,$\Sigma\prime$
+Fpx,$\Phi\prime$
+Ypx,$\Psi\prime$
+abx,$\bar{\alpha}$
+bbx,$\bar{\beta}$
+gbx,$\bar{\gamma}$
+dbx,$\bar{\delta}$
+ebx,$\bar{\epsilon}$
+zbx,$\bar{\zeta}$
+hbx,$\bar{\eta}$
+qbx,$\bar{\theta}$
+ibx,$\bar{\iota}$
+kbx,$\bar{\kappa}$
+lbx,$\bar{\lambda}$
+mbx,$\bar{\mu}$
+nbx,$\bar{\nu}$
+xbx,$\bar{\xi}$
+obx,$\bar{\omicron}$
+pbx,$\bar{\pi}$
+rbx,$\bar{\rho}$
+sbx,$\bar{\sigma}$
+tbx,$\bar{\tau}$
+ubx,$\bar{\upsilon}$
+fbx,$\bar{\phi}$
+cbx,$\bar{\chi}$
+ybx,$\bar{\psi}$
+wbx,$\bar{\omega}$
+Gbx,$\bar{\Gamma}$
+Dbx,$\bar{\Delta}$
+Qbx,$\bar{\Theta}$
+Lbx,$\bar{\Lambda}$
+Xbx,$\bar{\Xi}$
+Pbx,$\bar{\Pi}$
+Sbx,$\bar{\Sigma}$
+Fbx,$\bar{\Phi}$
+Ybx,$\bar{\Psi}$
+adx,$\dot{\alpha}$
+bdx,$\dot{\beta}$
+gdx,$\dot{\gamma}$
+ddx,$\dot{\delta}$
+edx,$\dot{\epsilon}$
+zdx,$\dot{\zeta}$
+hdx,$\dot{\eta}$
+qdx,$\dot{\theta}$
+idx,$\dot{\iota}$
+kdx,$\dot{\kappa}$
+ldx,$\dot{\lambda}$
+mdx,$\dot{\mu}$
+ndx,$\dot{\nu}$
+xdx,$\dot{\xi}$
+odx,$\dot{\omicron}$
+pdx,$\dot{\pi}$
+rdx,$\dot{\rho}$
+sdx,$\dot{\sigma}$
+tdx,$\dot{\tau}$
+udx,$\dot{\upsilon}$
+fdx,$\dot{\phi}$
+cdx,$\dot{\chi}$
+ydx,$\dot{\psi}$
+wdx,$\dot{\omega}$
+Gdx,$\dot{\Gamma}$
+Ddx,$\dot{\Delta}$
+Qdx,$\dot{\Theta}$
+Ldx,$\dot{\Lambda}$
+Xdx,$\dot{\Xi}$
+Pdx,$\dot{\Pi}$
+Sdx,$\dot{\Sigma}$
+Fdx,$\dot{\Phi}$
+Ydx,$\dot{\Psi}$
+ahx,$\hat{\alpha}$
+bhx,$\hat{\beta}$
+ghx,$\hat{\gamma}$
+dhx,$\hat{\delta}$
+ehx,$\hat{\epsilon}$
+zhx,$\hat{\zeta}$
+hhx,$\hat{\eta}$
+qhx,$\hat{\theta}$
+ihx,$\hat{\iota}$
+khx,$\hat{\kappa}$
+lhx,$\hat{\lambda}$
+mhx,$\hat{\mu}$
+nhx,$\hat{\nu}$
+xhx,$\hat{\xi}$
+ohx,$\hat{\omicron}$
+phx,$\hat{\pi}$
+rhx,$\hat{\rho}$
+shx,$\hat{\sigma}$
+thx,$\hat{\tau}$
+uhx,$\hat{\upsilon}$
+fhx,$\hat{\phi}$
+chx,$\hat{\chi}$
+yhx,$\hat{\psi}$
+whx,$\hat{\omega}$
+Ghx,$\hat{\Gamma}$
+Dhx,$\hat{\Delta}$
+Qhx,$\hat{\Theta}$
+Lhx,$\hat{\Lambda}$
+Xhx,$\hat{\Xi}$
+Phx,$\hat{\Pi}$
+Shx,$\hat{\Sigma}$
+Fhx,$\hat{\Phi}$
+Yhx,$\hat{\Psi}$
+atx,$\tilde{\alpha}$
+btx,$\tilde{\beta}$
+gtx,$\tilde{\gamma}$
+dtx,$\tilde{\delta}$
+etx,$\tilde{\epsilon}$
+ztx,$\tilde{\zeta}$
+htx,$\tilde{\eta}$
+qtx,$\tilde{\theta}$
+itx,$\tilde{\iota}$
+ktx,$\tilde{\kappa}$
+ltx,$\tilde{\lambda}$
+mtx,$\tilde{\mu}$
+ntx,$\tilde{\nu}$
+xtx,$\tilde{\xi}$
+otx,$\tilde{\omicron}$
+ptx,$\tilde{\pi}$
+rtx,$\tilde{\rho}$
+stx,$\tilde{\sigma}$
+ttx,$\tilde{\tau}$
+utx,$\tilde{\upsilon}$
+ftx,$\tilde{\phi}$
+ctx,$\tilde{\chi}$
+ytx,$\tilde{\psi}$
+wtx,$\tilde{\omega}$
+Gtx,$\tilde{\Gamma}$
+Dtx,$\tilde{\Delta}$
+Qtx,$\tilde{\Theta}$
+Ltx,$\tilde{\Lambda}$
+Xtx,$\tilde{\Xi}$
+Ptx,$\tilde{\Pi}$
+Stx,$\tilde{\Sigma}$
+Ftx,$\tilde{\Phi}$
+Ytx,$\tilde{\Psi}$
+amx,$\lvert\alpha\rvert$
+bmx,$\lvert\beta\rvert$
+gmx,$\lvert\gamma\rvert$
+dmx,$\lvert\delta\rvert$
+emx,$\lvert\epsilon\rvert$
+zmx,$\lvert\zeta\rvert$
+hmx,$\lvert\eta\rvert$
+qmx,$\lvert\theta\rvert$
+imx,$\lvert\iota\rvert$
+kmx,$\lvert\kappa\rvert$
+lmx,$\lvert\lambda\rvert$
+mmx,$\lvert\mu\rvert$
+nmx,$\lvert\nu\rvert$
+xmx,$\lvert\xi\rvert$
+omx,$\lvert\omicron\rvert$
+pmx,$\lvert\pi\rvert$
+rmx,$\lvert\rho\rvert$
+smx,$\lvert\sigma\rvert$
+tmx,$\lvert\tau\rvert$
+umx,$\lvert\upsilon\rvert$
+fmx,$\lvert\phi\rvert$
+cmx,$\lvert\chi\rvert$
+ymx,$\lvert\psi\rvert$
+wmx,$\lvert\omega\rvert$
+Gmx,$\lvert\Gamma\rvert$
+Dmx,$\lvert\Delta\rvert$
+Qmx,$\lvert\Theta\rvert$
+Lmx,$\lvert\Lambda\rvert$
+Xmx,$\lvert\Xi\rvert$
+Pmx,$\lvert\Pi\rvert$
+Smx,$\lvert\Sigma\rvert$
+Fmx,$\lvert\Phi\rvert$
+Ymx,$\lvert\Psi\rvert$
+a0x,$\alpha_0$
+b0x,$\beta_0$
+g0x,$\gamma_0$
+d0x,$\delta_0$
+e0x,$\epsilon_0$
+z0x,$\zeta_0$
+h0x,$\eta_0$
+q0x,$\theta_0$
+i0x,$\iota_0$
+k0x,$\kappa_0$
+l0x,$\lambda_0$
+m0x,$\mu_0$
+n0x,$\nu_0$
+x0x,$\xi_0$
+o0x,$\omicron_0$
+p0x,$\pi_0$
+r0x,$\rho_0$
+s0x,$\sigma_0$
+t0x,$\tau_0$
+u0x,$\upsilon_0$
+f0x,$\phi_0$
+c0x,$\chi_0$
+y0x,$\psi_0$
+w0x,$\omega_0$
+G0x,$\Gamma_0$
+D0x,$\Delta_0$
+Q0x,$\Theta_0$
+L0x,$\Lambda_0$
+X0x,$\Xi_0$
+P0x,$\Pi_0$
+S0x,$\Sigma_0$
+F0x,$\Phi_0$
+Y0x,$\Psi_0$
+a1x,$\alpha_1$
+b1x,$\beta_1$
+g1x,$\gamma_1$
+d1x,$\delta_1$
+e1x,$\epsilon_1$
+z1x,$\zeta_1$
+h1x,$\eta_1$
+q1x,$\theta_1$
+i1x,$\iota_1$
+k1x,$\kappa_1$
+l1x,$\lambda_1$
+m1x,$\mu_1$
+n1x,$\nu_1$
+x1x,$\xi_1$
+o1x,$\omicron_1$
+p1x,$\pi_1$
+r1x,$\rho_1$
+s1x,$\sigma_1$
+t1x,$\tau_1$
+u1x,$\upsilon_1$
+f1x,$\phi_1$
+c1x,$\chi_1$
+y1x,$\psi_1$
+w1x,$\omega_1$
+G1x,$\Gamma_1$
+D1x,$\Delta_1$
+Q1x,$\Theta_1$
+L1x,$\Lambda_1$
+X1x,$\Xi_1$
+P1x,$\Pi_1$
+S1x,$\Sigma_1$
+F1x,$\Phi_1$
+Y1x,$\Psi_1$
+a2x,$\alpha_2$
+b2x,$\beta_2$
+g2x,$\gamma_2$
+d2x,$\delta_2$
+e2x,$\epsilon_2$
+z2x,$\zeta_2$
+h2x,$\eta_2$
+q2x,$\theta_2$
+i2x,$\iota_2$
+k2x,$\kappa_2$
+l2x,$\lambda_2$
+m2x,$\mu_2$
+n2x,$\nu_2$
+x2x,$\xi_2$
+o2x,$\omicron_2$
+p2x,$\pi_2$
+r2x,$\rho_2$
+s2x,$\sigma_2$
+t2x,$\tau_2$
+u2x,$\upsilon_2$
+f2x,$\phi_2$
+c2x,$\chi_2$
+y2x,$\psi_2$
+w2x,$\omega_2$
+G2x,$\Gamma_2$
+D2x,$\Delta_2$
+Q2x,$\Theta_2$
+L2x,$\Lambda_2$
+X2x,$\Xi_2$
+P2x,$\Pi_2$
+S2x,$\Sigma_2$
+F2x,$\Phi_2$
+Y2x,$\Psi_2$
+a3x,$\alpha_3$
+b3x,$\beta_3$
+g3x,$\gamma_3$
+d3x,$\delta_3$
+e3x,$\epsilon_3$
+z3x,$\zeta_3$
+h3x,$\eta_3$
+q3x,$\theta_3$
+i3x,$\iota_3$
+k3x,$\kappa_3$
+l3x,$\lambda_3$
+m3x,$\mu_3$
+n3x,$\nu_3$
+x3x,$\xi_3$
+o3x,$\omicron_3$
+p3x,$\pi_3$
+r3x,$\rho_3$
+s3x,$\sigma_3$
+t3x,$\tau_3$
+u3x,$\upsilon_3$
+f3x,$\phi_3$
+c3x,$\chi_3$
+y3x,$\psi_3$
+w3x,$\omega_3$
+G3x,$\Gamma_3$
+D3x,$\Delta_3$
+Q3x,$\Theta_3$
+L3x,$\Lambda_3$
+X3x,$\Xi_3$
+P3x,$\Pi_3$
+S3x,$\Sigma_3$
+F3x,$\Phi_3$
+Y3x,$\Psi_3$
+asbx,$\boldsymbol{\alpha^*$
+bsbx,$\boldsymbol{\beta^*$
+gsbx,$\boldsymbol{\gamma^*$
+dsbx,$\boldsymbol{\delta^*$
+esbx,$\boldsymbol{\epsilon^*$
+zsbx,$\boldsymbol{\zeta^*$
+hsbx,$\boldsymbol{\eta^*$
+qsbx,$\boldsymbol{\theta^*$
+isbx,$\boldsymbol{\iota^*$
+ksbx,$\boldsymbol{\kappa^*$
+lsbx,$\boldsymbol{\lambda^*$
+msbx,$\boldsymbol{\mu^*$
+nsbx,$\boldsymbol{\nu^*$
+xsbx,$\boldsymbol{\xi^*$
+osbx,$\boldsymbol{\omicron^*$
+psbx,$\boldsymbol{\pi^*$
+rsbx,$\boldsymbol{\rho^*$
+ssbx,$\boldsymbol{\sigma^*$
+tsbx,$\boldsymbol{\tau^*$
+usbx,$\boldsymbol{\upsilon^*$
+fsbx,$\boldsymbol{\phi^*$
+csbx,$\boldsymbol{\chi^*$
+ysbx,$\boldsymbol{\psi^*$
+wsbx,$\boldsymbol{\omega^*$
+Gsbx,$\boldsymbol{\Gamma^*$
+Dsbx,$\boldsymbol{\Delta^*$
+Qsbx,$\boldsymbol{\Theta^*$
+Lsbx,$\boldsymbol{\Lambda^*$
+Xsbx,$\boldsymbol{\Xi^*$
+Psbx,$\boldsymbol{\Pi^*$
+Ssbx,$\boldsymbol{\Sigma^*$
+Fsbx,$\boldsymbol{\Phi^*$
+Ysbx,$\boldsymbol{\Psi^*$
+apbx,$\boldsymbol{\alpha}\prime$
+bpbx,$\boldsymbol{\beta}\prime$
+gpbx,$\boldsymbol{\gamma}\prime$
+dpbx,$\boldsymbol{\delta}\prime$
+epbx,$\boldsymbol{\epsilon}\prime$
+zpbx,$\boldsymbol{\zeta}\prime$
+hpbx,$\boldsymbol{\eta}\prime$
+qpbx,$\boldsymbol{\theta}\prime$
+ipbx,$\boldsymbol{\iota}\prime$
+kpbx,$\boldsymbol{\kappa}\prime$
+lpbx,$\boldsymbol{\lambda}\prime$
+mpbx,$\boldsymbol{\mu}\prime$
+npbx,$\boldsymbol{\nu}\prime$
+xpbx,$\boldsymbol{\xi}\prime$
+opbx,$\boldsymbol{\omicron}\prime$
+ppbx,$\boldsymbol{\pi}\prime$
+rpbx,$\boldsymbol{\rho}\prime$
+spbx,$\boldsymbol{\sigma}\prime$
+tpbx,$\boldsymbol{\tau}\prime$
+upbx,$\boldsymbol{\upsilon}\prime$
+fpbx,$\boldsymbol{\phi}\prime$
+cpbx,$\boldsymbol{\chi}\prime$
+ypbx,$\boldsymbol{\psi}\prime$
+wpbx,$\boldsymbol{\omega}\prime$
+Gpbx,$\boldsymbol{\Gamma}\prime$
+Dpbx,$\boldsymbol{\Delta}\prime$
+Qpbx,$\boldsymbol{\Theta}\prime$
+Lpbx,$\boldsymbol{\Lambda}\prime$
+Xpbx,$\boldsymbol{\Xi}\prime$
+Ppbx,$\boldsymbol{\Pi}\prime$
+Spbx,$\boldsymbol{\Sigma}\prime$
+Fpbx,$\boldsymbol{\Phi}\prime$
+Ypbx,$\boldsymbol{\Psi}\prime$
+abbx,$\boldsymbol{\bar{\alpha}}$
+bbbx,$\boldsymbol{\bar{\beta}}$
+gbbx,$\boldsymbol{\bar{\gamma}}$
+dbbx,$\boldsymbol{\bar{\delta}}$
+ebbx,$\boldsymbol{\bar{\epsilon}}$
+zbbx,$\boldsymbol{\bar{\zeta}}$
+hbbx,$\boldsymbol{\bar{\eta}}$
+qbbx,$\boldsymbol{\bar{\theta}}$
+ibbx,$\boldsymbol{\bar{\iota}}$
+kbbx,$\boldsymbol{\bar{\kappa}}$
+lbbx,$\boldsymbol{\bar{\lambda}}$
+mbbx,$\boldsymbol{\bar{\mu}}$
+nbbx,$\boldsymbol{\bar{\nu}}$
+xbbx,$\boldsymbol{\bar{\xi}}$
+obbx,$\boldsymbol{\bar{\omicron}}$
+pbbx,$\boldsymbol{\bar{\pi}}$
+rbbx,$\boldsymbol{\bar{\rho}}$
+sbbx,$\boldsymbol{\bar{\sigma}}$
+tbbx,$\boldsymbol{\bar{\tau}}$
+ubbx,$\boldsymbol{\bar{\upsilon}}$
+fbbx,$\boldsymbol{\bar{\phi}}$
+cbbx,$\boldsymbol{\bar{\chi}}$
+ybbx,$\boldsymbol{\bar{\psi}}$
+wbbx,$\boldsymbol{\bar{\omega}}$
+Gbbx,$\boldsymbol{\bar{\Gamma}}$
+Dbbx,$\boldsymbol{\bar{\Delta}}$
+Qbbx,$\boldsymbol{\bar{\Theta}}$
+Lbbx,$\boldsymbol{\bar{\Lambda}}$
+Xbbx,$\boldsymbol{\bar{\Xi}}$
+Pbbx,$\boldsymbol{\bar{\Pi}}$
+Sbbx,$\boldsymbol{\bar{\Sigma}}$
+Fbbx,$\boldsymbol{\bar{\Phi}}$
+Ybbx,$\boldsymbol{\bar{\Psi}}$
+adbx,$\boldsymbol{\dot{\alpha}}$
+bdbx,$\boldsymbol{\dot{\beta}}$
+gdbx,$\boldsymbol{\dot{\gamma}}$
+ddbx,$\boldsymbol{\dot{\delta}}$
+edbx,$\boldsymbol{\dot{\epsilon}}$
+zdbx,$\boldsymbol{\dot{\zeta}}$
+hdbx,$\boldsymbol{\dot{\eta}}$
+qdbx,$\boldsymbol{\dot{\theta}}$
+idbx,$\boldsymbol{\dot{\iota}}$
+kdbx,$\boldsymbol{\dot{\kappa}}$
+ldbx,$\boldsymbol{\dot{\lambda}}$
+mdbx,$\boldsymbol{\dot{\mu}}$
+ndbx,$\boldsymbol{\dot{\nu}}$
+xdbx,$\boldsymbol{\dot{\xi}}$
+odbx,$\boldsymbol{\dot{\omicron}}$
+pdbx,$\boldsymbol{\dot{\pi}}$
+rdbx,$\boldsymbol{\dot{\rho}}$
+sdbx,$\boldsymbol{\dot{\sigma}}$
+tdbx,$\boldsymbol{\dot{\tau}}$
+udbx,$\boldsymbol{\dot{\upsilon}}$
+fdbx,$\boldsymbol{\dot{\phi}}$
+cdbx,$\boldsymbol{\dot{\chi}}$
+ydbx,$\boldsymbol{\dot{\psi}}$
+wdbx,$\boldsymbol{\dot{\omega}}$
+Gdbx,$\boldsymbol{\dot{\Gamma}}$
+Ddbx,$\boldsymbol{\dot{\Delta}}$
+Qdbx,$\boldsymbol{\dot{\Theta}}$
+Ldbx,$\boldsymbol{\dot{\Lambda}}$
+Xdbx,$\boldsymbol{\dot{\Xi}}$
+Pdbx,$\boldsymbol{\dot{\Pi}}$
+Sdbx,$\boldsymbol{\dot{\Sigma}}$
+Fdbx,$\boldsymbol{\dot{\Phi}}$
+Ydbx,$\boldsymbol{\dot{\Psi}}$
+ahbx,$\boldsymbol{\hat{\alpha}}$
+bhbx,$\boldsymbol{\hat{\beta}}$
+ghbx,$\boldsymbol{\hat{\gamma}}$
+dhbx,$\boldsymbol{\hat{\delta}}$
+ehbx,$\boldsymbol{\hat{\epsilon}}$
+zhbx,$\boldsymbol{\hat{\zeta}}$
+hhbx,$\boldsymbol{\hat{\eta}}$
+qhbx,$\boldsymbol{\hat{\theta}}$
+ihbx,$\boldsymbol{\hat{\iota}}$
+khbx,$\boldsymbol{\hat{\kappa}}$
+lhbx,$\boldsymbol{\hat{\lambda}}$
+mhbx,$\boldsymbol{\hat{\mu}}$
+nhbx,$\boldsymbol{\hat{\nu}}$
+xhbx,$\boldsymbol{\hat{\xi}}$
+ohbx,$\boldsymbol{\hat{\omicron}}$
+phbx,$\boldsymbol{\hat{\pi}}$
+rhbx,$\boldsymbol{\hat{\rho}}$
+shbx,$\boldsymbol{\hat{\sigma}}$
+thbx,$\boldsymbol{\hat{\tau}}$
+uhbx,$\boldsymbol{\hat{\upsilon}}$
+fhbx,$\boldsymbol{\hat{\phi}}$
+chbx,$\boldsymbol{\hat{\chi}}$
+yhbx,$\boldsymbol{\hat{\psi}}$
+whbx,$\boldsymbol{\hat{\omega}}$
+Ghbx,$\boldsymbol{\hat{\Gamma}}$
+Dhbx,$\boldsymbol{\hat{\Delta}}$
+Qhbx,$\boldsymbol{\hat{\Theta}}$
+Lhbx,$\boldsymbol{\hat{\Lambda}}$
+Xhbx,$\boldsymbol{\hat{\Xi}}$
+Phbx,$\boldsymbol{\hat{\Pi}}$
+Shbx,$\boldsymbol{\hat{\Sigma}}$
+Fhbx,$\boldsymbol{\hat{\Phi}}$
+Yhbx,$\boldsymbol{\hat{\Psi}}$
+atbx,$\boldsymbol{\tilde{\alpha}}$
+btbx,$\boldsymbol{\tilde{\beta}}$
+gtbx,$\boldsymbol{\tilde{\gamma}}$
+dtbx,$\boldsymbol{\tilde{\delta}}$
+etbx,$\boldsymbol{\tilde{\epsilon}}$
+ztbx,$\boldsymbol{\tilde{\zeta}}$
+htbx,$\boldsymbol{\tilde{\eta}}$
+qtbx,$\boldsymbol{\tilde{\theta}}$
+itbx,$\boldsymbol{\tilde{\iota}}$
+ktbx,$\boldsymbol{\tilde{\kappa}}$
+ltbx,$\boldsymbol{\tilde{\lambda}}$
+mtbx,$\boldsymbol{\tilde{\mu}}$
+ntbx,$\boldsymbol{\tilde{\nu}}$
+xtbx,$\boldsymbol{\tilde{\xi}}$
+otbx,$\boldsymbol{\tilde{\omicron}}$
+ptbx,$\boldsymbol{\tilde{\pi}}$
+rtbx,$\boldsymbol{\tilde{\rho}}$
+stbx,$\boldsymbol{\tilde{\sigma}}$
+ttbx,$\boldsymbol{\tilde{\tau}}$
+utbx,$\boldsymbol{\tilde{\upsilon}}$
+ftbx,$\boldsymbol{\tilde{\phi}}$
+ctbx,$\boldsymbol{\tilde{\chi}}$
+ytbx,$\boldsymbol{\tilde{\psi}}$
+wtbx,$\boldsymbol{\tilde{\omega}}$
+Gtbx,$\boldsymbol{\tilde{\Gamma}}$
+Dtbx,$\boldsymbol{\tilde{\Delta}}$
+Qtbx,$\boldsymbol{\tilde{\Theta}}$
+Ltbx,$\boldsymbol{\tilde{\Lambda}}$
+Xtbx,$\boldsymbol{\tilde{\Xi}}$
+Ptbx,$\boldsymbol{\tilde{\Pi}}$
+Stbx,$\boldsymbol{\tilde{\Sigma}}$
+Ftbx,$\boldsymbol{\tilde{\Phi}}$
+Ytbx,$\boldsymbol{\tilde{\Psi}}$
+ambx,$\lvert\boldsymbol{\alpha}\rvert$
+bmbx,$\lvert\boldsymbol{\beta}\rvert$
+gmbx,$\lvert\boldsymbol{\gamma}\rvert$
+dmbx,$\lvert\boldsymbol{\delta}\rvert$
+embx,$\lvert\boldsymbol{\epsilon}\rvert$
+zmbx,$\lvert\boldsymbol{\zeta}\rvert$
+hmbx,$\lvert\boldsymbol{\eta}\rvert$
+qmbx,$\lvert\boldsymbol{\theta}\rvert$
+imbx,$\lvert\boldsymbol{\iota}\rvert$
+kmbx,$\lvert\boldsymbol{\kappa}\rvert$
+lmbx,$\lvert\boldsymbol{\lambda}\rvert$
+mmbx,$\lvert\boldsymbol{\mu}\rvert$
+nmbx,$\lvert\boldsymbol{\nu}\rvert$
+xmbx,$\lvert\boldsymbol{\xi}\rvert$
+ombx,$\lvert\boldsymbol{\omicron}\rvert$
+pmbx,$\lvert\boldsymbol{\pi}\rvert$
+rmbx,$\lvert\boldsymbol{\rho}\rvert$
+smbx,$\lvert\boldsymbol{\sigma}\rvert$
+tmbx,$\lvert\boldsymbol{\tau}\rvert$
+umbx,$\lvert\boldsymbol{\upsilon}\rvert$
+fmbx,$\lvert\boldsymbol{\phi}\rvert$
+cmbx,$\lvert\boldsymbol{\chi}\rvert$
+ymbx,$\lvert\boldsymbol{\psi}\rvert$
+wmbx,$\lvert\boldsymbol{\omega}\rvert$
+Gmbx,$\lvert\boldsymbol{\Gamma}\rvert$
+Dmbx,$\lvert\boldsymbol{\Delta}\rvert$
+Qmbx,$\lvert\boldsymbol{\Theta}\rvert$
+Lmbx,$\lvert\boldsymbol{\Lambda}\rvert$
+Xmbx,$\lvert\boldsymbol{\Xi}\rvert$
+Pmbx,$\lvert\boldsymbol{\Pi}\rvert$
+Smbx,$\lvert\boldsymbol{\Sigma}\rvert$
+Fmbx,$\lvert\boldsymbol{\Phi}\rvert$
+Ymbx,$\lvert\boldsymbol{\Psi}\rvert$
+a0bx,$\boldsymbol{\alpha_0}$
+b0bx,$\boldsymbol{\beta_0}$
+g0bx,$\boldsymbol{\gamma_0}$
+d0bx,$\boldsymbol{\delta_0}$
+e0bx,$\boldsymbol{\epsilon_0}$
+z0bx,$\boldsymbol{\zeta_0}$
+h0bx,$\boldsymbol{\eta_0}$
+q0bx,$\boldsymbol{\theta_0}$
+i0bx,$\boldsymbol{\iota_0}$
+k0bx,$\boldsymbol{\kappa_0}$
+l0bx,$\boldsymbol{\lambda_0}$
+m0bx,$\boldsymbol{\mu_0}$
+n0bx,$\boldsymbol{\nu_0}$
+x0bx,$\boldsymbol{\xi_0}$
+o0bx,$\boldsymbol{\omicron_0}$
+p0bx,$\boldsymbol{\pi_0}$
+r0bx,$\boldsymbol{\rho_0}$
+s0bx,$\boldsymbol{\sigma_0}$
+t0bx,$\boldsymbol{\tau_0}$
+u0bx,$\boldsymbol{\upsilon_0}$
+f0bx,$\boldsymbol{\phi_0}$
+c0bx,$\boldsymbol{\chi_0}$
+y0bx,$\boldsymbol{\psi_0}$
+w0bx,$\boldsymbol{\omega_0}$
+G0bx,$\boldsymbol{\Gamma_0}$
+D0bx,$\boldsymbol{\Delta_0}$
+Q0bx,$\boldsymbol{\Theta_0}$
+L0bx,$\boldsymbol{\Lambda_0}$
+X0bx,$\boldsymbol{\Xi_0}$
+P0bx,$\boldsymbol{\Pi_0}$
+S0bx,$\boldsymbol{\Sigma_0}$
+F0bx,$\boldsymbol{\Phi_0}$
+Y0bx,$\boldsymbol{\Psi_0}$
+a1bx,$\boldsymbol{\alpha_1}$
+b1bx,$\boldsymbol{\beta_1}$
+g1bx,$\boldsymbol{\gamma_1}$
+d1bx,$\boldsymbol{\delta_1}$
+e1bx,$\boldsymbol{\epsilon_1}$
+z1bx,$\boldsymbol{\zeta_1}$
+h1bx,$\boldsymbol{\eta_1}$
+q1bx,$\boldsymbol{\theta_1}$
+i1bx,$\boldsymbol{\iota_1}$
+k1bx,$\boldsymbol{\kappa_1}$
+l1bx,$\boldsymbol{\lambda_1}$
+m1bx,$\boldsymbol{\mu_1}$
+n1bx,$\boldsymbol{\nu_1}$
+x1bx,$\boldsymbol{\xi_1}$
+o1bx,$\boldsymbol{\omicron_1}$
+p1bx,$\boldsymbol{\pi_1}$
+r1bx,$\boldsymbol{\rho_1}$
+s1bx,$\boldsymbol{\sigma_1}$
+t1bx,$\boldsymbol{\tau_1}$
+u1bx,$\boldsymbol{\upsilon_1}$
+f1bx,$\boldsymbol{\phi_1}$
+c1bx,$\boldsymbol{\chi_1}$
+y1bx,$\boldsymbol{\psi_1}$
+w1bx,$\boldsymbol{\omega_1}$
+G1bx,$\boldsymbol{\Gamma_1}$
+D1bx,$\boldsymbol{\Delta_1}$
+Q1bx,$\boldsymbol{\Theta_1}$
+L1bx,$\boldsymbol{\Lambda_1}$
+X1bx,$\boldsymbol{\Xi_1}$
+P1bx,$\boldsymbol{\Pi_1}$
+S1bx,$\boldsymbol{\Sigma_1}$
+F1bx,$\boldsymbol{\Phi_1}$
+Y1bx,$\boldsymbol{\Psi_1}$
+a2bx,$\boldsymbol{\alpha_2}$
+b2bx,$\boldsymbol{\beta_2}$
+g2bx,$\boldsymbol{\gamma_2}$
+d2bx,$\boldsymbol{\delta_2}$
+e2bx,$\boldsymbol{\epsilon_2}$
+z2bx,$\boldsymbol{\zeta_2}$
+h2bx,$\boldsymbol{\eta_2}$
+q2bx,$\boldsymbol{\theta_2}$
+i2bx,$\boldsymbol{\iota_2}$
+k2bx,$\boldsymbol{\kappa_2}$
+l2bx,$\boldsymbol{\lambda_2}$
+m2bx,$\boldsymbol{\mu_2}$
+n2bx,$\boldsymbol{\nu_2}$
+x2bx,$\boldsymbol{\xi_2}$
+o2bx,$\boldsymbol{\omicron_2}$
+p2bx,$\boldsymbol{\pi_2}$
+r2bx,$\boldsymbol{\rho_2}$
+s2bx,$\boldsymbol{\sigma_2}$
+t2bx,$\boldsymbol{\tau_2}$
+u2bx,$\boldsymbol{\upsilon_2}$
+f2bx,$\boldsymbol{\phi_2}$
+c2bx,$\boldsymbol{\chi_2}$
+y2bx,$\boldsymbol{\psi_2}$
+w2bx,$\boldsymbol{\omega_2}$
+G2bx,$\boldsymbol{\Gamma_2}$
+D2bx,$\boldsymbol{\Delta_2}$
+Q2bx,$\boldsymbol{\Theta_2}$
+L2bx,$\boldsymbol{\Lambda_2}$
+X2bx,$\boldsymbol{\Xi_2}$
+P2bx,$\boldsymbol{\Pi_2}$
+S2bx,$\boldsymbol{\Sigma_2}$
+F2bx,$\boldsymbol{\Phi_2}$
+Y2bx,$\boldsymbol{\Psi_2}$
+a3bx,$\boldsymbol{\alpha_3}$
+b3bx,$\boldsymbol{\beta_3}$
+g3bx,$\boldsymbol{\gamma_3}$
+d3bx,$\boldsymbol{\delta_3}$
+e3bx,$\boldsymbol{\epsilon_3}$
+z3bx,$\boldsymbol{\zeta_3}$
+h3bx,$\boldsymbol{\eta_3}$
+q3bx,$\boldsymbol{\theta_3}$
+i3bx,$\boldsymbol{\iota_3}$
+k3bx,$\boldsymbol{\kappa_3}$
+l3bx,$\boldsymbol{\lambda_3}$
+m3bx,$\boldsymbol{\mu_3}$
+n3bx,$\boldsymbol{\nu_3}$
+x3bx,$\boldsymbol{\xi_3}$
+o3bx,$\boldsymbol{\omicron_3}$
+p3bx,$\boldsymbol{\pi_3}$
+r3bx,$\boldsymbol{\rho_3}$
+s3bx,$\boldsymbol{\sigma_3}$
+t3bx,$\boldsymbol{\tau_3}$
+u3bx,$\boldsymbol{\upsilon_3}$
+f3bx,$\boldsymbol{\phi_3}$
+c3bx,$\boldsymbol{\chi_3}$
+y3bx,$\boldsymbol{\psi_3}$
+w3bx,$\boldsymbol{\omega_3}$
+G3bx,$\boldsymbol{\Gamma_3}$
+D3bx,$\boldsymbol{\Delta_3}$
+Q3bx,$\boldsymbol{\Theta_3}$
+L3bx,$\boldsymbol{\Lambda_3}$
+X3bx,$\boldsymbol{\Xi_3}$
+P3bx,$\boldsymbol{\Pi_3}$
+S3bx,$\boldsymbol{\Sigma_3}$
+F3bx,$\boldsymbol{\Phi_3}$
+Y3bx,$\boldsymbol{\Psi_3}$
