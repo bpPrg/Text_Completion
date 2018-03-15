@@ -6,10 +6,13 @@ To use this group of snippets
 - Expand: At "Expand abbreviation" hotkey.
 - Go to Preferences > Hotkeys.
   + Go to the Expand abbreviation.
-  + Keep first four boxes empty.
+  + Select Shift.
   + Press tab for the last box with.
   
-  Note: I have already my snippets for Atom editor. So disable this group for Atom in aText.
   
-  Now whenver we press <tab> the snippet will be auto-completed.
-  Voila!
+  Caveats:
+  ============
+  - If we make only tab as the hotkey, we can not use tab as a regular key in makefile and other cases. 
+  - So make shift-tab as the hotkey.
+  - I have already my snippets for Atom editor. So disable aText all groups for Atom.
+
