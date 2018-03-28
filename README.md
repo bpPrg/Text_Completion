@@ -3,7 +3,8 @@ Text Completion In Mac and Google Chrome
 
 ## Mac Applications
 - aText $5
-  + Activate Built-in-Groups   AutoCorrect Dictionary and delete autocorrect letter i to I. It affects in to In and so on.
+  + Activate Built-in-Groups   AutoCorrect Dictionary.
+  + DO not use autocorrect of i to I. (It has side effects).
 - TextExpander $45
 
 ## Chrome Plugins
