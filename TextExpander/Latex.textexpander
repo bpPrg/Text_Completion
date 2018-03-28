@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupInfo</key>
+	<dict>
+		<key>expandAfterMode</key>
+		<integer>0</integer>
+		<key>groupName</key>
+		<string>Latex</string>
+		<key>notes</key>
+		<string></string>
+	</dict>
+	<key>snippetsTE2</key>
+	<array>
+		<dict>
+			<key>abbreviation</key>
+			<string>sub</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2018-03-28T02:17:11Z</date>
+			<key>label</key>
+			<string>subsection</string>
+			<key>modificationDate</key>
+			<date>2018-03-28T02:52:15Z</date>
+			<key>plainText</key>
+			<string>%
+%
+%#--------------------------------------------------
+%#          Subsection : 
+%#--------------------------------------------------
+%
+%
+\subsection{}\label{subsec:}</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>E45F7985-BCDD-4208-B289-BDF96C17CA4A</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>sec</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2018-03-28T02:17:17Z</date>
+			<key>label</key>
+			<string>section</string>
+			<key>modificationDate</key>
+			<date>2018-03-28T02:52:34Z</date>
+			<key>plainText</key>
+			<string>%
+%
+%#*******************************************************
+%#================================
+%#          Section : 
+%#================================
+%#********************************************************
+%
+%
+\section{}\label{sec:}</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>1DC78495-13EC-4A13-9180-9CF425B2365F</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>fig</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2018-03-28T02:23:23Z</date>
+			<key>label</key>
+			<string>figure</string>
+			<key>modificationDate</key>
+			<date>2018-03-28T02:23:33Z</date>
+			<key>plainText</key>
+			<string>\begin{figure}[ht!]
+    \centering
+    \includegraphics[height=0.5\textwidth]{}
+    \caption[]{}
+    \label{[fig:]}
+\end{figure}</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>E4BDCA8E-0C72-47AF-9EE2-ACA268837EE7</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>fr</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2018-03-28T02:25:42Z</date>
+			<key>label</key>
+			<string>fraction</string>
+			<key>modificationDate</key>
+			<date>2018-03-28T02:25:55Z</date>
+			<key>plainText</key>
+			<string>\frac{}{}</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>EB30A361-9515-485A-96B1-B9B63941C5EE</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>qq</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2018-03-28T02:26:08Z</date>
+			<key>label</key>
+			<string>qqad</string>
+			<key>modificationDate</key>
+			<date>2018-03-28T02:26:23Z</date>
+			<key>plainText</key>
+			<string>\qquad </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>CA14D511-8636-4115-8CFE-79EAAA55BDFB</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dl</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2018-03-28T02:27:04Z</date>
+			<key>label</key>
+			<string>dollars</string>
+			<key>modificationDate</key>
+			<date>2018-03-28T02:27:15Z</date>
+			<key>plainText</key>
+			<string>$$</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>10980B35-309D-4AC7-B5E4-C4DDD4CD43E3</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>sq</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2018-03-28T02:27:31Z</date>
+			<key>label</key>
+			<string>sqrt</string>
+			<key>modificationDate</key>
+			<date>2018-03-28T02:27:37Z</date>
+			<key>plainText</key>
+			<string>\sqrt{}</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>A1DD38EB-73E5-48F7-A129-F74945A26CE0</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>non</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2018-03-28T02:29:14Z</date>
+			<key>label</key>
+			<string>nonumber</string>
+			<key>modificationDate</key>
+			<date>2018-03-28T02:29:28Z</date>
+			<key>plainText</key>
+			<string>\nonumber</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>147CCC77-413B-4E87-B437-E86BB66BFBCB</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>nab</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2018-03-28T02:29:38Z</date>
+			<key>label</key>
+			<string>nabla</string>
+			<key>modificationDate</key>
+			<date>2018-03-28T02:29:47Z</date>
+			<key>plainText</key>
+			<string>\nabla</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>DA90CA06-F08E-4C3B-96CA-9C9083F7921D</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>mat</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2018-03-28T02:30:09Z</date>
+			<key>label</key>
+			<string>matrix</string>
+			<key>modificationDate</key>
+			<date>2018-03-28T02:30:22Z</date>
+			<key>plainText</key>
+			<string>$$
+\begin{matrix}
+   &amp;  \\
+   &amp; 
+\end{matrix}
+$$</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>73B1E171-3022-4C5B-80F2-78839AD95654</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>pmat</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2018-03-28T02:30:38Z</date>
+			<key>label</key>
+			<string>pmatrix</string>
+			<key>modificationDate</key>
+			<date>2018-03-28T02:30:47Z</date>
+			<key>plainText</key>
+			<string>$$
+\begin{pmatrix}
+   &amp;  \\
+   &amp; 
+\end{pmatrix}
+$$</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>4F4896F4-92DE-4596-809F-4D65738F74A4</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>bmat</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2018-03-28T02:30:59Z</date>
+			<key>label</key>
+			<string>bmatrix</string>
+			<key>modificationDate</key>
+			<date>2018-03-28T02:31:12Z</date>
+			<key>plainText</key>
+			<string>$$
+\begin{bmatrix}
+   &amp;  \\
+   &amp; 
+\end{bmatrix}
+$$</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>6808EFDE-530A-404A-8FBF-2E196813A9AD</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>vmat</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2018-03-28T02:31:34Z</date>
+			<key>label</key>
+			<string>vmatrix</string>
+			<key>modificationDate</key>
+			<date>2018-03-28T02:31:45Z</date>
+			<key>plainText</key>
+			<string>$$
+\begin{vmatrix}
+   &amp;  \\
+   &amp; 
+\end{vmatrix}
+$$</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>3430C374-E28D-4F5A-A3B1-D9B014D16FA5</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>msun</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2018-03-28T02:31:49Z</date>
+			<key>label</key>
+			<string>msun</string>
+			<key>modificationDate</key>
+			<date>2018-03-28T02:32:16Z</date>
+			<key>plainText</key>
+			<string>M_{\odot} </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>A91A35D7-887F-4DB3-A917-96DC25D35C65</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>xmsun</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2018-03-28T02:32:36Z</date>
+			<key>label</key>
+			<string>msun dollar</string>
+			<key>modificationDate</key>
+			<date>2018-03-28T02:32:52Z</date>
+			<key>plainText</key>
+			<string>$M_{\odot}$</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>FBBDFFCE-CDE1-43EF-8F29-47BC62FB2579</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>xrsun</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2018-03-28T02:32:56Z</date>
+			<key>label</key>
+			<string>rsun dollar</string>
+			<key>modificationDate</key>
+			<date>2018-03-28T02:33:21Z</date>
+			<key>plainText</key>
+			<string>$R_{\odot}$</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>D227AF70-016F-4AF5-BD78-712C172FB252</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>elst</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2018-03-28T02:33:24Z</date>
+			<key>label</key>
+			<string>easy list</string>
+			<key>modificationDate</key>
+			<date>2018-03-28T02:34:16Z</date>
+			<key>plainText</key>
+			<string>\begin{easylist}
+
+  &amp; {}
+  &amp; {}
+  &amp; {}
+\end{easylist}</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>218E7388-43AE-484A-9932-D9FBA0321CC3</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>ali</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2018-03-28T02:34:21Z</date>
+			<key>label</key>
+			<string>align</string>
+			<key>modificationDate</key>
+			<date>2018-03-28T02:34:39Z</date>
+			<key>plainText</key>
+			<string>\begin{align}\label{[eq:]}
+   &amp; =  \\
+    &amp; =  \nonumber \\
+    &amp; =  \nonumber
+\end{align}</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>4F652135-6FC3-4FEB-AB3F-B338AB8122DF</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>eqa</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2018-03-28T02:34:42Z</date>
+			<key>label</key>
+			<string>eqnarray</string>
+			<key>modificationDate</key>
+			<date>2018-03-28T02:35:13Z</date>
+			<key>plainText</key>
+			<string>\begin{eqnarray}\label{[eq:]}
+     &amp;=&amp;  \\
+     &amp;=&amp;  \nonumber
+\end{eqnarray}</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>166B5414-0AB9-4692-801D-04B50C2CB1EC</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>desc</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2018-03-28T02:35:30Z</date>
+			<key>label</key>
+			<string>description</string>
+			<key>modificationDate</key>
+			<date>2018-03-28T02:35:49Z</date>
+			<key>plainText</key>
+			<string>\begin{description}
+    \item[]
+\end{description}</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>7EAE69B9-1750-4D0E-B475-4BC4106A433D</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>enum</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2018-03-28T02:35:52Z</date>
+			<key>label</key>
+			<string>enumerate</string>
+			<key>modificationDate</key>
+			<date>2018-03-28T02:36:10Z</date>
+			<key>plainText</key>
+			<string>\begin{enumerate}
+    \item 
+\end{enumerate}</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>C0786401-A05F-4F2F-9D18-282C6B2D67B0</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>eqb</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2018-03-28T02:36:13Z</date>
+			<key>label</key>
+			<string>eqnarray aligned</string>
+			<key>modificationDate</key>
+			<date>2018-03-28T02:37:03Z</date>
+			<key>plainText</key>
+			<string>\begin{eqnarray}\label{[eq:]}
+     &amp;=&amp;  \\
+     &amp;=&amp;  \nonumber \\
+     &amp;=&amp;  \nonumber
+\end{eqnarray}</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>CFCF5DA2-E0B7-4C8A-AC14-D0F2B9E941D5</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>subsub</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2018-03-28T02:39:09Z</date>
+			<key>label</key>
+			<string>sub-sub-section</string>
+			<key>modificationDate</key>
+			<date>2018-03-28T02:39:25Z</date>
+			<key>plainText</key>
+			<string>%
+%
+%```````````````````````````````````````````````````````````````````````````````
+%         Subsubsection :
+%```````````````````````````````````````````````````````````````````````````````
+%
+\subsubsection{}\label{subsusb:}</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>0C3F7457-50CE-4997-9D3C-6E95EF5F1407</string>
+		</dict>
+	</array>
+</dict>
+</plist>

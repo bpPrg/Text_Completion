@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupInfo</key>
+	<dict>
+		<key>expandAfterMode</key>
+		<integer>0</integer>
+		<key>groupName</key>
+		<string>Beamer</string>
+		<key>notes</key>
+		<string></string>
+	</dict>
+	<key>snippetsTE2</key>
+	<array>
+		<dict>
+			<key>abbreviation</key>
+			<string>bmtmp</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2018-03-28T02:40:34Z</date>
+			<key>label</key>
+			<string>beamer template</string>
+			<key>modificationDate</key>
+			<date>2018-03-28T02:40:46Z</date>
+			<key>plainText</key>
+			<string>%!TEX
+% Author: Bhishan Poudel
+% Date  : Aug 21, 2017 Mon
+% Topic : Presentation using beamer
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass{beamer}
+\usepackage[utf8]{inputenc}
+\usetheme{Madrid}
+\usecolortheme{default}
+%other packages
+\usepackage{graphicx,subfigure} % For figures
+\graphicspath{ {figures/}{../figures/} } % Put figures inside this directory and use pdf
+\usepackage{amsmath,amssymb}
+\usepackage{fancybox}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,linkcolor=orange,filecolor=magenta,urlcolor=cyan,
+            citecolor=DarkRed }
+%% colored box
+\usepackage{tikz}
+\usetikzlibrary{calc}
+% put color to \boxed math command
+\newcommand*{\boxcolor}{orange}
+\makeatletter
+\renewcommand{\boxed}[1]{\textcolor{\boxcolor}{%
+\tikz[baseline={([yshift=-1ex]current bounding box.center)}] \node [rectangle, minimum
+width=1ex,rounded corners,draw] {\normalcolor\m@th$\displaystyle#1$};}}
+\makeatother
+
+
+
+%------------------------------------------------------------
+%% Title Page
+\title[Astroseminar Fall 2017] %optional
+{Title of  Presentation}
+% \subtitle{Subtitle}
+\author[Poudel, Bhishan] % (optional)
+{~B.~Poudel\inst{1} }
+
+\institute[Ohio University] % (optional)
+{\inst{1}%
+  Department of Physics and Astronomy\\
+  Ohio University
+}
+\date[Aug 21, 2017] % (optional)
+{} % We can write text here
+\logo{\includegraphics[height=1.5cm]{ou.jpeg}}
+
+
+%------------------------------------------------------------
+% Table of Contents
+\AtBeginSection[]
+{
+  \begin{frame}
+    \frametitle{Table of Contents}
+    \tableofcontents[currentsection]
+  \end{frame}
+}
+
+
+%------------------------------------------------------------
+%%%%%%%% Begin of Document%%%%%%%%%%%
+\begin{document}
+\frame{\titlepage}
+\begin{frame}
+\frametitle{Table of Contents}
+\tableofcontents
+\end{frame}
+\section{First section}
+\begin{frame}
+  \frametitle{Example to make text visible using item command}
+  Write text here.
+\end{frame}
+\end{document}</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>A982C71B-9489-4E23-8EB3-D24EA659216D</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>bmfr</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2018-03-28T02:41:30Z</date>
+			<key>label</key>
+			<string>beamer frame</string>
+			<key>modificationDate</key>
+			<date>2018-03-28T02:51:23Z</date>
+			<key>plainText</key>
+			<string>%
+%
+%#--------------------------------------------------
+%#          Frame: 
+%#--------------------------------------------------
+%
+%
+\begin{frame}[fragile]{}
+  
+\end{frame}</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>712E46BD-A6D3-4C40-8163-5008C5394DB0</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>bmeqh</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2018-03-28T02:44:31Z</date>
+			<key>label</key>
+			<string>Beamer Equation Highlight</string>
+			<key>modificationDate</key>
+			<date>2018-03-28T02:44:48Z</date>
+			<key>plainText</key>
+			<string>\begin{frame}
+  \frametitle{}
+  \begin{align}
+    \colorbox{blue!20}{$ x^2 + y^2$} &amp;= 4
+    \end{align}
+\end{frame}</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>1522F4E3-6977-4E2C-924B-A1E643052F8E</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>bmblue</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2018-03-28T02:46:24Z</date>
+			<key>label</key>
+			<string>beamer blue</string>
+			<key>modificationDate</key>
+			<date>2018-03-28T02:46:39Z</date>
+			<key>plainText</key>
+			<string>\begin{block}{Blue Title}
+  Sample text in normal color.
+\end{block}</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>2B63EAC9-FA62-4830-AB6C-890C38B68113</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>bmred</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2018-03-28T02:46:57Z</date>
+			<key>label</key>
+			<string>beamer red</string>
+			<key>modificationDate</key>
+			<date>2018-03-28T02:47:06Z</date>
+			<key>plainText</key>
+			<string>\begin{alertblock}{Red Title}
+  Sample text in normal color.
+\end{alertblock}</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>2467806A-7FC8-4F3F-A669-338390421E9D</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>bmgreen</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2018-03-28T02:47:22Z</date>
+			<key>label</key>
+			<string>beamer green</string>
+			<key>modificationDate</key>
+			<date>2018-03-28T02:47:30Z</date>
+			<key>plainText</key>
+			<string>\begin{examples}
+  "Examples" is fixed as block title.
+\end{examples}</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>4E27EC9B-AA0B-4AA7-B9F3-9BE7A3427745</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>bmarr</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2018-03-28T02:47:37Z</date>
+			<key>label</key>
+			<string>beamer arrow</string>
+			<key>modificationDate</key>
+			<date>2018-03-28T02:48:07Z</date>
+			<key>plainText</key>
+			<string>\begin{frame}
+\frametitle{Using Arrows in tikz}
+  % First page is the equation without arrow
+  \begin{itemize}
+    \item&lt;2-&gt; Overall mean \tikz[na] \node[coordinate] (s1) {};
+    \item&lt;1-&gt;[]{%
+    \begin{equation}
+      y_{ijk} = \tikz[baseline]{ \node[fill=blue!20,anchor=base,rounded corners=2pt]
+              (d1) {$\mu$}; }
+              + \epsilon_{ijk}
+    \end{equation}}%
+  \end{itemize}
+
+  % This part is for arrow overlay equation in next page.
+  \begin{tikzpicture}[overlay]
+  \path&lt;2-&gt;[-&gt;] (s1) edge [bend left] (d1);
+  \end{tikzpicture}
+\end{frame}</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>2F70C79E-17EE-4108-9B4A-71F600A4CD82</string>
+		</dict>
+	</array>
+</dict>
+</plist>
