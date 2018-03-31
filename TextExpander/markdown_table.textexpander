@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupInfo</key>
+	<dict>
+		<key>expandAfterMode</key>
+		<integer>0</integer>
+		<key>groupName</key>
+		<string>AE costumized Markdown table</string>
+	</dict>
+	<key>snippetsTE2</key>
+	<array>
+		<dict>
+			<key>abbreviation</key>
+			<string>mdtab</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-07-25T07:05:39Z</date>
+			<key>label</key>
+			<string>make costumized Markdown table</string>
+			<key>modificationDate</key>
+			<date>2015-07-26T06:27:47Z</date>
+			<key>plainText</key>
+			<string>on textexpander(abbreviation)	# Helmut Hauser	# http://www.worksmartandberemarkable.com	# 	# 16. Jun 2015	#	# for Asian Efficiency	# http://www.asianefficiency.com/				tell application "System Events"		set frontProcessName to name of item 1 of (processes whose frontmost is true)		display dialog "Please enter #rows" default answer "2" buttons {"OK"} default button 1		set nRows to (text returned of result)		display dialog "Please enter #columns" default answer "4" buttons {"OK"} default button 1		set nCols to (text returned of result)			end tell		tell application frontProcessName to activate	delay 0.5				set finalOutput to ""		## ========================================	# produce the the table	# produce first line	## ========================================	repeat nCols times		set finalOutput to finalOutput &amp; "|  "	end repeat	set finalOutput to finalOutput &amp; "|" &amp; return	repeat nCols times		set finalOutput to finalOutput &amp; "|--"	end repeat	set finalOutput to finalOutput &amp; "|" &amp; return	## ========================================		## ========================================	# produce the rest of the table	## ========================================	repeat (nRows - 1) times		repeat nCols times			set finalOutput to finalOutput &amp; "|  "		end repeat		set finalOutput to finalOutput &amp; "|" &amp; return	end repeat	set finalOutput to finalOutput &amp; return			return finalOutputend textexpandere</string>
+			<key>snippetType</key>
+			<integer>2</integer>
+			<key>uuidString</key>
+			<string>E853A861-59C3-4B8C-9BBE-1CBF4FE9DAAE</string>
+		</dict>
+	</array>
+</dict>
+</plist>
