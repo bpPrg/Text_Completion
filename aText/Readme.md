@@ -2,17 +2,15 @@ To use this group of snippets
 ==============================
 - Open aText
 - Data > Import data > load_the_given_Latex.csv
-- Click on the Latex Group.
-- Expand: At "Expand abbreviation" hotkey.
-- Go to Preferences > Hotkeys.
-  + Go to the Expand abbreviation.
-  + Select Shift.
-  + Press tab for the last box with.
-  
   
   Caveats:
   ============
-  - If we make only tab as the hotkey, we can not use tab as a regular key in makefile and other cases. 
-  - So make shift-tab as the hotkey.
-  - I have already my snippets for Atom editor. So disable aText all groups for Atom.
+  - Do dot use tab completion, original tab will be disabled, instead used expand at delimiter. 
+  - There might be unhelpful autocomplete dictionary words. E.g. whic expands to which, but
+    when we type `which`, it will give `whichh`. Delete this snippet.
+    
+    
+ ## My configurations
+ ![aText](aText.png)
+ ![hotkeys](hotkeys.png)
 
