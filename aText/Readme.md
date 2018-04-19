@@ -12,7 +12,9 @@ Caveats:
     
 ## Usage
 ```bash
-Usage:
+We may use aText prefix for latex snippet the symbol l; .
+Now, if we type l;tba it will expand to \boldsymbol{a}.
+
 tba = \boldsymbol{a}
 bay = \boldsymbol{\alpha}
 xxa = $a$
