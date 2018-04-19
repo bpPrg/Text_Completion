@@ -5,20 +5,20 @@ To use this group of snippets
   
   Caveats:
   ============
-  - Do dot use tab completion, original tab will be disabled, instead used expand at delimiter. 
-  - There might be unhelpful autocomplete dictionary words. E.g. whic expands to which, but
-    when we type `which`, it will give `whichh`. Delete this snippet.
+  - Do dot use tab completion, original tab will be disabled, instead use "expand at delimiter". 
+  - Do not use built-in dictionary wildy, it may bite you, eg. whic exapands to which, you can never type 'whichever'.
     
     
- ## Usage
+## Usage
 ```bash
 Usage:
 tba = \boldsymbol{a}
+bay = \boldsymbol{\alpha}
 xxa = $a$
 And so on.
 ```
 
-**Snippets Description:**
+**English Alphabet:**
 ```bash
 Text            A               Bold            Dollar
 -----------------------------------------------------------
@@ -27,7 +27,11 @@ Dollar          xxa             xxba            xxa
 Script          say             say             sayx
 
 tsb = tau script bold
+```
 
+**English Alphabet:**
+
+```bash
 Prefixes_y: Angle, Bold, Partial (a.y b.y p.y)
 Suffixes  : Bar, Prime, Hat, Star, Tilde (b. p. h. s. t.)
 
