@@ -68,8 +68,13 @@ One             a1              a1b             a1x            a1bx
 Two             a2              a2b             a2x            a2bx
 Three           a3              a3b             a3x            a3bx
 
+Prefix with y: PAB
+pay = \partial{\alpha}  Partial
+aay = \langle \alpha \rangle
+bay = \boldsymbol{\alpha}
 
- 
+-------------------------------------------
+Suffix: BP HST MD 0123
 ab = \bar{\alpha}       Bar
 ap = \alpha\prime       Prime
 
