@@ -27,33 +27,60 @@ Bold            tba             tba             tbax
 Dollar          xxa             xxba            xxa
 Script          say             say             sayx
 
-tsb = tau script bold
+
+tba = \boldsymbol{a}
+tbax = $\boldsymbol{a}$
+xxa = $a$
+xxba = $\boldsymbol{a}$ 
+say = \mathscr{A}
+sayx = $\mathscr{A}$
+
+NOTE: tsb = tau script bold
 ```
 
-**English Alphabet:**
+**Greek Alphabet:**
 
 ```bash
-Prefixes_y: Angle, Bold, Partial (a.y b.y p.y)
-Suffixes  : Bar, Prime, Hat, Star, Tilde (b. p. h. s. t.)
+
+Prefix with y: PAB  (Partial, Angle, Bold)
+All Suffixes : BP HST MD 0123
+
+Suffix  : Bar, Prime (BP)
+Suffix  : Hat, Star, Tilde (HST MD 0123)
+Suffix  : Modulus, Dot, 0, 1, 2, 3 (MD 0123)
 
 
 Prefix/Suffix   A               Bold            Dollar         Bold Dollar
 ---------------------------------------------------------------------------
+Partial         pay             paby            payx           pabyx
 Angle           aay             aaby            aayx           aabyx
 Bold            bay             bay             bayx           bayx    
-Partial         pay             paby            payx           pabyx
 ----------------------------------------------------------------------------
-Star            as              asb             asx            asbx
 Bar             ab              abb             abx            abbx
-dot             ad              adb             adx            adbx
 Prime           ap              apb             apx            apbx
 Hat             ah              ahb             ahx            ahbx
+Star            as              asb             asx            asbx
 Tilde           at              atb             atx            atbx
 Modulus         am              amb             amx            ambx
-zero            a0              a0b             a0x            a0bx
-one             a1              a1b             a1x            a1bx
-two             a2              a2b             a2x            a2bx
-three           a3              a3b             a3x            a3bx
+Dot             ad              adb             adx            adbx
+Zero            a0              a0b             a0x            a0bx
+One             a1              a1b             a1x            a1bx
+Two             a2              a2b             a2x            a2bx
+Three           a3              a3b             a3x            a3bx
+
+
+ 
+ab = \bar{\alpha}       Bar
+ap = \alpha\prime       Prime
+
+ah = \hat{\alpha}       Hat
+as = \alpha^*           Star
+at = \tilde{\alpha}     Tilde
+
+am = \lvert\alpha\rvert Modulus
+ad = \dot{\alpha}       Dot
+
+a0 = \alpha_0
 ```
     
  ## My configurations
