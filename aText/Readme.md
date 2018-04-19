@@ -87,8 +87,4 @@ ad = \dot{\alpha}       Dot
 
 a0 = \alpha_0
 ```
-    
- ## My configurations
- ![aText](aText.png)
- ![hotkeys](hotkeys.png)
 
