@@ -1,13 +1,14 @@
-To use this group of snippets
+Importing snippets in aText
 ==============================
-- Open aText
-- Data > Import data > load_the_given_Latex.csv
+```
+Open aText
+Data > Import data > load_the_given_Latex.csv
   
-  Caveats:
-  ============
+Caveats:
+============
   - Do dot use tab completion, original tab will be disabled, instead use "expand at delimiter". 
   - Do not use built-in dictionary wildy, it may bite you, eg. whic exapands to which, you can never type 'whichever'.
-    
+```  
     
 ## Usage
 ```bash
