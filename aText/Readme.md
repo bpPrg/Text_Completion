@@ -1,3 +1,8 @@
+Download aText zip file
+=========================
+[Download zip file](https://github.com/bhishanpdl/TextComplete/blob/master/aText/aText_apr17_2018.zip?raw=true)
+
+
 Importing snippets in aText
 ==============================
 ```
